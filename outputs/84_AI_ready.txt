@@ -1,0 +1,322 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: 84
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: Not found
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). 84. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): N = 159
+SAMPLE CONTEXT: The
+specific design was the cross-sectional design, by means of
+which a sample is drawn from a population at a particular point
+in time (Shaughnessy & Zechmeister, 1997).. Sample 
+The sample includes employees of a corporate pharmacy group
+with 14 retail and 16 hospital pharmacies in the North West
+Province, Free State, Mpumalanga and Gauteng, as well as a
+head office (N = 159).. About
+57% of the sample had some form of post-school education.
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+The NEO-Personality Inventory – Revised and Performance Appraisal Questionnaire were used as measuring instruments. The results showed that Emotional Stability, Extraversion, Openness to Experience and Conscientiousness were related to task performance and creativity. Three personality dimensions explained 28% of the variance inparticipants’ management performance. The NEO-Personality Inventory – Revised is as meet-                instrumente gebruik. Emotional Stability, Openness to Experience and Agreeableness explained 28% of the variance in                participants’ management performance. Drie persoonlikheidsdimensies, naamlik Emosionele Stabiliteit, Ekstroversie and Konsensieusheid, hou. Requests for copies should be addressed to: S Rothmann, Programme in IndustrialPsychology, PU for CHE, Private Bag X6001, Potchefstroom, 2520774. The five personality dimensions seem to be relevant to different cultures.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: personality
+   CATEGORY: personality
+   CONFIDENCE: 1.0
+   CONTEXT: l correlation was 0,38 (15% overlapping
+variance), and the second was 0,13 (2% overlapping 
+variance). With both canonical correlations included, F(10,
+298) = 2,76, p < 0,01. Subsequent F-tests were not statistically
+significant. The first pair of canonical variates, therefore,
+accounted for the significant relationships between the two
+sets of variables. Data on the first pair of canonical variat
+
+2. PREDICTOR: degree
+   CATEGORY: education
+   CONFIDENCE: 1.0
+   CONTEXT: al variate. This pair of canonical variates indicate
+that emotional stability (low Neuroticism) (-0,65), Extraversion
+(0,51), Openness to Experience (0,75) and Conscientiousness
+(0,35) are associated with Task Performance (0,42) and
+Creativity (0,89).    
+The results of a stepwise regression analysis with the Big Five
+personality 
+dimensions 
+as 
+independent 
+variables 
+and
+Management (as measured
+
+3. PREDICTOR: motivation
+   CATEGORY: motivation
+   CONFIDENCE: 1.0
+   CONTEXT: RECOMMENDATIONS
+The results of this study confirm that the pharmaceutical
+company should consider the personality dimensions of 
+their employees when predicting creativity and managerial
+performance during selection and career development.
+However, more research is needed before these results are 
+used to predict job performance because they were not
+obtained in a selection context. Furthermore, b
+
+4. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: Conscientiousness
+(0,35) are associated with Task Performance (0,42) and
+Creativity (0,89).    
+The results of a stepwise regression analysis with the Big Five
+personality 
+dimensions 
+as 
+independent 
+variables 
+and
+Management (as measured by the PAQ) are shown in Table 5.
+THE BIG FIVE PERSONALITY DIMENSIONS
+71
+TABLE 5
+MULTIPLE REGRESSION ANALYSIS REGARDING PERSONALITY
+DIMENSIONS AND MANAGEMENT
+A
+
+5. PREDICTOR: job performance
+   CATEGORY: job_performance
+   CONFIDENCE: 1.0
+   CONTEXT: Secondly, the
+sample consisted largely of females, which implies that the
+results could not be generalised to males. Thirdly, the results
+cannot be generalised to other settings. Lastly, the research
+design does not allow one to determine the direction of the
+relationships obtained. 
+RECOMMENDATIONS
+The results of this study confirm that the pharmaceutical
+company should consider the personality d
+
+6. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: Source of 
+Degrees of
+Sum of
+Mean square
+variance
+freedom
+squares
+R2 = 0,28
+Regression
+8
+4068,75
+813,75
+F = 5,60    f2 = 0,38
+Residual
+73
+10613,12
+145,39
+VARIABLES IN THE EQUATION
+Independent variables Parameter
+Standard 
+F
+p
+error
+Intercept
+32,98
+21,67
+1,52
+0,1324
+Neuroticism
+-0,16
+0,08
+-1,89
+0,0622
+Extraversion
+-0,05
+0,08
+-0,67
+0,5069
+Openness 
+0,29
+0,08
+3,48
+0,0008
+Agreeableness
+0,16
+0,07
+2,15
+
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+CORRELATIONS FOUND:
+  1. VALUE: R = 0
+     CONFIDENCE: 1.0
+     CONTEXT: ow Neuroticism) (-0,65), Extraversion
+(0,51), Openness to Experience (0,75) and Conscientiousness
+(0,35) are associated with Task Performance (0,42) and
+Creativity (0,89).    
+The results of a stepwise regression analysis with the Big Five
+personality 
+dimensions 
+as 
+independent 
+variables 
+and
+Man
+
+  2. VALUE: correlation
+0
+     CONFIDENCE: 1.0
+     CONTEXT: ance set included Task
+Performance and Creativity.
+TABLE 4
+RESULTS OF THE CANONICAL ANALYSIS: PERSONALITY DIMENSIONS
+AND PERFORMANCE
+First Canonical Variate
+Correlation
+Coefficient
+Personality dimensions set
+Neuroticism
+-0,65
+-0,73
+Extraversion
+0,51
+-0,06
+Openness to Experience
+0,75
+0,78
+Agreeablene
+
+  3. VALUE: correlation of 0
+     CONFIDENCE: 1.0
+     CONTEXT: second was 0,13 (2% overlapping 
+variance). With both canonical correlations included, F(10,
+298) = 2,76, p < 0,01. Subsequent F-tests were not statistically
+significant. The first pair of canonical variates, therefore,
+accounted for the significant relationships between the two
+sets of variables. D
+
+P-VALUES: p < 0
+R-SQUARED VALUES: R2 = 0
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Research design 
+A survey design was used to achieve the research objectives. The
+specific design was the cross-sectional design, by means of
+which a sample is drawn from a population at a particular point
+in time (Shaughnessy & Zechmeister, 1997). 
+Sample 
+The sample includes employees of a corporate pharmacy group
+with 14 retail and 16 hospital pharmacies in the North West
+Province, Free State, Mpumalanga and Gauteng, as well as a
+head office (N = 159). The total population of pharmacists (n =
+59) and non-pharmacists (n = 100) was included in the
+empirical study. All pharmacists had a B.Pharm. degree or a
+Diploma in Pharmacy, while the qualifications of non-
+pharmacists varied from Grade 10 to a master’s degree. About
+57% of the sample had some form of post-school education.
+The total population of employees participated in the research.
+Approximately 83% of the sample consisted of females. The
+ages of the participants varied between 18 and 58 years, with
+53% in the age group between
+
+RESULTS SECTION EXCERPT:
+The descriptive statistics of the PAQ for the sample are given in
+Table 1.
+TABLE 1
+DESCRIPTIVE STATISTICS OF THE PAQ
+Item
+Mean
+SD
+Skewness
+Kurtosis
+r (Mean) 
+
+Task Performance
+59,05
+9,87
+-1,03
+1,70
+0,48
+0,88
+Creativity
+57,30
+13,58
+-0,48
+0,15
+0,71
+0,96
+Management
+58,84
+13,67
+-0,50
+-0,45
+0,70
+0,96
+ROTHMANN, COETZER
+70
+Table 1 shows that above average scores were obtained on the
+three dimensions of the PAQ. Regarding skewness and
+kurtosis, it is clear that the results were somewhat skew
+regarding Task Performance. This skewness may be attributed
+to the fact that poor performers on this dimension probably
+left the organisation. Scores on the other dimensions seem to
+be normally distributed. Table 1 shows that high Cronbach
+alpha coefficients were obtained for all the factors (Nunnally
+& Bernstein, 1994). The correlation coefficients between the
+items of scales (0,48  r  0,70) indicate that the items
+correlate too highly (Clark & Watson, 1995). However, this
+should be seen in the context
+
+DISCUSSION SECTION EXCERPT:
+Analysis of the product-moment correlations between
+personality dimensions, task performance and creativity
+showed that no practically significant relationships existed.
+However, the results of the canonical analysis showed that a
+combination of emotional stability (i.e. low Neuroticism),
+Extraversion, Openness to Experience and Conscientiousness
+explained about 15% of the variance in task performance 
+and creativity. 
+It seems that employees who tend towards Neuroticism (i.e. who
+are prone to h
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: personality, degree, motivation, EQ, job performance
+2. Statistics found: 3 correlations, 1 p_values, 1 r_squared, 3 sample_sizes
+3. Medium confidence in original findings extraction
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: medium
+SECTIONS IDENTIFIED: 5
+TABLES FOUND: 0
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 6
+STATISTICS EXTRACTED: 8
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

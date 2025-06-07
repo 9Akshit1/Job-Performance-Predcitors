@@ -1,0 +1,106 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: Paper 3 from page.pdf
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.1109/DT.2017.8024318.
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). Paper 3 from page.pdf. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): Not specified
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+Data mining methods have been used to study a variety of topics in industrial and organizational psychology, including predicting employee performance. Out of 103 studies reviewed, eight studies were retained and used for the meta-analyses. The results suggested that both data mining methods showed good performance in employee performance prediction, although the difference between the overall effect sizes was not statistically significant. The number of employee performance classifications meta-analyzed was 2430. The results suggested that both data mining methods showed good performance in employee performance prediction. The difference between the overall effect sizes was not statistically significant. The theoretical and practical implications were discussed, and recommendations were provided for future research. I would first like to thank my advisor, Dr. Shiyang Su, for her continuous support. I am grateful to Dr. Victoria Pace and Dr. Steve Jex for serving as my  committee members. I would like to extend my thanks to Dani Draper, as you always provide unwavering help throughout my time at the program.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 0.9
+   CONTEXT: studies including theses and dissertations were 
+considered. After the application of exclusion/inclusion criteria, one unpublished study was 
+included in the analysis. For these reasons, it is expected and recommended that the future 
+research would be able to identify more studies in the topic and minimize the effects of 
+publication bias to provide more comprehensive conclusions.   
+The selecti
+
+2. PREDICTOR: performance measure
+   CATEGORY: job_performance
+   CONFIDENCE: 0.9
+   CONTEXT: their 
+practices for presenting the results, creating missing data for the current analysis.  
+Secondly, the lack of information provided in the identified primary studies resulted in 
+certain adjustments being made for the purposes of confidence interval calculations. More 
+specifically, the confusion matrices for multiclass classification models were treated as binary 
+classifiers by combining t
+
+3. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: ing the diverse set of employee samples working at different organizations 
+into account, the thresholds for employees’ performances are expected to vary. This implies 
+that the heterogeneity is inherent among the studies, as a result of the diverse sample 
+characteristics. 
+On the contrary, the heterogeneity for the studies using ANN was extremely small, as 
+suggested by the I² = 0. This can be e
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Not identified
+
+RESULTS SECTION EXCERPT:
+The results of the quantitative analysis revealed promising outcomes, with respect to 
+the performance of DTs and ANNs in employee performance prediction. The pooled DORs, 
+sensitivity and specificity values, and the results of the were in congruence with the previous 
+studies of data mining methods. More specifically, the results suggested there were no 
+statistically significant differences between the overall DORs of DTs and ANNs. 
+The heterogeneity statistics for the two data mining methods were in the two extremes, 
+necessitating further explanations. As indicated by the I² value of 85.46, a high variation was 
+apparent between the studies using DT methods. One potential explanation of such a high 
+heterogeneity might be lying under the fact that different studies used different algorithms of 
+DT. More specifically, the DT algorithms that were used included CART (Agaoglu, 2016; 
+Mellisa, 2019), C4.5 (Kirimi & Moturi, 2016; Nedelcu et al., 2020; Rajesh, 2017; Wagh, 
+2010), and C5.0
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: EQ, performance measure, AC
+2. Low statistical content found
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: low
+SECTIONS IDENTIFIED: 4
+TABLES FOUND: 0
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 3
+STATISTICS EXTRACTED: 0
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

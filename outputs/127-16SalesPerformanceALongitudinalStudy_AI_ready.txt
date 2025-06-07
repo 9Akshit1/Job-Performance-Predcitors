@@ -1,0 +1,236 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: 127 16SalesPerformanceALongitudinalStudy
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.1037/0021-9010.83.4.586
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). 127 16SalesPerformanceALongitudinalStudy. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: objective
+SAMPLE SIZE (N): n=15
+SAMPLE CONTEXT: Participants and Procedures 
+Incumbent Sample.. A sample of 124 incumbent sales 
+people (52% male) from a national office product retailer 
+was used in this present study.. Subsequently, the sample size decreased over 
+time.
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+Table 1 presents the means, standard deviations and                 intercorrelations among the personality and cognitive ability measures collected at end of year 2007 for 129 sales people. Correlations corrected                 for range restriction and criteria unreliability are also reported in Table 4. Table 3 presents the assessment validity of the test battery in predicting objective sales metrics. Correlations corrected                 for range restriction and criteria unreliability are also reported in Table 4. An estimate of .85 was used for criteria                 unreliability as this represents a very conservative estimate                 of measurement errors. All predictors were significantly and positively correlated to sales attainment in 2008. The strongest relationship was found for achievement orientation. For the profit margin metric, only cognitive ability was significantly related to sales performance. As shown in Table 7 and 8,                             cognitive ability was significantly and po
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: cognitive ability
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 1.0
+   CONTEXT: othesis. This study adds to the research literature on predictors of 
+sales performance and provides much needed research 
+examining the extent to which these variables are 
+capable of predicting performance over time. To our 
+knowledge, this is the first study to look at both cognitive 
+ability and personality predictors, using an applied sales 
+sample, with longitudinal data for the individuals 
+
+2. PREDICTOR: personality
+   CATEGORY: personality
+   CONFIDENCE: 1.0
+   CONTEXT: s were also evaluated for significance using a 
+formula developed by Raju and Brand (2003) for correlations 
+corrected for unreliability and range restriction. 
+As illustrated in Table 3 and 4, except for outgoing, all 
+predictors were significantly and positively correlated to 
+sales attainment in 2008; the strongest relationship was 
+found for achievement orientation (observed r = .19, 
+correcte
+
+3. PREDICTOR: tenure
+   CATEGORY: work_experience
+   CONFIDENCE: 1.0
+   CONTEXT: . Although the 
+relationship with cognitive ability dissipated in 
+subsequent years, supporting Murphy’s model, the 
+relationship with personality did not provide a clear 
+pattern of results by which we can make strong 
+conclusions. Thus, our longitudinal results are not directly 
+in line with Thoresen et.al (2004) with regard to 
+personality. They found that extraversion and 
+conscientiousness we
+
+4. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: tigating Predictors of Sales Performance: A Longitudinal Study 
+ 
+year.  The strength of the relationship, however, seems to 
+increase over time.  
+ 
+These results provide support for Hypothesis 1a 
+that cognitive ability is significantly related to early sales 
+performance. The results provide partial support for 
+Hypothesis 2a by showing significant relationships for the 
+extraversion competency
+
+5. PREDICTOR: performance criteria
+   CATEGORY: job_performance
+   CONFIDENCE: 0.91
+   CONTEXT: and sales performance over time. 
+Limitations & Future Directions 
+One of the major limitations of this study was data attrition; 
+only forty percent of sample was retained after four years.  
+Although this is probably expected for data collected in 
+applied settings, it prohibits us from drawing strong 
+conclusions or using more robust statistical tests to examine 
+the hypotheses.  It is possible
+
+6. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: and thus it would seem does not support our 
+hypothesis. This study adds to the research literature on predictors of 
+sales performance and provides much needed research 
+examining the extent to which these variables are 
+capable of predicting performance over time. To our 
+knowledge, this is the first study to look at both cognitive 
+ability and personality predictors, using an applied sales 
+sam
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+CORRELATIONS FOUND:
+  1. VALUE: r = .22
+     CONFIDENCE: 1.0
+     CONTEXT: significance using a 
+formula developed by Raju and Brand (2003) for correlations 
+corrected for unreliability and range restriction. 
+As illustrated in Table 3 and 4, except for outgoing, all 
+predictors were significantly and positively correlated to 
+sales attainment in 2008; the strongest relati
+
+  2. VALUE: r = .23
+     CONFIDENCE: 1.0
+     CONTEXT: a 
+formula developed by Raju and Brand (2003) for correlations 
+corrected for unreliability and range restriction. 
+As illustrated in Table 3 and 4, except for outgoing, all 
+predictors were significantly and positively correlated to 
+sales attainment in 2008; the strongest relationship was 
+found f
+
+  3. VALUE: r = .16
+     CONFIDENCE: 1.0
+     CONTEXT: y cognitive ability was significantly 
+related (observed r = .22, corrected r = .23).   
+Next, we examined the relationship between personality 
+and cognitive ability with sales performance in the applicant 
+sample.  Table 5 and 6 presents the descriptive and inter-
+correlations; Table 7 and 8 prese
+
+  4. VALUE: r = .19
+     CONFIDENCE: 1.0
+     CONTEXT: was significantly 
+related (observed r = .22, corrected r = .23).   
+Next, we examined the relationship between personality 
+and cognitive ability with sales performance in the applicant 
+sample.  Table 5 and 6 presents the descriptive and inter-
+correlations; Table 7 and 8 present the observed and 
+
+  5. VALUE: r = .45
+     CONFIDENCE: 1.0
+     CONTEXT: own turn in 2009 could arguably 
+have affected how easily even the best salesperson could 
+meet his or her goal. Inspecting the relationship between 
+the same metric over time affirms this concern.  
+Interestingly, the sales attainment in 2008 had no 
+relationship with sales attainment in 2009 and 2
+
+P-VALUES: p<.01, α =.88, α 
+=.87
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Participants and Procedures 
+Incumbent Sample.  A sample of 124 incumbent sales 
+people (52% male) from a national office product retailer 
+was used in this present study.  The target position is a 
+business to business consultative sales role.  All 
+individuals completed a sales assessment test battery in 
+December of 2007 as part of a concurrent validation 
+research study examining the assessment validity. The 
+ethnic distribution was 82% White/Caucasian, 7% 
+Black/African American, 6% Hispanic, 4% Asian. The 
+organizational tenure ranged from 14 months to 29 years 
+(M=8.29 years, SD=6.18 years).   
+ Archival annual sales performance metrics were 
+subsequently obtained for four years following the initial 
+testing (years 2008, 2009, 2010, and 2011). As expected, 
+data attrition occurred as some individuals were no longer 
+employed by the organization, moved to a significantly 
+different type of job within the organization, or other 
+reasons.  Subsequently, the sample size decreased o
+
+RESULTS SECTION EXCERPT:
+We first analyzed the incumbent data. The results from 
+this sample represent test validity in the maintenance 
+phase.  Table 1 presents the means, standard deviations and 
+intercorrelations among the personality and cognitive ability 
+measures collected at end of year 2007 for 129 sales people.  
+Table 2 presents the means, standard deviations, and 
+intercorrelations among objective performance metrics 
+from year 2008 to year 2011.  As mentioned earlier, data 
+attrition resulted in smaller sample sizes for subsequent 
+years with sample size ranged from 80 to 52.   
+Table 3 presents the assessment validity of the test battery 
+in predicting objective sales metrics.  Correlations corrected 
+for range restriction and criteria unreliability are also 
+reported in Table 4.  An estimate of .85 was used for criteria 
+unreliability as this represents a very conservative estimate 
+of measurement errors by Hunter and Schmidt (1990) and 
+has been utilized in previous meta-analytic studies with 
+o
+
+DISCUSSION SECTION EXCERPT:
+This study adds to the research literature on predictors of 
+sales performance and provides much needed research 
+examining the extent to which these variables are 
+capable of predicting performance over time. To our 
+knowledge, this is the first study to look at both cognitive 
+ability and personality predictors, using an applied sales 
+sample, with longitudinal data for the individuals over the 
+course of several years. Our results replicated previous 
+findings by showing significant predictio
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: cognitive ability, personality, tenure, EQ, performance criteria
+2. Statistics found: 5 correlations, 3 p_values, 9 sample_sizes
+3. High confidence in original findings extraction
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: high
+SECTIONS IDENTIFIED: 5
+TABLES FOUND: 3
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 6
+STATISTICS EXTRACTED: 17
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

@@ -1,0 +1,96 @@
+{
+  "PAPER_METADATA": {
+    "title": "The Use of Technologies in the Recruiting Screenin",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1111/1468-2389.00234",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). The Use of Technologies in the Recruiting Screenin. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "cross_sectional",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "5000\nemployees",
+    "sample_context": "These professionals were sampled from\nmembers of the Society for Human Resource Management\n(SHRM) who had indicated that they were at the corporate\nlevel (as opposed to branch or regional level) and listed\n‘Employment/Recruitment’ as their primary function."
+  },
+  "PAPER_SUMMARY": "The respondents were a fairly well educated group with 63.3% possessing a bachelor’s degree. The typical respondent described their position in Human Resources as: manager. The respondents worked in organiza-                tions that ranged in size from less than 100 to over 5000. The typical respondent described their position in Human Resources as: manager (43.3%), other (22.7%), director (12.4%), president (5.1%), vice president (4.1%) and assistant manager (2.1%). The respondents were a fairly well educated group with 63.3% possessing a bachelor’s degree, 11.7% aBA, 10.6% some college work, and 1.1% a doctorate. Most frequent age group was 30–39 (36.6%) followed by 40–49 (21.5%) and 50–59 (15.1%) In addition, the majority of participants was 71.6% female (71.6%).Technologies used by Function and Organizational Level (Functional) and Level of Experience (Level of Experience) HR managers used various media to advertise their positions.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "cognitive ability",
+      "context": "he first argument is that the use of\ntechnology appears to be very successful in generating\napplicants (although not always the right ones) suggesting\nthat applicants are comfortable enough to use the\ntechnology when it is provided. The second argument is\nthat, while a larger number of applicants may result,\nultimately, a more efficient screening system may permit\nmore ’face time’ with the best ap",
+      "confidence": 0.7
+    },
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "ned out.\nWhat about Cheating? Organizations identified a hurdle\nto using online applications, particularly for using compu-\nter-based testing for cognitive ability, knowledge, etc. – that\nis, the problem of ensuring that the individual sitting at the\ncomputer is really the applicant and not a local rocket\nscientist hired to take the test for the applicant. Further,\nemployers worried about placing ",
+      "confidence": 0.7
+    },
+    {
+      "category": "education",
+      "predictor": "education",
+      "context": "he organization, choosing from six categories that\nmatched the SHRM membership database (i.e., less than\n100; 100–499; 500–999, 1000–2499, 2500–4999, 5000\nand above). Another item asked respondents to estimate\nthe number of employees in five years’ time to get an\nestimate of the organization’s growth rate. The job title of\nthe person completing the survey was captured by choosing\nfrom 12 categorie",
+      "confidence": 0.7
+    },
+    {
+      "category": "skills",
+      "predictor": "abilities",
+      "context": "hurdle\nto using online applications, particularly for using compu-\nter-based testing for cognitive ability, knowledge, etc. – that\nis, the problem of ensuring that the individual sitting at the\ncomputer is really the applicant and not a local rocket\nscientist hired to take the test for the applicant. Further,\nemployers worried about placing proprietary tests online as\nthey might be copied by compe",
+      "confidence": 0.7
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "her organizational image predicted future\ninvestment in HR technology we first subjected the 16\norganizational image items to a principal components\nfactor analysis with orthogonal rotation. This yielded two\norganizational image factors including: (a) People Orienta-\ntion, 11 items, alpha 5 .97, (e.g., ‘respect for people’,\n‘people orientation’, ‘well-managed’, ‘an excellent employ-\ner’) and (b) D",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "gh adopting these technologies.\nFor example, it is important to know whether HR\nmanagers are realizing the benefits they envisioned when\nthey purchased these technologies.\nAlthough technology is rapidly changing the Human\nResource function in many organizations, we know little\nabout whether adopting these technologies has provided\nsolutions to HR problems. Although anecdotes are readily\navailable,",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 1,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "This study consisted of a web-based survey administered to\na broad subset of HR managers who were members of the\nSociety for Human Resource Management (SHRM).\nBefore conducting the survey, we conducted in-depth\ninterviews with six senior HR personnel from some of the\nworld’s largest and most influential companies. These\ninterviews allowed us to discover the types of technologies\nused in leading companies and to identify critical issues\nrelated to technologies.\nIn February 2001, we designed the web-based survey to\nassess HR professionals’ use of technologies with job\ncandidates. To minimize the influence of priming effects,\ntwo versions of the survey were created by counter-\nbalancing the order of data collected. The survey collected\na wide variety of data from HR professionals representing\n125 organizations. These professionals were sampled from\nmembers of the Society for Human Resource Management\n(SHRM) who had indicated that they were at the corporate\nlevel (as opposed to branch or r",
+    "results_section": "Approximately 75% of the respondents completed the\ndemographic characteristics. They represented a wide\nvariety of organizations in many industries, including ‘for\nprofit services’ industry (20.4%), other (18.3%), manu-\nfacturing durables (12.9%), and utilities (9.7%), with the\nremaining organizations spread over the other industries\nlisted in the survey. The respondents worked in organiza-\ntions that ranged in size from less than 100 to over 5000:\nthe largest group came from organizations exceeding 5000\nemployees (23.7%), followed by 100–499 employees\n(21.6%), 500–999 (15.5%), o100 (15.5%), 1000–2499\n(13.4%), and 2500–4999 (10.3%). The typical respondent\ndescribed their position in Human Resources as: manager\n(43.3%), other (22.7%), director (12.4%), president\n(5.1%), vice president (4.1%), consultant (4.1%), super-\nvisor (3.1%), administrator (3.1%), and assistant manager\n(2.1%). The respondents were a fairly well educated group\nwith 63.3% possessing a bachelor’s degree, 11.7% an\nMBA",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: cognitive ability, personality, education, abilities, EQ",
+    "Statistics found: 4 sample_sizes",
+    "Low statistical content found"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 4,
+    "tables_found": 1,
+    "statistical_tables": 0,
+    "predictors_identified": 6,
+    "statistics_extracted": 4,
+    "confidence_level": "low"
+  }
+}

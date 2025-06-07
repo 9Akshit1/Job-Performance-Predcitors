@@ -1,0 +1,193 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: The Role of Lifetime Exposures across Cognitive Domains in Barbados Using Data From the SABE Study
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.1002/alz.12638
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). The Role of Lifetime Exposures across Cognitive Domains in Barbados Using Data From the SABE Study. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): N = 897
+SAMPLE CONTEXT: The sample collected in Barbados was collected through a multi-stage stratified
+cluster sampling approach.. First, using the national election registry, a random sample of
+households was selected.. The present study sample included 1325 older adults with no measured cognitive
+deterioration and complete data.
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+This study characterized the effects of aging on individual cognitive domains and how sex, jobtype, and years of education alter the age effect on older adults from Barbados. Results demonstrated that theeffect of age differed across the cognitive domains. The most consistent finding was that high years ofEducation coupled with employment requ requirment. The study aimed to identify which factors altered the effect of age on cognitive performance. Results demonstrated that the effects of age differed across the cognitive domains. High years of education coupled with employment requiring mostly mental effort was the best combination for maintaining high levels of cognitive performance inlate life. The results demonstrate that adverse age effects on cognitive performance may be minimized or delayed through modifiable lifetime exposures in the people of Barbados. The study found thatiring mostly mental effort was the best combination for maintaining high levels of cognitive performance in late life.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: cognitive performance
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 0.9
+   CONTEXT: physical effort type job. For job type, the estimated odds ratio favored a
+decrease of 46.0% (95% CI: 0.324, 0.900) probability of losing one point on the digit span
+questions when having a mixed effort job compared to a physical effort type job.
+20
+Figure 6. Probability of losing one point on the circle drawing task. Panel A shows the variability
+across years of education, B) across job types, C)
+
+2. PREDICTOR: education
+   CATEGORY: education
+   CONFIDENCE: 0.91
+   CONTEXT: r each cognitive domain using the Jamovi
+v1.6 software package (Jonathon Love, 2019). A priori tests of the linearity of the continuous
+predictor variables, education, and age, were tested using the Box-Tidwell test (Box & Tidwell,
+1962). In addition, collinearity statistics were assessed for any collinearity between the predictors
+in the models. The continuous variables were mean-centered to remo
+
+3. PREDICTOR: abilities
+   CATEGORY: skills
+   CONFIDENCE: 1.0
+   CONTEXT: l., 1975). A World Health Organization developed this shortened version
+5
+using regression analysis to identify the questions that best explain cognitive deterioration (Icaza
+& Albala, 1999). The MMSE consists of six domains: orientation assessed with questions about
+the time (four points), immediate memory recall of three words (three points), working
+memory assessed with a reverse digit span of 
+
+4. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 0.9
+   CONTEXT: ge, years of education, job type, and sex. The
+mean age was 71.82 years, with a standard deviation of 7.81 years and a range of 60 to 97 years.
+The mean years of education were 5.39 years, with a standard deviation of 3.44 years and a range
+of 0 to 20. There were multiple modes in the data, with 25 people having zero years of education,
+112 having one year, 318 having three years, 529 having five 
+
+5. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: the age effect on older adults from Barbados. Data
+The cross-sectional data for this study are from the Survey on Health, Well-Being and
+Ageing (SABE) in Latin America and the Caribbean (Pelaez et al., 2006). The SABE is a
+multi-city study conducted in seven Latin American and Caribbean cities, including Bridgetown,
+Barbados. The sample collected in Barbados was collected through a multi-stage str
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+P-VALUES: p<.10, p<.05, p<.01, p<.001, p = 0.981
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+TABLE 2 (Page 5) - TYPE: descriptive_statistics
+TABLE CONTENT:
+                The present study sample included 1325 older adults with no measured cognitive The present study sample included 1325 older adults with no measured cognitive
+0  deterioration and complete data. Complete data means each participant had values for age in                                                                           None
+1                                                                                                                                                                        None
+2    years, job type, sex, education in years, and scores on the Mini-Mental State Exam (MMSE)                                                                           None
+3                                                                                                                                                                        None
+4    (Folstein et al., 1975). Missingdata included:44for MMSE,13for education, and76for thejob                                                                           None
+5                                                                                                                                                                        None
+6  type. As in the original study, cognitive deterioration is an MMSE score of 12 or below and                                                                           None
+7                                                                                                                                                                        None
+8                                                               accounted for 55 participants.                                                                           None
+------------------------------
+
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Data
+The cross-sectional data for this study are from the Survey on Health, Well-Being and
+Ageing (SABE) in Latin America and the Caribbean (Pelaez et al., 2006). The SABE is a
+multi-city study conducted in seven Latin American and Caribbean cities, including Bridgetown,
+Barbados. The sample collected in Barbados was collected through a multi-stage stratified
+cluster sampling approach. First, using the national election registry, a random sample of
+households was selected. One individual aged 60 years and older was selected and interviewed
+within each household. Of the 1,878 households identified with a person above sixty, there was
+an 80% response rate, with 1,508 interviews conducted. The interview assessed cognitive
+abilities, sociodemographics, household characteristics, health and functional status, health care
+utilization, and anthropometry.
+The present study sample included 1325 older adults with no measured cognitive
+deterioration and complete data. Complete data means each par
+
+RESULTS SECTION EXCERPT:
+Table 1 shows the number of participants with scores at the maximum for each cognitive
+domain and the number that had lost one point for that domain.
+Table 1. Sample sizes per domain for those with maximum scores and having had lost one point
+7
+N at Max Score
+N who Lost
+One Point
+Max Value
+Orient
+1172
+133
+4
+Immediate Recall
+1312
+12
+3
+Digit Span
+976
+154
+5
+Paper
+1249
+66
+3
+Delayed Recall
+844
+312
+3
+Circle
+1177
+148
+1
+MMSE Total
+569
+287
+19
+Table 2 shows the results from the six binomial logistic regression models. A brief
+description of the overall results is provided here, followed by detailed results for each cognitive
+domain. The model predicting paper was the only domain where the model, including the
+interaction terms, was significant. The models predicting orientation, digit span, delayed recall,
+and circle drawing were significant, including age and lifetime exposure variables. No model
+was significant when predicting immediate recall.
+8
+Table 2. Logistic regression parameter estimate
+
+DISCUSSION SECTION EXCERPT:
+The results of this study demonstrate that age, education, job type, and sex all differ in
+21
+their impact on cognitive performance. Advancing age consistently negatively affected task
+performance, which differed in its magnitude across the cognitive domains. Greater education
+demonstrated positive, negative, and no effects. Greater engagement in mental effort during work
+demonstrated consistent positive benefits compared to jobs relying more on physical effort. Sex
+displayed significant effects
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: cognitive performance, education, abilities, EQ, AC
+2. Statistics found: 11 p_values, 4 sample_sizes
+3. Statistical tables: descriptive_statistics
+4. High confidence in original findings extraction
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: high
+SECTIONS IDENTIFIED: 7
+TABLES FOUND: 2
+STATISTICAL TABLES: 1
+PREDICTORS IDENTIFIED: 5
+STATISTICS EXTRACTED: 15
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

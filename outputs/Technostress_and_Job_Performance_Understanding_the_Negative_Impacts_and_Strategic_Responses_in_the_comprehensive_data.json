@@ -1,0 +1,285 @@
+{
+  "PAPER_METADATA": {
+    "title": "Technostress and Job Performance Understanding the Negative Impacts and Strategic Responses in the",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1007/s13520-022-00145-2",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). Technostress and Job Performance Understanding the Negative Impacts and Strategic Responses in the. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "Sample size \n247",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The study delves into the increasingly pertinent issue of technostress in the workplace. It highlights how technostressed manifests in different forms – from anxiety and frustration due to constant connectivity to the pressure of adapting to new technologies. The paper also explores the dual role of technology as both a facilitator and a hindrance. The study examines the experiences of employees from diverse sectors. It highlights how technostress manifests in different forms – from anxiety and frustration to the pressure of adapting to new technologies. The paper also explores the dual role of technology as both a facilitator and a hindrance in the workplace. Technostress leads to decreased productivity, diminished job satisfaction, and increased turnover intentions. Strategic interventions, such as training programs, and fostering a positive technological culture, can mitigate these negative effects. These interventions not only help in managing technostress but also in harnessing the potential of technology for enhanced job performance.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "kill, experience, \nand competence) a person has to do tasks and how much willingness (motivation, interest, \ncommitment, and trust) they have to perform those tasks. It is believed that job performance \nencompasses two components: the first is task performance, which reflects the needs and \nrequirements of the job, and the second is contextual performance, which includes undefined \nand unspecified",
+      "confidence": 0.51
+    },
+    {
+      "category": "work_experience",
+      "predictor": "work experience",
+      "context": "p according to gender, educational \nlevel, and years of service are presented in Table (2). As indicated in Table 2, the highest \nfrequency of the study sample in terms of gender is male, in terms of educational level is a \nbachelor's degree, in terms of years of service is 5-9 years, and in terms of age is 31-39 years. \nTable 2: Frequency and Percentage of Research Sample Group \nVariable \nSubgrou",
+      "confidence": 0.9
+    },
+    {
+      "category": "education",
+      "predictor": "university",
+      "context": "was also \nutilized. Since this research involved a sample from the population and the data was based \non a five-point Likert scale ranging from \"strongly disagree\" to \"strongly agree,\" scoring was \ncalculated from 1 to 5. After collection, the data from the questionnaires were transferred to \nSPSS software version 20 for raw data sheets and analyzed using descriptive statistics \n(frequency, percen",
+      "confidence": 0.8
+    },
+    {
+      "category": "skills",
+      "predictor": "skills",
+      "context": "nd assistance to employees for using \nnew technology and during times of \ncrisis and significant challenges. The \ntechnical support system must be \naccessible to employees, ready to \nrespond at any required time during \nworking hours, and consist of \nknowledgeable and experienced \nindividuals. \n- Increases employee satisfaction \nand prevents work disruptions. \n- Reduces the feeling of \ntechnology ",
+      "confidence": 0.7
+    },
+    {
+      "category": "motivation",
+      "predictor": "motivation",
+      "context": "vity in society and leads to the improvement of the national \neconomy, as well as the quality of services and production of organizations. Job performance \nis the degree to which an individual performs assigned duties in their role. Performance is \ndefined as activities that are typically part of the job and activities that the individual should \nperform. Factors such as individual capability and ",
+      "confidence": 0.6
+    },
+    {
+      "category": "teamwork",
+      "predictor": "collaboration",
+      "context": "on improving affective and normative commitment can be especially beneficial in alleviating \nthe negative psychological impacts linked with the pervasive presence of technology (Bai & \nVahedian, 2023). \nTable 10 provides practical suggestions for each dimension of technostress to control its \nnegative effects. \nRecommendations: Table 10 \nSection \nRecommendations \nOutcome \nTraining \n- Training for ",
+      "confidence": 0.7
+    },
+    {
+      "category": "communication",
+      "predictor": "communication",
+      "context": "& Wesolkowski, 1999; Tarafdar et al., 2007). \nComponents of Technostress (Tarafdar et al., 2007): Table 1 \nTechnostress Components \nState \nTechnology-Induced Overload \nA condition in which an individual is forced to work faster \nand for more extended periods due to technology. \nTechnology Invasion \nA condition where employees feel they can be kept \nconnected to work at any time or continuously, re",
+      "confidence": 0.6
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "egree \n31 \nBachelor's Degree \n92 \nMaster's Degree \n86 \nDoctorate \n15 \nWork Experience \n1 to 4 years \n55 \n5 to 9 years \n76 \n10 to 14 years \n47 \n15 to 19 years \n29 \n20 to 40 years \n17 \n \nPearson Correlation Test (Main Hypothesis): Table 3 \n \n \nTechnostress Job Performance \nTechnostress \nPearson Correlation Coefficient \n1 \n-0.94 \nSignificance Level \n \n.000 \nSample size \n247 \n247 \nJob Performance \nPea",
+      "confidence": 0.9
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "e, in terms of educational level is a \nbachelor's degree, in terms of years of service is 5-9 years, and in terms of age is 31-39 years. \nTable 2: Frequency and Percentage of Research Sample Group \nVariable \nSubgroups \nFrequency \nGender \n \nMale \n95 \nFemale \n52 \nAge \n22 to 30 \n71 \n31 to 39 \n96 \n40 to 48 \n38 \n49 to 57 \n19 \nEducation \nAssociate degree \n31 \nBachelor's Degree \n92 \nMaster's Degree \n86 \n",
+      "confidence": 0.9
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "at two types of role stressors, namely role ambiguity and role conflict, \nhave a negative relationship with organizational commitment. \n• Gaiter and colleagues (2008), using structural equation modeling, examined the \nrelationship between the organizational environment, work-family conflict, job \nstress, personal characteristics, job satisfaction, and organizational commitment \namong pharmacists i",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [
+      {
+        "value": "Correlation Coefficient \n1",
+        "context": "able 2: Frequency and Percentage of Research Sample Group \nVariable \nSubgroups \nFrequency \nGender \n \nMale \n95 \nFemale \n52 \nAge \n22 to 30 \n71 \n31 to 39 \n96 \n40 to 48 \n38 \n49 to 57 \n19 \nEducation \nAssociate degree \n31 \nBachelor's Degree \n92 \nMaster's Degree \n86 \nDoctorate \n15 \nWork Experience \n1 to 4 ",
+        "confidence": 1.0
+      },
+      {
+        "value": "Correlation Coefficient \n-0.94",
+        "context": "Female \n52 \nAge \n22 to 30 \n71 \n31 to 39 \n96 \n40 to 48 \n38 \n49 to 57 \n19 \nEducation \nAssociate degree \n31 \nBachelor's Degree \n92 \nMaster's Degree \n86 \nDoctorate \n15 \nWork Experience \n1 to 4 years \n55 \n5 to 9 years \n76 \n10 to 14 years \n47 \n15 to 19 years \n29 \n20 to 40 years \n17 \n \nPearson Correlation ",
+        "confidence": 1.0
+      },
+      {
+        "value": "Correlation \nCoefficient \n1",
+        "context": "dicate that the significance \nlevel is equal to zero and less than 0.05, which denotes a significant relationship between \ntechnostress and job performance; hence, the main hypothesis of the research is confirmed. \nAdditionally, the Pearson correlation coefficient is (-0.940), which suggests a signi",
+        "confidence": 1.0
+      },
+      {
+        "value": "Correlation \nCoefficient \n-0.860",
+        "context": "echnostress and job performance; hence, the main hypothesis of the research is confirmed. \nAdditionally, the Pearson correlation coefficient is (-0.940), which suggests a significant \nnegative effect of technostress on job performance. \nPearson Correlation Test (First Subsidiary Hypothesis): Table 4",
+        "confidence": 1.0
+      },
+      {
+        "value": "Correlation \nCoefficient \n-0.890",
+        "context": "job performance, thereby confirming the first subsidiary \nhypothesis of the study. Additionally, the Pearson correlation coefficient is (-0.860), which \ndenotes a significant negative impact of technology uncertainty on job performance. \nPearson Correlation Test (Second Subsidiary Hypothesis): Table",
+        "confidence": 1.0
+      },
+      {
+        "value": "Correlation \nCoefficient \n-0.913",
+        "context": "ob performance, thus confirming the second subsidiary \nhypothesis of the study. Furthermore, the Pearson correlation coefficient is (-0.890), \nindicating a significant negative effect of technology-induced insecurity on job performance. \nPearson Correlation Test (Second Subsidiary Hypothesis): Table",
+        "confidence": 1.0
+      },
+      {
+        "value": "Correlation \nCoefficient \n-0.838",
+        "context": "y complexity and job performance, thereby confirming the third subsidiary \nhypothesis of the study. Additionally, the Pearson correlation coefficient is (-0.913), \nindicating a significant negative impact of technology complexity on job performance. \nPearson Correlation Test (Second Subsidiary Hypot",
+        "confidence": 1.0
+      },
+      {
+        "value": "Correlation \nCoefficient \n-0.882",
+        "context": "b performance, thus confirming the fourth subsidiary hypothesis of the research. \nMoreover, the Pearson correlation coefficient is (-0.838), which points to a significant \nnegative effect of technology invasion on job performance. \nPearson Correlation Test (Second Subsidiary Hypothesis): Table 8 \n \n",
+        "confidence": 1.0
+      }
+    ],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 3,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 6,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 6,
+      "table_index": 2,
+      "table_type": "correlation_matrix",
+      "contains_statistics": true,
+      "table_content": "                                                                                           Technostress              Job Performance      \n0     Technostress  Technostress  None  Pearson Correlation Coefficient  None  None      1         None  None  -0.94            None  None\n1             None          None  None               Significance Level  None  None                None  None   .000            None  None\n2             None          None  None                      Sample size  None  None    247         None  None    247            None  None\n3  Job Performance          None  None  Pearson Correlation Coefficient  None  None  -0.94         None  None      1            None  None\n4             None          None  None               Significance Level  None  None   .000         None  None                   None  None\n5             None          None  None                      Sample size  None  None    247         None  None    247            None  None",
+      "statistical_summary": []
+    },
+    {
+      "page": 6,
+      "table_index": 3,
+      "table_type": "correlation_matrix",
+      "contains_statistics": true,
+      "table_content": "                                                                Job Performance         Technological      \n0                        None                              None            None    None   Uncertainty  None\n1             Job Performance  Pearson Correlation\\nCoefficient               1  -0.860          None  None\n2                        None                Significance Level                    .000          None  None\n3                        None                       Sample size             247     247          None  None\n4  Technological\\nUncertainty  Pearson Correlation\\nCoefficient          -0.860       1          None  None\n5                        None                Significance Level            .000                  None  None",
+      "statistical_summary": [
+        {
+          "type": "sample_size",
+          "values": [
+            "sample size             247"
+          ],
+          "pattern": "sample\\s+size\\s+(?:of\\s+)?[\\d,]+"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "table_index": 2,
+      "table_type": "correlation_matrix",
+      "contains_statistics": true,
+      "table_content": "                                                               Job Performance         Technological      \n0                       None                              None            None    None    Insecurity  None\n1            Job Performance  Pearson Correlation\\nCoefficient               1  -0.890          None  None\n2                       None                Significance Level                    .000          None  None\n3                       None                       Sample size             247     247          None  None\n4  Technological\\nInsecurity  Pearson Correlation\\nCoefficient          -0.890       1          None  None\n5                       None                Significance Level            .000                  None  None\n6                       None                       Sample size             247     247          None  None",
+      "statistical_summary": [
+        {
+          "type": "sample_size",
+          "values": [
+            "sample size             247",
+            "sample size             247"
+          ],
+          "pattern": "sample\\s+size\\s+(?:of\\s+)?[\\d,]+"
+        }
+      ]
+    },
+    {
+      "page": 7,
+      "table_index": 4,
+      "table_type": "correlation_matrix",
+      "contains_statistics": true,
+      "table_content": "                                                               Job Performance         Technological      \n0                       None                              None            None    None    Complexity  None\n1            Job Performance  Pearson Correlation\\nCoefficient               1  -0.913          None  None\n2                       None                Significance Level                    .000          None  None\n3                       None                       Sample size             247     247          None  None\n4  Technological\\nComplexity  Pearson Correlation\\nCoefficient          -0.913       1          None  None\n5                       None                Significance Level            .000                  None  None\n6                       None                       Sample size             247     247          None  None",
+      "statistical_summary": [
+        {
+          "type": "sample_size",
+          "values": [
+            "sample size             247",
+            "sample size             247"
+          ],
+          "pattern": "sample\\s+size\\s+(?:of\\s+)?[\\d,]+"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "table_index": 1,
+      "table_type": "correlation_matrix",
+      "contains_statistics": true,
+      "table_content": "                                                                                                    Job Performance               Technology Invasion      \n0      Job Performance  Job Performance  None  Pearson Correlation\\nCoefficient  None  None       1            None  None  -0.838                None  None\n1                 None             None  None                Significance Level  None  None                    None  None    .000                None  None\n2                 None             None  None                       Sample size  None  None     247            None  None     247                None  None\n3  Technology Invasion             None  None  Pearson Correlation\\nCoefficient  None  None  -0.838            None  None       1                None  None\n4                 None             None  None                Significance Level  None  None    .000            None  None                        None  None\n5                 None             None  None                       Sample size  None  None     247            None  None     247                None  None",
+      "statistical_summary": []
+    },
+    {
+      "page": 8,
+      "table_index": 2,
+      "table_type": "correlation_matrix",
+      "contains_statistics": true,
+      "table_content": "                                                                  Job Performance         Technology-Induced      \n0                          None                              None            None    None           Overload  None\n1               Job Performance  Pearson Correlation\\nCoefficient               1  -0.882               None  None\n2                          None                Significance Level                    .000               None  None\n3                          None                       Sample size             247     247               None  None\n4  Technology-Induced\\nOverload  Pearson Correlation\\nCoefficient          -0.882       1               None  None\n5                          None                Significance Level            .000                       None  None\n6                          None                       Sample size             247     247               None  None",
+      "statistical_summary": [
+        {
+          "type": "sample_size",
+          "values": [
+            "sample size             247",
+            "sample size             247"
+          ],
+          "pattern": "sample\\s+size\\s+(?:of\\s+)?[\\d,]+"
+        }
+      ]
+    },
+    {
+      "page": 8,
+      "table_index": 4,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 9,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 10,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "                                                Section                                                                                                                                                                                                                                                                                                                                                        Recommendations                                                                                                                                                                                           Outcome      \n0                                    Training  Training  None                                                                                                             - Training for employees who need to\\nlearn how to use new technologies.\\n- Encourage employees to share\\nknowledge about working with new\\ntechnologies.\\n- Promote teamwork and solving new\\nproblems through group collaboration.            None  None  - Facilitates learning\\n- Reduces employee errors\\n- Positively impacts productivity\\nreduced by technostress.\\n- Reduces technology complexity\\n- Reduces technology uncertainty.    None  None\n1                                     Support      None  None  - Provide continuous technical support\\nand assistance to employees for using\\nnew technology and during times of\\ncrisis and significant challenges. The\\ntechnical support system must be\\naccessible to employees, ready to\\nrespond at any required time during\\nworking hours, and consist of\\nknowledgeable and experienced\\nindividuals.            None  None                                                                - Increases employee satisfaction\\nand prevents work disruptions.\\n- Reduces the feeling of\\ntechnology uncertainty.    None  None\n2               Learning and\\nExperimentation      None  None                                                - Create an interactive and open\\nenvironment for employees and\\ninteraction with managers.\\n- Reward employees seeking to gain\\nexperience and learn new skills.\\n- Encourage employees to take risks and\\ngain new experiences.\\n- Assist with new ideas for easy\\nimplementation and execution            None  None                                                                                                                                           - Reduces technology-induced\\ninsecurity.    None  None\n3  Facilitating\\nTechnological\\nParticipation      None  None                                                                                                                            - Inform employees about newly\\napproved application programs.\\n- Before using new systems, seek\\nemployees' opinions and ask for their\\nhelp in adapting the new system to meet\\nneeds and organizational goals, and            None  None                                                                                                - Increases effectiveness and\\nsatisfaction.\\n- Enhances organizational\\ncommitment.    None  None",
+      "statistical_summary": []
+    },
+    {
+      "page": 11,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "The frequency and percentage of the research sample group according to gender, educational \nlevel, and years of service are presented in Table (2). As indicated in Table 2, the highest \nfrequency of the study sample in terms of gender is male, in terms of educational level is a \nbachelor's degree, in terms of years of service is 5-9 years, and in terms of age is 31-39 years. \nTable 2: Frequency and Percentage of Research Sample Group \nVariable \nSubgroups \nFrequency \nGender \n \nMale \n95 \nFemale \n52 \nAge \n22 to 30 \n71 \n31 to 39 \n96 \n40 to 48 \n38 \n49 to 57 \n19 \nEducation \nAssociate degree \n31 \nBachelor's Degree \n92 \nMaster's Degree \n86 \nDoctorate \n15 \nWork Experience \n1 to 4 years \n55 \n5 to 9 years \n76 \n10 to 14 years \n47 \n15 to 19 years \n29 \n20 to 40 years \n17 \n \nPearson Correlation Test (Main Hypothesis): Table 3 \n \n \nTechnostress Job Performance \nTechnostress \nPearson Correlation Coefficient \n1 \n-0.94 \nSignificance Level \n \n.000 \nSample size \n247 \n247 \nJob Performance \nPearson Correlati",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: personality, work experience, university, skills, motivation",
+    "Statistics found: 8 correlations, 1 sample_sizes",
+    "Statistical tables: correlation_matrix, unknown",
+    "Medium confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 4,
+    "tables_found": 12,
+    "statistical_tables": 7,
+    "predictors_identified": 10,
+    "statistics_extracted": 9,
+    "confidence_level": "medium"
+  }
+}

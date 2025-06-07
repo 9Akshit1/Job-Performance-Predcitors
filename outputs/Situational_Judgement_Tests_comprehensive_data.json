@@ -1,0 +1,77 @@
+{
+  "PAPER_METADATA": {
+    "title": "Situational Judgement Tests",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1037//0021-9010.86.4.730",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). Situational Judgement Tests. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "not_specified",
+    "job_domain": "education",
+    "measurement_type": "not_specified",
+    "sample_n": "Not specified",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "Use of Situational Judgment Tests to Predict Job Performance. See discussions, stats, and author profiles for this publication at: http://www.researchgate.net/publication/11825397. The user has requested enhancement of the downloaded file. All content following this page was uploaded by Michael A. Mcdaniel on 27 October 2014. View publication stats for this article at:  http: http www. Researchgate.com/Publications/Use-of-Situational-Judgment-Tests-to- Predict-Job-Performance.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "education",
+      "predictor": "university",
+      "context": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/11825397\nUse of Situational Judgment Tests to Predict Job Performance\nArticle  in  Journal of Applied Psychology · September 2001\nDOI: 10.1037//0021-9010.86.4.730 · Source: PubMed\nCITATIONS\n293\nREADS\n3,080\n5 authors, including:\nMichael A. Mcdaniel\nVirginia Commonwealth University\n122 PUBLI",
+      "confidence": 0.7
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "les for this publication at: https://www.researchgate.net/publication/11825397\nUse of Situational Judgment Tests to Predict Job Performance\nArticle  in  Journal of Applied Psychology · September 2001\nDOI: 10.1037//0021-9010.86.4.730 · Source: PubMed\nCITATIONS\n293\nREADS\n3,080\n5 authors, including:\nMichael A. Mcdaniel\nVirginia Commonwealth University\n122 PUBLICATIONS   13,221 CITATIONS   \nSEE PROFIL",
+      "confidence": 0.7
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/11825397\nUse of Situational Judgment Tests to Predict Job Performance\nArticle  in  Journal of Applied Psychology · September 2001\nDOI: 10.1037//0021-9010.86.4.730 · Source: PubMed\nCITATIONS\n293\nREADS\n3,080\n5 authors, including:\nMichael A. Mcdaniel\nVirginia Commonwealth University\n122 PUBLI",
+      "confidence": 0.7
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 1,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "Not identified",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: university, EQ, job performance",
+    "Low statistical content found"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 0,
+    "tables_found": 1,
+    "statistical_tables": 0,
+    "predictors_identified": 3,
+    "statistics_extracted": 0,
+    "confidence_level": "low"
+  }
+}

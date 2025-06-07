@@ -1,0 +1,201 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: Investigation on the Impact of Job Stressors on Nu
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.5539/ass.v10n4p67
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). Investigation on the Impact of Job Stressors on Nu. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): , employee
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+300 questionnaires were distributed to qualified nurses in 7 private hospitals across Malaysia. Outcomes from a series of hypothesis tests support the researchers’ study that each independent variable has significant relationship to job performance of nurses. Authors hope to identify the relationship between the job stressors towards job performance. Stress is a perceived concept that is caused by anything that  unbalances the harmony in one’s life. The relationship can result in either a beneficial or a negative effect on a person. The researchers found that each independent variable has significant relationship to job performance of nurses. Stress is a perceived concept that is caused by anything that unbalances the harmony in one’s life. Different types of stress produce anxiety in individuals, which results in feelings of apprehension that can ultimately lead to negative physical, emotional, cognitive andbehavioral symptoms.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: ability test
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 1.0
+   CONTEXT: dent variables and job performance as dependent variable. Job performance 
+is the level of productivity of an individual employee, relative to his or her peers, on several job-related 
+behaviors and outcomes. There are three individual job performance summated to create a measurement of 
+overall job performance in this study which are quality, absenteeism, and new learning. 
+Pilot test was needed 
+
+2. PREDICTOR: education
+   CATEGORY: education
+   CONFIDENCE: 0.91
+   CONTEXT: nd organizational 
+performance. This is particularly crucial especially for new nurses who just entered the profession in the health 
+care industry. Managing this stressor can avoid high turnover of nurses in workplaces. Findings from this study 
+will enable organization’s top level management to understand the relationship between job stressors and job 
+performance of nurses and therefore evolve 
+
+3. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: urses’ job performance. As mentioned below are six hypotheses that the researchers have 
+tested: 
+ 
+Table 3. Pearson correlations analysis between job stressor and job performance 
+Job Stressor 
+Job Performance
+Workload 
+-.870**
+Procedural Injustice 
+-.844**
+Role Ambiguity 
+-.684**
+Work-family Conflict 
+-.914**
+Physical Environment 
+-.718**
+**. Correlation is significant at the 0.01 level (2-taile
+
+4. PREDICTOR: job performance
+   CATEGORY: job_performance
+   CONFIDENCE: 1.0
+   CONTEXT: respondence: Choi Sang Long, Faculty of Management, Universiti Teknologi Malaysia, 81310 Johor Bahru, 
+Johor, Malaysia. E-mail: cslong_1@ yahoo.com 
+ 
+Received: October 21, 2013   Accepted: December 23, 2013   Online Published: January 26, 2014 
+doi:10.5539/ass.v10n4p67          URL: http://dx.doi.org/10.5539/ass.v10n4p67 
+ 
+Abstract 
+Stress can affect individual’s performance which in turn can im
+
+5. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: 0n4p67          URL: http://dx.doi.org/10.5539/ass.v10n4p67 
+ 
+Abstract 
+Stress can affect individual’s performance which in turn can impact an organization’s performance. This study 
+was conducted in order to gain a better understanding of what types of situations cause stress in health service 
+providers and how that stress affects job performance especially services that provided to the patient
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+CORRELATIONS FOUND:
+  1. VALUE: correlation coefficient of -0.870
+     CONFIDENCE: 1.0
+     CONTEXT: at the 0.01 level (2-tailed). 
+ 
+Hypothesis 1 
+H1: There is a significant relationship between workload and job performance. 
+Table 3 shows the result of correlations coefficient between workload and job performance, which is equal to 
+-0.870 with the P-value 0.000, lower than 0.05, indicates that t
+
+  2. VALUE: correlation coefficient of -0.844
+     CONFIDENCE: 1.0
+     CONTEXT: othesis 2 
+H2: There is a significant relationship between procedural injustice and job performance. 
+Table 3 shows the result of correlations coefficient between procedural injustice and job performance, which is 
+equal to -0.844 with the P-value 0.000, lower than 0.05, indicates that there is a si
+
+  3. VALUE: correlation coefficient of -0.684
+     CONFIDENCE: 1.0
+     CONTEXT: performance. 
+Hypothesis 3 
+H3: There is a significant relationship between the role ambiguity and job performance. 
+Table 3 shows the result of correlations coefficient between role ambiguity and job performance, which is equal 
+to -0.684 with the P-value 0.000, lower than 0.05, indicates that ther
+
+  4. VALUE: correlation coefficient of -0.914
+     CONFIDENCE: 1.0
+     CONTEXT: sis 4 
+H4: There is a significant relationship between the work-family conflict and job performance. 
+Table 3 shows the result of correlations coefficient between work-family conflict and job performance, which is 
+equal to -0.914 with the P-value 0.000, lower than 0.05, indicates that there is a si
+
+  5. VALUE: correlation coefficient of -0.718
+     CONFIDENCE: 1.0
+     CONTEXT: Hypothesis 5 
+H5: There is a significant relationship between physical environment and job performance. 
+Table 3 shows the result of correlations coefficient between physical environment and job performance, which is 
+equal to -0.718 with the P-value 0.000, lower than 0.05, indicates that there is a
+
+  6. VALUE: Correlation 
+1
+     CONFIDENCE: 1.0
+     CONTEXT: t) 
+ 
+42.317
+.000 
+Workload 
+-.141 
+-1.420
+.159 
+Procedural Injustice 
+-.119 
+-1.398
+.165 
+Role Ambiguity 
+-.051 
+-.905
+.368 
+Work-family Conflict 
+-.547 
+-5.130
+.000 
+Physical Environment 
+-.148 
+-2.673
+.009 
+www.ccsenet.org/ass 
+Asian Social Science 
+Vol. 10, No. 4; 2014 
+72 
+ 
+5. Discussions 
+The
+
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Not identified
+
+RESULTS SECTION EXCERPT:
+Not identified
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: ability test, education, EQ, job performance, AC
+2. Statistics found: 6 correlations, 1 sample_sizes
+3. Medium confidence in original findings extraction
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: medium
+SECTIONS IDENTIFIED: 2
+TABLES FOUND: 0
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 5
+STATISTICS EXTRACTED: 7
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

@@ -1,0 +1,83 @@
+{
+  "PAPER_METADATA": {
+    "title": "Proactive Personality and Career Success",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1037/0021-9010.84.3.416",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). Proactive Personality and Career Success. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "not_specified",
+    "job_domain": "education",
+    "measurement_type": "not_specified",
+    "sample_n": "Not specified",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "All content following this page was uploaded by Maria L Kraimer on 31 May 2014. See discussions, stats, and author profiles for the publication at: http://www.researchgate.net/publication/12919548. Proactive Personality and Career Success is published in the Journal of Applied Psychology. The user has requested enhancement of the downloaded file to make it easier for people to read and comment on the article. For confidential support call the Samaritans on 08457 90 90 90 or visit a local Samaritans branch, see www.samaritans.org for details.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/12919548\nProactive Personality and Career Success\nArticle  in  Journal of Applied Psychology · June 1999\nDOI: 10.1037/0021-9010.84.3.416 · Source: PubMed\nCITATIONS\n1,825\nREADS\n23,499\n3 authors:\nScott Seibert\nRutgers, The State University of New Jersey\n64 PUBLICATIONS   21,250 CITATIONS   \n",
+      "confidence": 0.6
+    },
+    {
+      "category": "education",
+      "predictor": "university",
+      "context": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/12919548\nProactive Personality and Career Success\nArticle  in  Journal of Applied Psychology · June 1999\nDOI: 10.1037/0021-9010.84.3.416 · Source: PubMed\nCITATIONS\n1,825\nREADS\n23,499\n3 authors:\nScott Seibert\nRutgers, The State University of New Jersey\n64 PUBLICATIONS   21,250 CITATIONS   \n",
+      "confidence": 0.6
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "searchgate.net/publication/12919548\nProactive Personality and Career Success\nArticle  in  Journal of Applied Psychology · June 1999\nDOI: 10.1037/0021-9010.84.3.416 · Source: PubMed\nCITATIONS\n1,825\nREADS\n23,499\n3 authors:\nScott Seibert\nRutgers, The State University of New Jersey\n64 PUBLICATIONS   21,250 CITATIONS   \nSEE PROFILE\nJ. Michael Crant\nUniversity of Notre Dame\n36 PUBLICATIONS   14,924 CITA",
+      "confidence": 0.6
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/12919548\nProactive Personality and Career Success\nArticle  in  Journal of Applied Psychology · June 1999\nDOI: 10.1037/0021-9010.84.3.416 · Source: PubMed\nCITATIONS\n1,825\nREADS\n23,499\n3 authors:\nScott Seibert\nRutgers, The State University of New Jersey\n64 PUBLICATIONS   21,250 CITATIONS   \n",
+      "confidence": 0.6
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 1,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "Not identified",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: personality, university, EQ, AC",
+    "Low statistical content found"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 0,
+    "tables_found": 1,
+    "statistical_tables": 0,
+    "predictors_identified": 4,
+    "statistics_extracted": 0,
+    "confidence_level": "low"
+  }
+}

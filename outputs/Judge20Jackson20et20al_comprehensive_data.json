@@ -1,0 +1,96 @@
+{
+  "PAPER_METADATA": {
+    "title": "Judge20Jackson20et20al",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1037/0021-9010.92.1.107",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). Judge20Jackson20et20al. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": ",\nindividuals",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The overall correlation matrix among the variables is provided in Table 3. We should note that the number of correlations in Table.3 does not match the values in Table 1 because the latter reflects.number of articles, and numerous studies reported correlations for.multiple samples or subgroups. In estimating the relative contri-Table 2                Sources of Meta-Analytic Estimates. We used both regression and path analysis, relying on programs developed by Hunter (1992) and Judge and Ilies (2002) In the regression analysis, we estimated two models. In the first regression, work-relatedperformance was considered as a factor. We used both regression and path analysis, relying on programs developed by Hunter (1992) and Teachout (1995) We used the median sample size for the jobperformance correlations as the sample size. We estimated two models. In the first regression, work-relatedperformance was regressed on the distal variables alone. In a second regression, performance was regressed on all the variables, along with self-efficacy. Taken together, the two models form a hierarchical regression analysis.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "intelligence",
+      "context": "lytic estimates were already available, we used these directly.\nIn cases in which multiple meta-analyses were conducted, we used\nthe most recent comprehensive meta-analysis available.2 Second,\nwhere meta-analytic estimates were unavailable, we performed our\nown meta-analyses. In order to identify the population of articles\nneeded to calculate the remaining estimates in the correlation\nmatrix, we s",
+      "confidence": 1.0
+    },
+    {
+      "category": "personality",
+      "predictor": "conscientiousness",
+      "context": "intervals\nfail to overlap, then one can conclude that the average predictive\nvalidities differ across the two conditions. Analysis of Self-Efficacy Across All Studies\nThe overall correlation matrix among the variables is provided\nin Table 3. We should note that the number of correlations in Table\n3 does not match the values in Table 1 because the latter reflects\nnumber of articles, and numerous st",
+      "confidence": 1.0
+    },
+    {
+      "category": "motivation",
+      "predictor": "motivation",
+      "context": "gested because of the relationship\nbetween self-set goals and self-efficacy, in some models they are com-\nbined. The relationship we found between self-efficacy and self-set goals\nwas strong (\u0001ˆ \u0002 .50; k \u0002 50, N \u0002 8,126); however, when we added self-set\ngoals to the overall analysis, it had a small effect on the self-efficacy–per-\nformance coefficient, decreasing it from \u0003ˆ \u0002 .13 (ns) to \u0003ˆ \u0002 .09 ",
+      "confidence": 1.0
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "es.3 In the regression analysis,\nwe estimated two models. In the first regression, work-related\nperformance was regressed on the distal variables alone. In the\nsecond regression, work-related performance was regressed on all\nof the distal variables, along with self-efficacy. Taken together, the\nfirst and second regressions form a hierarchical regression analysis\nin which the distal variables are e",
+      "confidence": 1.0
+    },
+    {
+      "category": "job_performance",
+      "predictor": "performance measure",
+      "context": "efficacy and work-related performance (\u0001ˆ \u0002 .41 vs. \u0001ˆ \u0002\n.31), goals were assigned (vs. no goals) (\u0001ˆ \u0002 .52 vs. \u0001ˆ \u0002 .34),\nindividuals had prior (vs. no prior) exposure to the job or task (\u0001ˆ \u0002\n.42 vs. \u0001ˆ \u0002 .31); grid (vs. Likert-type) measures of self-efficacy\nwere used (\u0001ˆ \u0002 .44 vs. \u0001ˆ \u0002 .32), and the participants were\nundergraduate (vs. postgraduate) students (\u0001ˆ \u0002 .39 vs. \u0001ˆ \u0002 .30). (If\none we",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "revious meta-analyses of the self-\nefficacy–performance relationship (Chen et al., 2001; Stajkovic &\nLuthans, 1998). First, only studies that reported task- or job-\nspecific self-efficacy (as opposed to generalized self-efficacy)\nwere included. Second, the analysis was limited to those studies\nthat measured self-efficacy as a predictor as opposed to a criterion.\nThird, only those studies that exam",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 1,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Literature Search\nIn forming the correlation matrix that was used as input into the\nmultivariate analyses, we took two steps. First, where meta-\nanalytic estimates were already available, we used these directly.\nIn cases in which multiple meta-analyses were conducted, we used\nthe most recent comprehensive meta-analysis available.2 Second,\nwhere meta-analytic estimates were unavailable, we performed our\nown meta-analyses. In order to identify the population of articles\nneeded to calculate the remaining estimates in the correlation\nmatrix, we searched the PsycINFO database for studies published\nbetween 1887 and 2002 that referenced these remaining relation-\nships. In two instances, multiple keywords were used. For GMA,\nwe used the keywords intelligence, IQ, mental ability, and cogni-\ntive ability, whereas for emotional stability, we searched for arti-\ncles that also included the keyword neuroticism. The results of the\ninitial search and of the number of studies that were deemed\nrelevant ",
+    "results_section": "Analysis of Self-Efficacy Across All Studies\nThe overall correlation matrix among the variables is provided\nin Table 3. We should note that the number of correlations in Table\n3 does not match the values in Table 1 because the latter reflects\nnumber of articles, and numerous studies reported correlations for\nmultiple samples or subgroups. In estimating the relative contri-\nTable 2\nSources of Meta-Analytic Estimates\nVariable\n1\n2\n3\n4\n5\n6\n7\n8\n9\n1. General mental ability\n—\n2. Conscientiousness\nNEW\n—\n3. Agreeableness\nNEW\nOVR96\n—\n4. Extraversion\nNEW\nOVR96\nOVR96\n—\n5. Openness\nNEW\nOVR96\nOVR96\nOVR96\n—\n6. Emotional stability\nNEW\nOVR96\nOVR96\nOVR96\nOVR96\n—\n7. Self-efficacy\nNEW\nJ&I02\nJ&I02\nJ&I02\nJ&I02\nJ&I02\n—\n8. Experience\nNEW\nNEW\nNEW\nNEW\nNEW\nNEW\nNEW\n—\n9. Work-related performance\nS&H98\nSal03\nSal03\nSal03\nSal03\nSal03\nNEW\nQFT95\n—\nNote.\nNEW \u0002 original to this study; OVR96 \u0002 Ones, Viswesvaran, and Reiss (1996); S&H98 \u0002 Schmidt and Hunter (1998); Sal03 \u0002 Salgado (2003);\nJ&I02 \u0002 Judge and Ilies (2002); QF",
+    "discussion_section": "Social–cognitive theory and its central variable, self-efficacy,\nhave been the focus of a voluminous amount of research in\npsychology. Its applicability has been described as “pervasive\nacross contexts and domains of human functioning” (Zimmerman\n& Schunk, 2003, p. 448). A primary application of self-efficacy\nhas been in the work domain (Bandura, 1997); it appears that the\ndominant role of self-efficacy in work motivation research antic-\nipated by Landy (1989) has been realized. However, any con"
+  },
+  "NOTES": [
+    "Key predictors identified: intelligence, conscientiousness, motivation, EQ, performance measure",
+    "Statistics found: 1 sample_sizes",
+    "Low statistical content found"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 5,
+    "tables_found": 1,
+    "statistical_tables": 0,
+    "predictors_identified": 6,
+    "statistics_extracted": 1,
+    "confidence_level": "low"
+  }
+}

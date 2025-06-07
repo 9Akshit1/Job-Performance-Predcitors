@@ -1,0 +1,114 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: Situational Judgement Tests
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.1037//0021-9010.86.4.730
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). Situational Judgement Tests. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: not_specified
+JOB DOMAIN: education
+MEASUREMENT TYPE: not_specified
+SAMPLE SIZE (N): Not specified
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+Use of Situational Judgment Tests to Predict Job Performance. See discussions, stats, and author profiles for this publication at: http://www.researchgate.net/publication/11825397. The user has requested enhancement of the downloaded file. All content following this page was uploaded by Michael A. Mcdaniel on 27 October 2014. View publication stats for this article at:  http: http www. Researchgate.com/Publications/Use-of-Situational-Judgment-Tests-to- Predict-Job-Performance.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: university
+   CATEGORY: education
+   CONFIDENCE: 0.7
+   CONTEXT: See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/11825397
+Use of Situational Judgment Tests to Predict Job Performance
+Article  in  Journal of Applied Psychology · September 2001
+DOI: 10.1037//0021-9010.86.4.730 · Source: PubMed
+CITATIONS
+293
+READS
+3,080
+5 authors, including:
+Michael A. Mcdaniel
+Virginia Commonwealth University
+122 PUBLI
+
+2. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 0.7
+   CONTEXT: les for this publication at: https://www.researchgate.net/publication/11825397
+Use of Situational Judgment Tests to Predict Job Performance
+Article  in  Journal of Applied Psychology · September 2001
+DOI: 10.1037//0021-9010.86.4.730 · Source: PubMed
+CITATIONS
+293
+READS
+3,080
+5 authors, including:
+Michael A. Mcdaniel
+Virginia Commonwealth University
+122 PUBLICATIONS   13,221 CITATIONS   
+SEE PROFIL
+
+3. PREDICTOR: job performance
+   CATEGORY: job_performance
+   CONFIDENCE: 0.7
+   CONTEXT: See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/11825397
+Use of Situational Judgment Tests to Predict Job Performance
+Article  in  Journal of Applied Psychology · September 2001
+DOI: 10.1037//0021-9010.86.4.730 · Source: PubMed
+CITATIONS
+293
+READS
+3,080
+5 authors, including:
+Michael A. Mcdaniel
+Virginia Commonwealth University
+122 PUBLI
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Not identified
+
+RESULTS SECTION EXCERPT:
+Not identified
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: university, EQ, job performance
+2. Low statistical content found
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: low
+SECTIONS IDENTIFIED: 0
+TABLES FOUND: 1
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 3
+STATISTICS EXTRACTED: 0
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

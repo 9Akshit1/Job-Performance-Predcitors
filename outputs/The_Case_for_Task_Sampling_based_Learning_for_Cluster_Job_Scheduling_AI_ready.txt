@@ -1,0 +1,241 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: The Case for Task Sampling based Learning for Cluster Job Scheduling
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.14778/1454159.1454166.
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). The Case for Task Sampling based Learning for Cluster Job Scheduling. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: longitudinal
+JOB DOMAIN: education
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): Not specified
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+The ability to accurately estimate job runtime properties allows a scheduler to eﬀectively schedule jobs. State-of-the-art online cluster job schedulers use history-based learning. However, with fast-paced development in cluster technology and changing user inputs, job runtimeproperties can change over time. Task-sampling-based approach exploits the simi-larity among runtime properties of the tasks of the same job and is inherently immune to changing job behavior. Despite its online overhead, learning in space reduces the average Job Completion Time (JCT) by 1.28×, 1.56×, and 1.32× compared to the prior-art history-based predictor. Despite its online overhead, learning                in space reduces the average Job Completion Time (JCT) by                1.28×, 1.56×, and 1.32× compared to the prior-art history-based predictor. Finally, we show how the sampling-basedlearning can be extended to schedule DAG jobs and achieve similar speedups.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: GMA
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 0.9
+   CONTEXT: ing-based schemes become favorable. Our results
+from experimental data below will further conﬁrm these
+intuitions.
+4.2
+Trace-based Variability Analysis
+Our theoretical analysis in §4.1 provides insights on how the
+prediction accuracies of the two approaches depend on the
+variation of job run times across time and space. To under-
+stand how such variations fare against each other in practice,
+we ne
+
+2. PREDICTOR: training
+   CATEGORY: education
+   CONFIDENCE: 0.7
+   CONTEXT: similar conclusion will hold
+in more general settings. To validate this, we next imple-
+ment a sampling-based predictor SLearn,and experimentally
+compare it against a state-of-the-art history-based predic-
+tor 3Sigma [48] in estimating the job runtimes directly on
+production job traces.
+Workload characteristics. Since the three production
+traces described in §4.2 are too large, as in 3Sigma [48], 
+
+3. PREDICTOR: motivation
+   CATEGORY: motivation
+   CONFIDENCE: 0.7
+   CONTEXT: ver 3Sigma-DAG, 2.15× over LAS-DAG, and 1.74×
+over Point-Est-DAG. Looking deeper, we ﬁnd that our
+sampling-based prediction still yields higher prediction ac-
+curacy: the P50 prediction error is 33.90% for SLearn-DAG,
+compared to 47.21% for 3Sigma-DAG. On the other hand, for
+DAG jobs the relative overhead of sampling (e.g, the delay)
+is lower since only the ﬁrst stage is sampled. Together, they
+pr
+
+4. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: wo
+prediction schemes may also help. (5) When the cluster is
+heterogeneous, an error adjustment using history, similar to
+what we did in §6, can be applied.
+Dynamic adjustment of ThinLimit. ThinLimit is a sub-
+jective threshold. It helps in segregating jobs for which wait-
+ing time due to sampling overshadows the improvement in
+prediction accuracy. The optimal choice of this limit will
+depend on t
+
+5. PREDICTOR: job performance
+   CATEGORY: job_performance
+   CONFIDENCE: 0.8
+   CONTEXT: task skew;
+(2) delaying scheduling the remaining tasks of a job till the
+completion of sampled tasks may potentially hurt the job’s
+completion time.
+In this paper, we perform a comprehensive compara-
+tive study of history-based learning (learning in time) and
+sampling-based learning (learning in space), to systemati-
+cally answer the following questions: (1) Can learning in
+space be more accurate 
+
+6. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: imit. ThinLimit is a sub-
+jective threshold. It helps in segregating jobs for which wait-
+ing time due to sampling overshadows the improvement in
+prediction accuracy. The optimal choice of this limit will
+depend on the cluster load at the moment and hence can be
+adaptively chosen like the sampling percentage (Fig. 4 on
+page ).
+Heterogeneous clusters. Extending sampling-based learn-
+ing to heteroge
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+TABLE 1 (Page 3) - TYPE: unknown
+TABLE CONTENT:
+           Name         Property\nestimated       Estimation\ntechnique   Learning\nfrequency
+0  Corral\n[44]                  Jobruntime  Offlinemodel\n(notupdated)             Onarrival
+1   DCOSR\n[36]  Memoryelasti-\ncityprofile  Offlinemodel\n(notupdated)  Scheduler\ndependent
+2  Jockey\n[30]                  Jobruntime          Offline\nsimulator              Periodic
+3  3Sigma\n[48]    Jobruntime\nhistorydist.              Offline\nmodel             Onarrival
+------------------------------
+
+TABLE 1 (Page 5) - TYPE: unknown
+TABLE CONTENT:
+        Trace Arrival\ntime Resource\nrequested Resource\nusage Indiv.task\nduration
+0      2Sigma           Yes                 Yes              No                  Yes
+1  Google2011           Yes                 Yes             Yes                  Yes
+2  Google2019           Yes                 Yes             Yes                  Yes
+------------------------------
+
+TABLE 6 (Page 6) - TYPE: unknown
+TABLE CONTENT:
+        Trace CoVoverTime  None CoVoverSpace  None
+0        None         P50   P90          P50   P90
+1      2Sigma        1.00  3.10         0.18  0.55
+2  Google2011        0.20  0.73         0.04  0.58
+3  Google2019        1.35  1.67         0.70  1.33
+------------------------------
+
+TABLE 1 (Page 8) - TYPE: unknown
+TABLE CONTENT:
+        S\n3 Learn\nSigma      
+0  None                    None
+------------------------------
+
+TABLE 3 (Page 8) - TYPE: unknown
+TABLE CONTENT:
+        S\n3 Learn\nSigma      
+0  None                    None
+------------------------------
+
+TABLE 5 (Page 8) - TYPE: unknown
+TABLE CONTENT:
+        S\n3 Learn\nSigma      
+0  None                    None
+------------------------------
+
+TABLE 1 (Page 10) - TYPE: unknown
+TABLE CONTENT:
+  P10-P90\n102 P50\npudeepS Average\n101\n3.29\nTCJ 1.28 1.26 1.91 1.42\n100 0.79\n3Sigma3SigmaTLLAS Point FIFO Oracle\nOther predictors and policies       P10-P90            
+0                                                                                                                                                None  P50\nAverage  3.29      
+1                                                                                                                                                None          0.79  None  None
+------------------------------
+
+TABLE 2 (Page 10) - TYPE: unknown
+TABLE CONTENT:
+  P10-P90\n102 P50\npudeepS Average\n101 7.29\nTCJ 1.56 1.55 1.65 2.17\n100 0.82\n3Sigma3SigmaTLLAS Point FIFO Oracle\nOther predictors and policies       P10-P90  None  None
+0                                                                                                                                               None  P50\nAverage  7.29      
+1                                                                                                                                               None          0.82  None  None
+------------------------------
+
+TABLE 3 (Page 10) - TYPE: unknown
+TABLE CONTENT:
+  P10-P90\n102 P50\npudeepS Average\n101\n3.63\nTCJ 1.32 1.32 1.72 1.54\n100 0.91\n3Sigma3SigmaTLLAS Point FIFO Oracle\nOther predictors and policies                            P10-P90  None  None  None
+0                                                                                                                                                None  P50\nAverage\n1.32 1.32 1.72 1.54  3.63        None
+1                                                                                                                                                None                                     None  None  0.91
+------------------------------
+
+TABLE 4 (Page 10) - TYPE: unknown
+TABLE CONTENT:
+         Prediction\nTechnique                  SLearn                  3Sigma
+0  2STrace\nGTrace11\nGTrace19  89.09%\n86.45%\n73.96%  73.84%\n76.20%\n58.07%
+------------------------------
+
+TABLE 1 (Page 11) - TYPE: unknown
+TABLE CONTENT:
+  1.0 SLearn\n0.8 3Sigma\n0.6 FDC\n0.4\n0.2\n0.0\n10−4 10−3 10−2 10−1 100 101 102\nNormalized job waiting time S\n3 Learn\nSigma                              
+0                                                                                                         None                    None  None  None  None  None
+------------------------------
+
+TABLE 2 (Page 11) - TYPE: unknown
+TABLE CONTENT:
+  1.0\n0.8\n0.6 FDC\n0.4\nGTrace11\n0.2 2STrace\nGTrace19\n0.0\n10−1 100 101 102 103\nJCT speedup over 3Sigma                         None                       1
+0                                                                                                        None  None  None  None  None       GTrace1\n2STrace  None
+------------------------------
+
+TABLE 4 (Page 11) - TYPE: unknown
+TABLE CONTENT:
+  P10-P90\n102 P50\npudeepS Average\n101\nTCJ 5.54\n100 1.25 2.15 1.74\n0.79\n3Sigma LAS Point FIFO Oracle\nOther predictors and policies for DAGs          P10-P90\nP50  None  None        None  None  None  None  None  None
+0                                                                                                                                             None                         Ave  rage                                None  None
+1                                                                                                                                             None                                    None  None  None        None        None
+2                                                                                                                                             None  5.54\n1.25 2.15 1.74  None  None  None  None  None  None  None  0.79      
+------------------------------
+
+TABLE 2 (Page 14) - TYPE: unknown
+TABLE CONTENT:
+          Overestim-\natedjobs Misplaced\noverestimated\njobs Slowed\nmisplaced\njobs Average(P50)\nPositiveerror Underesti-\nmatedjobs\njobs Misplaced\nunderestimated\njobs Speedup\nmisplaced Average(P50)\nNegativeerror
+0  3Sigma               59.78%                         17.50%                  12.19%              898.5%(48.00)%                      40.22%                           8.65%              6.88%             -37.0%(-28.57)%
+1  SLearn               43.75%                          3.54%                   2.85%              30.65%(18.19)%                      55.45%                           7.37%              3.64%            -26.79%(-20.69)%
+------------------------------
+
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Not identified
+
+RESULTS SECTION EXCERPT:
+Not identified
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: GMA, training, motivation, EQ, job performance
+2. Statistical tables: unknown
+3. Low statistical content found
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: low
+SECTIONS IDENTIFIED: 3
+TABLES FOUND: 23
+STATISTICAL TABLES: 14
+PREDICTORS IDENTIFIED: 6
+STATISTICS EXTRACTED: 0
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

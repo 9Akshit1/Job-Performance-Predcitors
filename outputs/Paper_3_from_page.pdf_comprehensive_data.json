@@ -1,0 +1,68 @@
+{
+  "PAPER_METADATA": {
+    "title": "Paper 3 from page.pdf",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1109/DT.2017.8024318.",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). Paper 3 from page.pdf. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "Not specified",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "Data mining methods have been used to study a variety of topics in industrial and organizational psychology, including predicting employee performance. Out of 103 studies reviewed, eight studies were retained and used for the meta-analyses. The results suggested that both data mining methods showed good performance in employee performance prediction, although the difference between the overall effect sizes was not statistically significant. The number of employee performance classifications meta-analyzed was 2430. The results suggested that both data mining methods showed good performance in employee performance prediction. The difference between the overall effect sizes was not statistically significant. The theoretical and practical implications were discussed, and recommendations were provided for future research. I would first like to thank my advisor, Dr. Shiyang Su, for her continuous support. I am grateful to Dr. Victoria Pace and Dr. Steve Jex for serving as my  committee members. I would like to extend my thanks to Dani Draper, as you always provide unwavering help throughout my time at the program.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "studies including theses and dissertations were \nconsidered. After the application of exclusion/inclusion criteria, one unpublished study was \nincluded in the analysis. For these reasons, it is expected and recommended that the future \nresearch would be able to identify more studies in the topic and minimize the effects of \npublication bias to provide more comprehensive conclusions.   \nThe selecti",
+      "confidence": 0.9
+    },
+    {
+      "category": "job_performance",
+      "predictor": "performance measure",
+      "context": "their \npractices for presenting the results, creating missing data for the current analysis.  \nSecondly, the lack of information provided in the identified primary studies resulted in \ncertain adjustments being made for the purposes of confidence interval calculations. More \nspecifically, the confusion matrices for multiclass classification models were treated as binary \nclassifiers by combining t",
+      "confidence": 0.9
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "ing the diverse set of employee samples working at different organizations \ninto account, the thresholds for employees’ performances are expected to vary. This implies \nthat the heterogeneity is inherent among the studies, as a result of the diverse sample \ncharacteristics. \nOn the contrary, the heterogeneity for the studies using ANN was extremely small, as \nsuggested by the I² = 0. This can be e",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "The results of the quantitative analysis revealed promising outcomes, with respect to \nthe performance of DTs and ANNs in employee performance prediction. The pooled DORs, \nsensitivity and specificity values, and the results of the were in congruence with the previous \nstudies of data mining methods. More specifically, the results suggested there were no \nstatistically significant differences between the overall DORs of DTs and ANNs. \nThe heterogeneity statistics for the two data mining methods were in the two extremes, \nnecessitating further explanations. As indicated by the I² value of 85.46, a high variation was \napparent between the studies using DT methods. One potential explanation of such a high \nheterogeneity might be lying under the fact that different studies used different algorithms of \nDT. More specifically, the DT algorithms that were used included CART (Agaoglu, 2016; \nMellisa, 2019), C4.5 (Kirimi & Moturi, 2016; Nedelcu et al., 2020; Rajesh, 2017; Wagh, \n2010), and C5.0",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: EQ, performance measure, AC",
+    "Low statistical content found"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 4,
+    "tables_found": 0,
+    "statistical_tables": 0,
+    "predictors_identified": 3,
+    "statistics_extracted": 0,
+    "confidence_level": "low"
+  }
+}

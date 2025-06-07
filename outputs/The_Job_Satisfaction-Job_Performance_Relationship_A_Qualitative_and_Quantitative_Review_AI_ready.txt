@@ -1,0 +1,169 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: The Job Satisfaction Job Performance Relationship A Qualitative and Quantitative Review
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: Not found
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). The Job Satisfaction Job Performance Relationship A Qualitative and Quantitative Review. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): , individuals
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+The seven general models of the job satisfaction-job performance relationship are inconsistent. Part of the confusion may be due to the piecemeal nature of the research. If there is little relationship between job satisfaction and job performance, little to be gained by testing the validity of Models 1-4. If there is little relationship between job satisfaction and job performance, then there can be no direct causal effect. Models 5-7 could be valid in the context of a zero or very weak correlation between individual satisfaction and performance. An important first step in determining the merits of models of the satisfaction-performance relationship is to determine the magnitude of the relationship. There have been two meta-analyses of the job satisfaction-job performance relationship. Petty et al. (1984) provided a limited meta-analysis of the relationship. The authors confined their analyses to 16 studies that werepublished in five journals from 1964 to 1983.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: IQ
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 0.8
+   CONTEXT: ature is somewhat archaic; causal satisfaction-per-
+formance studies appeared only in the 1970s. If the relationship is
+an important one, as our results suggest, studies of causal influence
+should resume. Even if job satisfaction and job performance mu-
+tually influence each other, it appears quite possible that the
+relationship between satisfaction and performance is indirect, me-
+diated by other
+
+2. PREDICTOR: personality
+   CATEGORY: personality
+   CONFIDENCE: 0.8
+   CONTEXT: er research on the validity of
+self-esteem as a moderator. Dipboye (1977) proposed many re-
+finements to Korman's (1970) theory that might advance research
+in this area, yet few of the propositions and suggestions in Dip-
+boye's review have been investigated.
+JOB SATISFACTION AND JOB PERFORMANCE
+391
+Table 4
+Topics for Future Research on the Job Satisfaction-Job Performance Relationship
+Model
+Topic
+
+3. PREDICTOR: degree
+   CATEGORY: education
+   CONFIDENCE: 0.7
+   CONTEXT: Is the Fishbein-Ajzen model relevant to the satisfaction-performance relationship?
+Do dissatisfied employees tend to use poor performance as a withdrawal or adaptive response?
+Does the performance-rewards contingency moderate the performance —> satisfaction relationship?
+Is Locke's value model relevant to the job performance —> job satisfaction relationship?
+Are high levels of job performance more
+
+4. PREDICTOR: motivation
+   CATEGORY: motivation
+   CONFIDENCE: 0.8
+   CONTEXT: n-performance relationship stronger at the group or organization (vs. individual) level of analysis?
+What role do intentions play? Is the Fishbein-Ajzen model relevant to the satisfaction-performance relationship?
+Do dissatisfied employees tend to use poor performance as a withdrawal or adaptive response?
+Does the performance-rewards contingency moderate the performance —> satisfaction relationshi
+
+5. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: nward biases in esti-
+mates of actual validity, (p. 209)
+Furthermore, generalizability theory (Cronbach, Gleser, Nanda, &
+Rajaratnam, 1972) would suggest that corrections based on inter-
+rater reliability are more likely to reflect the context to which one
+seeks to generalize the relationship. Specifically, if one is gener-
+alizing to one supervisor's performance rating at one point in time,
+then 
+
+6. PREDICTOR: job performance
+   CATEGORY: job_performance
+   CONFIDENCE: 0.94
+   CONTEXT: iability. Unlike laffaldano and Muchinsky, how-
+ever, where a study reported correlations involving multiple job
+satisfaction facets, we combined these facets into a composite
+measure of overall job satisfaction. The uncorrected (.20) and
+corrected (.25) correlations are significantly higher than those
+originally reported by laffaldano and Muchinsky. This is due to the
+fact that row 2 represents a
+
+7. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: to be nonzero, the credibility interval is
+relatively wide (from .03 to .57), indicating that there is substantial
+variation in the individual correlations across the 312 studies.
+Furthermore, the Q statistic was significant, and sampling error
+and measurement error accounted for only 25% of this variability.
+This evidence suggests that there are moderators of the relation-
+ship at the study level
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+CORRELATIONS FOUND:
+  1. VALUE: correlation of .33
+     CONFIDENCE: 0.7
+     CONTEXT: way in which facet
+measures of job satisfaction were combined to form a measure of
+overall job satisfaction. We explain reasons for this difference in
+the Discussion and Future Research section. Second, the differ-
+ences in the corrected correlations between estimates based on
+internal consistency v
+
+P-VALUES: p = .33, p = .28, p = .30, p = .31, p = .23
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Not identified
+
+RESULTS SECTION EXCERPT:
+Overall Analysis
+Results of the overall meta-analysis of the relationship between
+job satisfaction and job performance are provided in Table 1. The
+sample size weighted mean correlation between overall job satis-
+faction and job performance, uncorrected for study artifacts or
+unreliability, was .18. The estimated population value of the cor-
+relation between overall job satisfaction and general job perfor-
+mance was .30 when the correlations were corrected for unreli-
+ability in satisfaction and performance measures. For this estimate,
+the 95% confidence interval excluded zero, indicating that we can
+be confident that the average true correlation is nonzero and
+relatively invariable (.27 to .33). The 80% credibility interval also
+excluded zero, indicating that more than 90% of the individual
+corrected true score correlations are greater than zero (the other
+10% of the correlations lie above the upper end of the interval,
+.57). Thus, these results indicate that the mean true correlation
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: IQ, personality, degree, motivation, EQ
+2. Statistics found: 1 correlations, 13 p_values, 1 sample_sizes
+3. High confidence in original findings extraction
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: high
+SECTIONS IDENTIFIED: 4
+TABLES FOUND: 0
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 7
+STATISTICS EXTRACTED: 15
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

@@ -1,0 +1,120 @@
+{
+  "PAPER_METADATA": {
+    "title": "fpsyg 12 518369",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.3389/fpsyg.2021.518369",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). fpsyg 12 518369. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "654\nIndividual",
+    "sample_context": "The role of job\nembeddedness on employee performance: the interactive eﬀects with leader-\nmember exchange and organization-based self-esteem."
+  },
+  "PAPER_SUMMARY": "In order to examine the utilized measures (i.e., VIA-IS120, CFT20-R, MRS-25, WRPS, WDS), minima, maxima, means, standarddeviations, and reliability coeﬃcients (Cronbach’s alpha) were computed for all scales. Correlations between the metrics and employees’ sex and age were calculated. Skewness and kurtosis of all the measures indicated normal distribution for all variables except the counterproductive work behavior (WDS) The variables representing counterproductivework behavior were substantially L-shaped; therefore, they were used in subsequent analyses. The variables representing counterproductive work behavior were substantially L-shaped. The VIA-IS120 scales, CFT 20-R, and MRS-25 scales were used in the study. The variables representing productive and counterproductive behaviors were transformed for further analyses.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "GMA",
+      "context": "f job performance beyond\nthe Big Five. The logic and analysis procedure were congruent\n1The R package “personality factors” only allows for hierarchical regression\nanalyses with two steps. We therefore regressed all variables with sex and age and\nsaved the residuals to compute scores for all scales controlling for sex and age.\nFrontiers in Psychology | www.frontiersin.org\n9\nMarch 2021 | Volume 12 ",
+      "confidence": 1.0
+    },
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "able of interest (as presented in Table 4) were entered as\nindependent variables (method: Enter). Changes in the explained\nvariance (Olkin–Pratt adjusted 1R2) of the dependent variables\nfrom Step 1 to Step 2 were of particular interest. If there was a\nsigniﬁcant increase in the explained variance, character strengths\nexhibited incremental validity beyond GMA (and the control\nvariables sex and age)",
+      "confidence": 1.0
+    },
+    {
+      "category": "work_experience",
+      "predictor": "tenure",
+      "context": "other and did not have access to each\nother’s answers. Both the employees and the supervisors were\ninformed about this in advance.\nThe sample of employees consisted of N = 169 German-\nspeaking participants (male: n = 94; female: n = 75) from various\noccupational groups. The participants’ mean age was M = 38.36\nyears (SD = 9.01, ranging from 22 to 61 years). They were highly\neducated, as n = 71 ind",
+      "confidence": 0.6
+    },
+    {
+      "category": "education",
+      "predictor": "education",
+      "context": "e ﬁnal data set included N = 169 cases.\nFurthermore, there was substantial dropout on the CFT 20-R\ndata, because employees needed to change to a diﬀerent online\nplatform after ﬁlling out the self-assessment measures in order\nto complete the CFT 20-R (i.e., from the Unipark to the Hogrefe\nTest System). As some employees did not do so, CFT 20-R scores\nwere available for 106 of the 169 cases. However",
+      "confidence": 0.6
+    },
+    {
+      "category": "skills",
+      "predictor": "skills",
+      "context": "ativity [originality, ingenuity]: thinking of novel and productive ways to conceptualize and do things; includes but is not limited to artistic achievement\nCuriosity [interest, novelty-seeking, openness to experience]: taking an interest in all of ongoing experience for its own sake; ﬁnding subjects and topics fascinating;\nexploring and discovering\nJudgment [open-mindedness, critical thinking]: th",
+      "confidence": 0.6
+    },
+    {
+      "category": "leadership",
+      "predictor": "leadership",
+      "context": "ained variance (see Table 8\nand\nSupplementary Table 2).\nTo\nconduct\nan\nexploratory\ninvestigation of the most relevant predictors among the\ncharacter strengths, we took a closer look at which character\nstrengths had a signiﬁcant relative weight and a percentage of\npredicted variance ≥5%. Some of the character strengths seemed\nto be relevant more often than others. For example, teamwork\nexplained up ",
+      "confidence": 0.7
+    },
+    {
+      "category": "teamwork",
+      "predictor": "teamwork",
+      "context": "ce, at least\none character strength explained a numerically larger amount\nof variance than GMA and the Big Five, with the exception\nof individual task proactivity, where GMA exhibited the\nnumerically highest amount of explained variance (see Table 8\nand\nSupplementary Table 2).\nTo\nconduct\nan\nexploratory\ninvestigation of the most relevant predictors among the\ncharacter strengths, we took a closer lo",
+      "confidence": 0.7
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "t al., 1995).\nData Screening\nIn order to ensure their trustworthiness and accuracy, the\ndata were screened thoroughly. The raw data encompass 175\nemployees with complete data on the self-rating measures (i.e.,\nVIA-IS120, MRS-25) and supervisor-rated measures (i.e., WRPS,\nWDS). A total of 6 cases were excluded from the data analyses:\nn = 2 because of answer styles and contradictory answers by the\ne",
+      "confidence": 0.7
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "e VIA-IS120 scales (controlling\nfor sex and age) that were signiﬁcantly related to the dependent\nvariable of interest (as presented in Table 4) were entered as\nindependent variables (method: Enter). Changes in the explained\nvariance (Olkin–Pratt adjusted 1R2) of the dependent variables\nfrom Step 1 to Step 2 were of particular interest. If there was a\nsigniﬁcant increase in the explained variance, ",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "ent\nvariable of interest (as presented in Table 4) were entered as\nindependent variables (method: Enter). Changes in the explained\nvariance (Olkin–Pratt adjusted 1R2) of the dependent variables\nfrom Step 1 to Step 2 were of particular interest. If there was a\nsigniﬁcant increase in the explained variance, character strengths\nexhibited incremental validity beyond GMA (and the control\nvariables sex ",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 1,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "in\npersonnel\npsychology:\npractical\nand\ntheoretical\nimplications of 85 years of research ﬁndings. Psychol. Bull. 124, 262–274.\ndoi: 10.1037/0033-2909.124.2.262\nSekiguchi, T., Burton, J. P., and Sablynski, C. J. (2008). The role of job\nembeddedness on employee performance: the interactive eﬀects with leader-\nmember exchange and organization-based self-esteem. Pers. Psychol. 61,\n761–792. doi: 10.1111/j.1744-6570.2008.00130.x\nSeligman, M. E. P., and Csikszentmihalyi, M. (2000). Positive psychology: an\nintroduction. Am. Psychol. 55, 5–14. doi: 10.1037/0003-066X.55.1.5\nStatistisches Bundesamt (2018). Arbeitsmarkt auf einen Blick - Deutschland und\nEuropa [Employment Market at a Glance]. Wiesbaden: Statistisches Bundesamt.\nAvailable\nonline\nat:\nhttps://www.destatis.de/Migration/DE/Publikationen/\nThematisch/Arbeitsmarkt/Erwerbstaetige/BroeschuereArbeitsmarktBlick.\nhtml\nTabachnick, B. G., and Fidell, L. S. (2001). Using Multivariate Statistics, 4th Edn.\nBoston, MA: Pearson.\nTett, R. P., Jackson, ",
+    "results_section": "Preliminary Analyses\nIn order to examine the utilized measures (i.e., VIA-IS120, CFT\n20-R, MRS-25, WRPS, WDS), minima, maxima, means, standard\ndeviations, and reliability coeﬃcients (Cronbach’s alpha) were\ncomputed for all scales. Furthermore, correlations between the\nvariables and employees’ sex and age were calculated (see Table 2\nfor employees’ self-assessments and Table 3 for supervisors’\nratings of their employees).\nTables 2, 3 show that all measures demonstrated satisfactory\nvariability with the exception of counterproductive work\nbehavior (WDS). The minima and maxima indicated that the\nsample consisted of participants having low to high scores on\nthe variables. The scale reliability coeﬃcients were satisfactory\nfor research purposes. As there were small- to medium-\nsized systematic correlations between the utilized measures\nand employees’ sex and age, these demographic variables were\nincluded as control variables in the subsequent data analyses in\norder to prevent any bias in th",
+    "discussion_section": "In the present study, we aimed at investigating the incremental\nvalidity of character strengths as predictors of job performance\nbeyond GMA and the Big Five. Furthermore, we aimed at\nidentifying the most important predictors of job performance\nout of the 24 character strengths, GMA, and the Big Five.\nIn order to achieve a ﬁne-grained overview of the interplay\nbetween character strengths and job performance, nine diﬀerent\nsubdimensions of productive work behavior and two diﬀerent\ndimensions of co"
+  },
+  "NOTES": [
+    "Key predictors identified: GMA, personality, tenure, education, skills",
+    "Statistics found: 15 sample_sizes",
+    "High confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 5,
+    "tables_found": 1,
+    "statistical_tables": 0,
+    "predictors_identified": 10,
+    "statistics_extracted": 15,
+    "confidence_level": "high"
+  }
+}

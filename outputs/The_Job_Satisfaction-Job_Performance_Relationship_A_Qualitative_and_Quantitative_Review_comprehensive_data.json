@@ -1,0 +1,105 @@
+{
+  "PAPER_METADATA": {
+    "title": "The Job Satisfaction Job Performance Relationship A Qualitative and Quantitative Review",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "Not found",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). The Job Satisfaction Job Performance Relationship A Qualitative and Quantitative Review. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": ", individuals",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The seven general models of the job satisfaction-job performance relationship are inconsistent. Part of the confusion may be due to the piecemeal nature of the research. If there is little relationship between job satisfaction and job performance, little to be gained by testing the validity of Models 1-4. If there is little relationship between job satisfaction and job performance, then there can be no direct causal effect. Models 5-7 could be valid in the context of a zero or very weak correlation between individual satisfaction and performance. An important first step in determining the merits of models of the satisfaction-performance relationship is to determine the magnitude of the relationship. There have been two meta-analyses of the job satisfaction-job performance relationship. Petty et al. (1984) provided a limited meta-analysis of the relationship. The authors confined their analyses to 16 studies that werepublished in five journals from 1964 to 1983.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "IQ",
+      "context": "ature is somewhat archaic; causal satisfaction-per-\nformance studies appeared only in the 1970s. If the relationship is\nan important one, as our results suggest, studies of causal influence\nshould resume. Even if job satisfaction and job performance mu-\ntually influence each other, it appears quite possible that the\nrelationship between satisfaction and performance is indirect, me-\ndiated by other",
+      "confidence": 0.8
+    },
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "er research on the validity of\nself-esteem as a moderator. Dipboye (1977) proposed many re-\nfinements to Korman's (1970) theory that might advance research\nin this area, yet few of the propositions and suggestions in Dip-\nboye's review have been investigated.\nJOB SATISFACTION AND JOB PERFORMANCE\n391\nTable 4\nTopics for Future Research on the Job Satisfaction-Job Performance Relationship\nModel\nTopic",
+      "confidence": 0.8
+    },
+    {
+      "category": "education",
+      "predictor": "degree",
+      "context": "Is the Fishbein-Ajzen model relevant to the satisfaction-performance relationship?\nDo dissatisfied employees tend to use poor performance as a withdrawal or adaptive response?\nDoes the performance-rewards contingency moderate the performance —> satisfaction relationship?\nIs Locke's value model relevant to the job performance —> job satisfaction relationship?\nAre high levels of job performance more",
+      "confidence": 0.7
+    },
+    {
+      "category": "motivation",
+      "predictor": "motivation",
+      "context": "n-performance relationship stronger at the group or organization (vs. individual) level of analysis?\nWhat role do intentions play? Is the Fishbein-Ajzen model relevant to the satisfaction-performance relationship?\nDo dissatisfied employees tend to use poor performance as a withdrawal or adaptive response?\nDoes the performance-rewards contingency moderate the performance —> satisfaction relationshi",
+      "confidence": 0.8
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "nward biases in esti-\nmates of actual validity, (p. 209)\nFurthermore, generalizability theory (Cronbach, Gleser, Nanda, &\nRajaratnam, 1972) would suggest that corrections based on inter-\nrater reliability are more likely to reflect the context to which one\nseeks to generalize the relationship. Specifically, if one is gener-\nalizing to one supervisor's performance rating at one point in time,\nthen ",
+      "confidence": 1.0
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "iability. Unlike laffaldano and Muchinsky, how-\never, where a study reported correlations involving multiple job\nsatisfaction facets, we combined these facets into a composite\nmeasure of overall job satisfaction. The uncorrected (.20) and\ncorrected (.25) correlations are significantly higher than those\noriginally reported by laffaldano and Muchinsky. This is due to the\nfact that row 2 represents a",
+      "confidence": 0.94
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "to be nonzero, the credibility interval is\nrelatively wide (from .03 to .57), indicating that there is substantial\nvariation in the individual correlations across the 312 studies.\nFurthermore, the Q statistic was significant, and sampling error\nand measurement error accounted for only 25% of this variability.\nThis evidence suggests that there are moderators of the relation-\nship at the study level",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [
+      {
+        "value": "correlation of .33",
+        "context": "way in which facet\nmeasures of job satisfaction were combined to form a measure of\noverall job satisfaction. We explain reasons for this difference in\nthe Discussion and Future Research section. Second, the differ-\nences in the corrected correlations between estimates based on\ninternal consistency v",
+        "confidence": 0.7
+      }
+    ],
+    "regressions": [],
+    "p_values": [
+      "p = .33",
+      "p = .28",
+      "p = .30",
+      "p = .31",
+      "p = .23"
+    ],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "Overall Analysis\nResults of the overall meta-analysis of the relationship between\njob satisfaction and job performance are provided in Table 1. The\nsample size weighted mean correlation between overall job satis-\nfaction and job performance, uncorrected for study artifacts or\nunreliability, was .18. The estimated population value of the cor-\nrelation between overall job satisfaction and general job perfor-\nmance was .30 when the correlations were corrected for unreli-\nability in satisfaction and performance measures. For this estimate,\nthe 95% confidence interval excluded zero, indicating that we can\nbe confident that the average true correlation is nonzero and\nrelatively invariable (.27 to .33). The 80% credibility interval also\nexcluded zero, indicating that more than 90% of the individual\ncorrected true score correlations are greater than zero (the other\n10% of the correlations lie above the upper end of the interval,\n.57). Thus, these results indicate that the mean true correlation",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: IQ, personality, degree, motivation, EQ",
+    "Statistics found: 1 correlations, 13 p_values, 1 sample_sizes",
+    "High confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 4,
+    "tables_found": 0,
+    "statistical_tables": 0,
+    "predictors_identified": 7,
+    "statistics_extracted": 15,
+    "confidence_level": "high"
+  }
+}

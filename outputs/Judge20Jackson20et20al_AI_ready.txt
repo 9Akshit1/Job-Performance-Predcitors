@@ -1,0 +1,229 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: Judge20Jackson20et20al
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.1037/0021-9010.92.1.107
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). Judge20Jackson20et20al. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): ,
+individuals
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+The overall correlation matrix among the variables is provided in Table 3. We should note that the number of correlations in Table.3 does not match the values in Table 1 because the latter reflects.number of articles, and numerous studies reported correlations for.multiple samples or subgroups. In estimating the relative contri-Table 2                Sources of Meta-Analytic Estimates. We used both regression and path analysis, relying on programs developed by Hunter (1992) and Judge and Ilies (2002) In the regression analysis, we estimated two models. In the first regression, work-relatedperformance was considered as a factor. We used both regression and path analysis, relying on programs developed by Hunter (1992) and Teachout (1995) We used the median sample size for the jobperformance correlations as the sample size. We estimated two models. In the first regression, work-relatedperformance was regressed on the distal variables alone. In a second regression, performance was regressed on all the variables, along with self-efficacy. Taken together, the two models form a hierarchical regression analysis.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: intelligence
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 1.0
+   CONTEXT: lytic estimates were already available, we used these directly.
+In cases in which multiple meta-analyses were conducted, we used
+the most recent comprehensive meta-analysis available.2 Second,
+where meta-analytic estimates were unavailable, we performed our
+own meta-analyses. In order to identify the population of articles
+needed to calculate the remaining estimates in the correlation
+matrix, we s
+
+2. PREDICTOR: conscientiousness
+   CATEGORY: personality
+   CONFIDENCE: 1.0
+   CONTEXT: intervals
+fail to overlap, then one can conclude that the average predictive
+validities differ across the two conditions. Analysis of Self-Efficacy Across All Studies
+The overall correlation matrix among the variables is provided
+in Table 3. We should note that the number of correlations in Table
+3 does not match the values in Table 1 because the latter reflects
+number of articles, and numerous st
+
+3. PREDICTOR: motivation
+   CATEGORY: motivation
+   CONFIDENCE: 1.0
+   CONTEXT: gested because of the relationship
+between self-set goals and self-efficacy, in some models they are com-
+bined. The relationship we found between self-efficacy and self-set goals
+was strong (ˆ  .50; k  50, N  8,126); however, when we added self-set
+goals to the overall analysis, it had a small effect on the self-efficacy–per-
+formance coefficient, decreasing it from ˆ  .13 (ns) to ˆ  .09 
+
+4. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: es.3 In the regression analysis,
+we estimated two models. In the first regression, work-related
+performance was regressed on the distal variables alone. In the
+second regression, work-related performance was regressed on all
+of the distal variables, along with self-efficacy. Taken together, the
+first and second regressions form a hierarchical regression analysis
+in which the distal variables are e
+
+5. PREDICTOR: performance measure
+   CATEGORY: job_performance
+   CONFIDENCE: 1.0
+   CONTEXT: efficacy and work-related performance (ˆ  .41 vs. ˆ 
+.31), goals were assigned (vs. no goals) (ˆ  .52 vs. ˆ  .34),
+individuals had prior (vs. no prior) exposure to the job or task (ˆ 
+.42 vs. ˆ  .31); grid (vs. Likert-type) measures of self-efficacy
+were used (ˆ  .44 vs. ˆ  .32), and the participants were
+undergraduate (vs. postgraduate) students (ˆ  .39 vs. ˆ  .30). (If
+one we
+
+6. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: revious meta-analyses of the self-
+efficacy–performance relationship (Chen et al., 2001; Stajkovic &
+Luthans, 1998). First, only studies that reported task- or job-
+specific self-efficacy (as opposed to generalized self-efficacy)
+were included. Second, the analysis was limited to those studies
+that measured self-efficacy as a predictor as opposed to a criterion.
+Third, only those studies that exam
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Literature Search
+In forming the correlation matrix that was used as input into the
+multivariate analyses, we took two steps. First, where meta-
+analytic estimates were already available, we used these directly.
+In cases in which multiple meta-analyses were conducted, we used
+the most recent comprehensive meta-analysis available.2 Second,
+where meta-analytic estimates were unavailable, we performed our
+own meta-analyses. In order to identify the population of articles
+needed to calculate the remaining estimates in the correlation
+matrix, we searched the PsycINFO database for studies published
+between 1887 and 2002 that referenced these remaining relation-
+ships. In two instances, multiple keywords were used. For GMA,
+we used the keywords intelligence, IQ, mental ability, and cogni-
+tive ability, whereas for emotional stability, we searched for arti-
+cles that also included the keyword neuroticism. The results of the
+initial search and of the number of studies that were deemed
+relevant 
+
+RESULTS SECTION EXCERPT:
+Analysis of Self-Efficacy Across All Studies
+The overall correlation matrix among the variables is provided
+in Table 3. We should note that the number of correlations in Table
+3 does not match the values in Table 1 because the latter reflects
+number of articles, and numerous studies reported correlations for
+multiple samples or subgroups. In estimating the relative contri-
+Table 2
+Sources of Meta-Analytic Estimates
+Variable
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1. General mental ability
+—
+2. Conscientiousness
+NEW
+—
+3. Agreeableness
+NEW
+OVR96
+—
+4. Extraversion
+NEW
+OVR96
+OVR96
+—
+5. Openness
+NEW
+OVR96
+OVR96
+OVR96
+—
+6. Emotional stability
+NEW
+OVR96
+OVR96
+OVR96
+OVR96
+—
+7. Self-efficacy
+NEW
+J&I02
+J&I02
+J&I02
+J&I02
+J&I02
+—
+8. Experience
+NEW
+NEW
+NEW
+NEW
+NEW
+NEW
+NEW
+—
+9. Work-related performance
+S&H98
+Sal03
+Sal03
+Sal03
+Sal03
+Sal03
+NEW
+QFT95
+—
+Note.
+NEW  original to this study; OVR96  Ones, Viswesvaran, and Reiss (1996); S&H98  Schmidt and Hunter (1998); Sal03  Salgado (2003);
+J&I02  Judge and Ilies (2002); QF
+
+DISCUSSION SECTION EXCERPT:
+Social–cognitive theory and its central variable, self-efficacy,
+have been the focus of a voluminous amount of research in
+psychology. Its applicability has been described as “pervasive
+across contexts and domains of human functioning” (Zimmerman
+& Schunk, 2003, p. 448). A primary application of self-efficacy
+has been in the work domain (Bandura, 1997); it appears that the
+dominant role of self-efficacy in work motivation research antic-
+ipated by Landy (1989) has been realized. However, any con
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: intelligence, conscientiousness, motivation, EQ, performance measure
+2. Statistics found: 1 sample_sizes
+3. Low statistical content found
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: low
+SECTIONS IDENTIFIED: 5
+TABLES FOUND: 1
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 6
+STATISTICS EXTRACTED: 1
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

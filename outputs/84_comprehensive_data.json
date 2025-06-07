@@ -1,0 +1,107 @@
+{
+  "PAPER_METADATA": {
+    "title": "84",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "Not found",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). 84. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "N = 159",
+    "sample_context": "The\nspecific design was the cross-sectional design, by means of\nwhich a sample is drawn from a population at a particular point\nin time (Shaughnessy & Zechmeister, 1997).. Sample \nThe sample includes employees of a corporate pharmacy group\nwith 14 retail and 16 hospital pharmacies in the North West\nProvince, Free State, Mpumalanga and Gauteng, as well as a\nhead office (N = 159).. About\n57% of the sample had some form of post-school education."
+  },
+  "PAPER_SUMMARY": "The NEO-Personality Inventory – Revised and Performance Appraisal Questionnaire were used as measuring instruments. The results showed that Emotional Stability, Extraversion, Openness to Experience and Conscientiousness were related to task performance and creativity. Three personality dimensions explained 28% of the variance inparticipants’ management performance. The NEO-Personality Inventory – Revised is as meet-                instrumente gebruik. Emotional Stability, Openness to Experience and Agreeableness explained 28% of the variance in                participants’ management performance. Drie persoonlikheidsdimensies, naamlik Emosionele Stabiliteit, Ekstroversie and Konsensieusheid, hou. Requests for copies should be addressed to: S Rothmann, Programme in IndustrialPsychology, PU for CHE, Private Bag X6001, Potchefstroom, 2520774. The five personality dimensions seem to be relevant to different cultures.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "l correlation was 0,38 (15% overlapping\nvariance), and the second was 0,13 (2% overlapping \nvariance). With both canonical correlations included, F(10,\n298) = 2,76, p < 0,01. Subsequent F-tests were not statistically\nsignificant. The first pair of canonical variates, therefore,\naccounted for the significant relationships between the two\nsets of variables. Data on the first pair of canonical variat",
+      "confidence": 1.0
+    },
+    {
+      "category": "education",
+      "predictor": "degree",
+      "context": "al variate. This pair of canonical variates indicate\nthat emotional stability (low Neuroticism) (-0,65), Extraversion\n(0,51), Openness to Experience (0,75) and Conscientiousness\n(0,35) are associated with Task Performance (0,42) and\nCreativity (0,89).    \nThe results of a stepwise regression analysis with the Big Five\npersonality \ndimensions \nas \nindependent \nvariables \nand\nManagement (as measured",
+      "confidence": 1.0
+    },
+    {
+      "category": "motivation",
+      "predictor": "motivation",
+      "context": "RECOMMENDATIONS\nThe results of this study confirm that the pharmaceutical\ncompany should consider the personality dimensions of \ntheir employees when predicting creativity and managerial\nperformance during selection and career development.\nHowever, more research is needed before these results are \nused to predict job performance because they were not\nobtained in a selection context. Furthermore, b",
+      "confidence": 1.0
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "Conscientiousness\n(0,35) are associated with Task Performance (0,42) and\nCreativity (0,89).    \nThe results of a stepwise regression analysis with the Big Five\npersonality \ndimensions \nas \nindependent \nvariables \nand\nManagement (as measured by the PAQ) are shown in Table 5.\nTHE BIG FIVE PERSONALITY DIMENSIONS\n71\nTABLE 5\nMULTIPLE REGRESSION ANALYSIS REGARDING PERSONALITY\nDIMENSIONS AND MANAGEMENT\nA",
+      "confidence": 1.0
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "Secondly, the\nsample consisted largely of females, which implies that the\nresults could not be generalised to males. Thirdly, the results\ncannot be generalised to other settings. Lastly, the research\ndesign does not allow one to determine the direction of the\nrelationships obtained. \nRECOMMENDATIONS\nThe results of this study confirm that the pharmaceutical\ncompany should consider the personality d",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "Source of \nDegrees of\nSum of\nMean square\nvariance\nfreedom\nsquares\nR2 = 0,28\nRegression\n8\n4068,75\n813,75\nF = 5,60    f2 = 0,38\nResidual\n73\n10613,12\n145,39\nVARIABLES IN THE EQUATION\nIndependent variables Parameter\nStandard \nF\np\nerror\nIntercept\n32,98\n21,67\n1,52\n0,1324\nNeuroticism\n-0,16\n0,08\n-1,89\n0,0622\nExtraversion\n-0,05\n0,08\n-0,67\n0,5069\nOpenness \n0,29\n0,08\n3,48\n0,0008\nAgreeableness\n0,16\n0,07\n2,15\n",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [
+      {
+        "value": "R = 0",
+        "context": "ow Neuroticism) (-0,65), Extraversion\n(0,51), Openness to Experience (0,75) and Conscientiousness\n(0,35) are associated with Task Performance (0,42) and\nCreativity (0,89).    \nThe results of a stepwise regression analysis with the Big Five\npersonality \ndimensions \nas \nindependent \nvariables \nand\nMan",
+        "confidence": 1.0
+      },
+      {
+        "value": "correlation\n0",
+        "context": "ance set included Task\nPerformance and Creativity.\nTABLE 4\nRESULTS OF THE CANONICAL ANALYSIS: PERSONALITY DIMENSIONS\nAND PERFORMANCE\nFirst Canonical Variate\nCorrelation\nCoefficient\nPersonality dimensions set\nNeuroticism\n-0,65\n-0,73\nExtraversion\n0,51\n-0,06\nOpenness to Experience\n0,75\n0,78\nAgreeablene",
+        "confidence": 1.0
+      },
+      {
+        "value": "correlation of 0",
+        "context": "second was 0,13 (2% overlapping \nvariance). With both canonical correlations included, F(10,\n298) = 2,76, p < 0,01. Subsequent F-tests were not statistically\nsignificant. The first pair of canonical variates, therefore,\naccounted for the significant relationships between the two\nsets of variables. D",
+        "confidence": 1.0
+      }
+    ],
+    "regressions": [],
+    "p_values": [
+      "p < 0"
+    ],
+    "r_squared": [
+      "R2 = 0"
+    ],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Research design \nA survey design was used to achieve the research objectives. The\nspecific design was the cross-sectional design, by means of\nwhich a sample is drawn from a population at a particular point\nin time (Shaughnessy & Zechmeister, 1997). \nSample \nThe sample includes employees of a corporate pharmacy group\nwith 14 retail and 16 hospital pharmacies in the North West\nProvince, Free State, Mpumalanga and Gauteng, as well as a\nhead office (N = 159). The total population of pharmacists (n =\n59) and non-pharmacists (n = 100) was included in the\nempirical study. All pharmacists had a B.Pharm. degree or a\nDiploma in Pharmacy, while the qualifications of non-\npharmacists varied from Grade 10 to a master’s degree. About\n57% of the sample had some form of post-school education.\nThe total population of employees participated in the research.\nApproximately 83% of the sample consisted of females. The\nages of the participants varied between 18 and 58 years, with\n53% in the age group between",
+    "results_section": "The descriptive statistics of the PAQ for the sample are given in\nTable 1.\nTABLE 1\nDESCRIPTIVE STATISTICS OF THE PAQ\nItem\nMean\nSD\nSkewness\nKurtosis\nr (Mean) \n\u0001\nTask Performance\n59,05\n9,87\n-1,03\n1,70\n0,48\n0,88\nCreativity\n57,30\n13,58\n-0,48\n0,15\n0,71\n0,96\nManagement\n58,84\n13,67\n-0,50\n-0,45\n0,70\n0,96\nROTHMANN, COETZER\n70\nTable 1 shows that above average scores were obtained on the\nthree dimensions of the PAQ. Regarding skewness and\nkurtosis, it is clear that the results were somewhat skew\nregarding Task Performance. This skewness may be attributed\nto the fact that poor performers on this dimension probably\nleft the organisation. Scores on the other dimensions seem to\nbe normally distributed. Table 1 shows that high Cronbach\nalpha coefficients were obtained for all the factors (Nunnally\n& Bernstein, 1994). The correlation coefficients between the\nitems of scales (0,48 \u0002 r \u0002 0,70) indicate that the items\ncorrelate too highly (Clark & Watson, 1995). However, this\nshould be seen in the context",
+    "discussion_section": "Analysis of the product-moment correlations between\npersonality dimensions, task performance and creativity\nshowed that no practically significant relationships existed.\nHowever, the results of the canonical analysis showed that a\ncombination of emotional stability (i.e. low Neuroticism),\nExtraversion, Openness to Experience and Conscientiousness\nexplained about 15% of the variance in task performance \nand creativity. \nIt seems that employees who tend towards Neuroticism (i.e. who\nare prone to h"
+  },
+  "NOTES": [
+    "Key predictors identified: personality, degree, motivation, EQ, job performance",
+    "Statistics found: 3 correlations, 1 p_values, 1 r_squared, 3 sample_sizes",
+    "Medium confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 5,
+    "tables_found": 0,
+    "statistical_tables": 0,
+    "predictors_identified": 6,
+    "statistics_extracted": 8,
+    "confidence_level": "medium"
+  }
+}

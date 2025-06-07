@@ -1,0 +1,180 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: The Use of Technologies in the Recruiting Screenin
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.1111/1468-2389.00234
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). The Use of Technologies in the Recruiting Screenin. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: cross_sectional
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): 5000
+employees
+SAMPLE CONTEXT: These professionals were sampled from
+members of the Society for Human Resource Management
+(SHRM) who had indicated that they were at the corporate
+level (as opposed to branch or regional level) and listed
+‘Employment/Recruitment’ as their primary function.
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+The respondents were a fairly well educated group with 63.3% possessing a bachelor’s degree. The typical respondent described their position in Human Resources as: manager. The respondents worked in organiza-                tions that ranged in size from less than 100 to over 5000. The typical respondent described their position in Human Resources as: manager (43.3%), other (22.7%), director (12.4%), president (5.1%), vice president (4.1%) and assistant manager (2.1%). The respondents were a fairly well educated group with 63.3% possessing a bachelor’s degree, 11.7% aBA, 10.6% some college work, and 1.1% a doctorate. Most frequent age group was 30–39 (36.6%) followed by 40–49 (21.5%) and 50–59 (15.1%) In addition, the majority of participants was 71.6% female (71.6%).Technologies used by Function and Organizational Level (Functional) and Level of Experience (Level of Experience) HR managers used various media to advertise their positions.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: cognitive ability
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 0.7
+   CONTEXT: he first argument is that the use of
+technology appears to be very successful in generating
+applicants (although not always the right ones) suggesting
+that applicants are comfortable enough to use the
+technology when it is provided. The second argument is
+that, while a larger number of applicants may result,
+ultimately, a more efficient screening system may permit
+more ’face time’ with the best ap
+
+2. PREDICTOR: personality
+   CATEGORY: personality
+   CONFIDENCE: 0.7
+   CONTEXT: ned out.
+What about Cheating? Organizations identified a hurdle
+to using online applications, particularly for using compu-
+ter-based testing for cognitive ability, knowledge, etc. – that
+is, the problem of ensuring that the individual sitting at the
+computer is really the applicant and not a local rocket
+scientist hired to take the test for the applicant. Further,
+employers worried about placing 
+
+3. PREDICTOR: education
+   CATEGORY: education
+   CONFIDENCE: 0.7
+   CONTEXT: he organization, choosing from six categories that
+matched the SHRM membership database (i.e., less than
+100; 100–499; 500–999, 1000–2499, 2500–4999, 5000
+and above). Another item asked respondents to estimate
+the number of employees in five years’ time to get an
+estimate of the organization’s growth rate. The job title of
+the person completing the survey was captured by choosing
+from 12 categorie
+
+4. PREDICTOR: abilities
+   CATEGORY: skills
+   CONFIDENCE: 0.7
+   CONTEXT: hurdle
+to using online applications, particularly for using compu-
+ter-based testing for cognitive ability, knowledge, etc. – that
+is, the problem of ensuring that the individual sitting at the
+computer is really the applicant and not a local rocket
+scientist hired to take the test for the applicant. Further,
+employers worried about placing proprietary tests online as
+they might be copied by compe
+
+5. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: her organizational image predicted future
+investment in HR technology we first subjected the 16
+organizational image items to a principal components
+factor analysis with orthogonal rotation. This yielded two
+organizational image factors including: (a) People Orienta-
+tion, 11 items, alpha 5 .97, (e.g., ‘respect for people’,
+‘people orientation’, ‘well-managed’, ‘an excellent employ-
+er’) and (b) D
+
+6. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: gh adopting these technologies.
+For example, it is important to know whether HR
+managers are realizing the benefits they envisioned when
+they purchased these technologies.
+Although technology is rapidly changing the Human
+Resource function in many organizations, we know little
+about whether adopting these technologies has provided
+solutions to HR problems. Although anecdotes are readily
+available,
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+This study consisted of a web-based survey administered to
+a broad subset of HR managers who were members of the
+Society for Human Resource Management (SHRM).
+Before conducting the survey, we conducted in-depth
+interviews with six senior HR personnel from some of the
+world’s largest and most influential companies. These
+interviews allowed us to discover the types of technologies
+used in leading companies and to identify critical issues
+related to technologies.
+In February 2001, we designed the web-based survey to
+assess HR professionals’ use of technologies with job
+candidates. To minimize the influence of priming effects,
+two versions of the survey were created by counter-
+balancing the order of data collected. The survey collected
+a wide variety of data from HR professionals representing
+125 organizations. These professionals were sampled from
+members of the Society for Human Resource Management
+(SHRM) who had indicated that they were at the corporate
+level (as opposed to branch or r
+
+RESULTS SECTION EXCERPT:
+Approximately 75% of the respondents completed the
+demographic characteristics. They represented a wide
+variety of organizations in many industries, including ‘for
+profit services’ industry (20.4%), other (18.3%), manu-
+facturing durables (12.9%), and utilities (9.7%), with the
+remaining organizations spread over the other industries
+listed in the survey. The respondents worked in organiza-
+tions that ranged in size from less than 100 to over 5000:
+the largest group came from organizations exceeding 5000
+employees (23.7%), followed by 100–499 employees
+(21.6%), 500–999 (15.5%), o100 (15.5%), 1000–2499
+(13.4%), and 2500–4999 (10.3%). The typical respondent
+described their position in Human Resources as: manager
+(43.3%), other (22.7%), director (12.4%), president
+(5.1%), vice president (4.1%), consultant (4.1%), super-
+visor (3.1%), administrator (3.1%), and assistant manager
+(2.1%). The respondents were a fairly well educated group
+with 63.3% possessing a bachelor’s degree, 11.7% an
+MBA
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: cognitive ability, personality, education, abilities, EQ
+2. Statistics found: 4 sample_sizes
+3. Low statistical content found
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: low
+SECTIONS IDENTIFIED: 4
+TABLES FOUND: 1
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 6
+STATISTICS EXTRACTED: 4
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

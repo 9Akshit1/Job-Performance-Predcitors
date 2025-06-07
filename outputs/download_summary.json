@@ -1,0 +1,51 @@
+{
+  "downloaded_papers": [
+    {
+      "title": "Judge20Jackson20et20al",
+      "authors": "Local File - Unknown",
+      "year": "Unknown",
+      "source": "Local Storage",
+      "url": "",
+      "pdf_path": "papers\\Judge20Jackson20et20al.pdf",
+      "search_query": "existing_papers"
+    },
+    {
+      "title": "Proactive Personality and Career Success",
+      "authors": "Local File - Unknown",
+      "year": "Unknown",
+      "source": "Local Storage",
+      "url": "",
+      "pdf_path": "papers\\Proactive_Personality_and_Career_Success.pdf",
+      "search_query": "existing_papers"
+    },
+    {
+      "title": "Situational Judgement Tests",
+      "authors": "Local File - Unknown",
+      "year": "Unknown",
+      "source": "Local Storage",
+      "url": "",
+      "pdf_path": "papers\\Situational_Judgement_Tests.pdf",
+      "search_query": "existing_papers"
+    }
+  ],
+  "failed_downloads": [],
+  "processed_papers": [
+    {
+      "title": "Judge20Jackson20et20al",
+      "pdf_path": "papers\\Judge20Jackson20et20al.pdf",
+      "extracted_path": "outputs\\Judge20Jackson20et20al_AI_ready.txt"
+    },
+    {
+      "title": "Proactive Personality and Career Success",
+      "pdf_path": "papers\\Proactive_Personality_and_Career_Success.pdf",
+      "extracted_path": "outputs\\Proactive_Personality_and_Career_Success_AI_ready.txt"
+    },
+    {
+      "title": "Situational Judgement Tests",
+      "pdf_path": "papers\\Situational_Judgement_Tests.pdf",
+      "extracted_path": "outputs\\Situational_Judgement_Tests_AI_ready.txt"
+    }
+  ],
+  "processing_errors": [],
+  "web_content_extracted": []
+}

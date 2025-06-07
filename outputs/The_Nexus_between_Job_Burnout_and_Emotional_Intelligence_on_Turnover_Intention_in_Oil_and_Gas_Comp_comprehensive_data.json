@@ -1,0 +1,118 @@
+{
+  "PAPER_METADATA": {
+    "title": "The Nexus between Job Burnout and Emotional Intelligence on Turnover Intention in Oil and Gas Comp",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "Not found",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). The Nexus between Job Burnout and Emotional Intelligence on Turnover Intention in Oil and Gas Comp. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "Not specified",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The results of the ongoing study firstly shows the convergent validity that describes the links among the items. The statistics of loading and AVE are larger than 0.50 while statistics of                 �CR and Alpha are not lower than. 0.70 which shows that there is a high linkage. The output of the current study secondly show the discriminant validity that. describes the link between the items and emotions. The output of the current study secondly show the discriminant validity that describes the                  Nexus among the constructs. The figures of Heterotrait Monotrait ratios are not bigger than 0.90 that show the no high linkage among constructs. The findings of the path analysis show that job burnout, job satisfaction, and emotional intelligence have a positive association with turnover intentions and accept H1, H2, and H3. The figures of Heterotrait Monotrait ratios are not bigger than                 0.90 that show the no high linkage among the constructs.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "intelligence",
+      "context": "advantages. There is a deep significance \nin understanding the relationship and the impact of the IVs and the DVs and the mediating \nfactors of this study. This study shall use a quantitative method of research employing only \nsurvey sessions with employees of oil and gas companies in UAE. This will be another \ntheoretical contribution to this subject and will add a new avenue of understanding.  \n",
+      "confidence": 1.0
+    },
+    {
+      "category": "personality",
+      "predictor": "trait",
+      "context": "EM4 \n0.826 \n  \n  \n  \n \nEM5 \n0.808 \n  \n  \n  \nJob Burnout \nJB1 \n0.800 \n0.872 \n0.908 \n0.663 \n \nJB2 \n0.878 \n  \n  \n  \n \nJB3 \n0.855 \n  \n  \n  \n \nJB4 \n0.757 \n  \n  \n  \n \nJB5 \n0.775 \n  \n  \n  \nJob Satisfaction \nJS1 \n0.816 \n0.861 \n0.900 \n0.642 \n \nJS2 \n0.861 \n  \n  \n  \n \nJS3 \n0.744 \n  \n  \n  \n \nJS4 \n0.743 \n  \n  \n  \n \nJS5 \n0.836 \n  \n  \n  \nTurnover \nIntentions \nTI1 \n0.796 \n0.849 \n0.898 \n0.689 \n \nTI2 \n0.836 \n  \n  \n",
+      "confidence": 0.7
+    },
+    {
+      "category": "education",
+      "predictor": "training",
+      "context": "better creative ideas to organisations. \nThis, in turn, helps organisations to develop new ways of earning or new ways of \nstrategically completing work. Job satisfaction is an important aspect that is required to be \n    International Journal of Innovation, Creativity and Change.  www.ijicc.net  \nVolume 13, Issue 11, 2020 \n \n362 \n \n \n \nconsidered by different firms. However, this is needed to be ",
+      "confidence": 0.51
+    },
+    {
+      "category": "skills",
+      "predictor": "skills",
+      "context": "re of employees to adjust and cope up \nwith the work pressure, which is very high in UAE’s oil and gas industry (Vanda & \nHaghighi, 2014). Threats to the job and other severe risks are also present in these oil \ncompanies. Due to this, job burnout is seen among employees of the UAE’s oil and gas \ncompanies.  \n \nThe reason to include emotional intelligence in this study is justified because it is t",
+      "confidence": 0.81
+    },
+    {
+      "category": "motivation",
+      "predictor": "motivation",
+      "context": "lay any mediating role \nbetween job burnout and turnover intention. Leunissen et al., (2018) believe that job \nsatisfaction at work helps people to develop their self-motivation, which plays an active role \nin resolving burnout issues and checking the rate of employee turnover. Hence, this study \nshall examine the mediating role of job satisfaction with variables like job burnout, emotional \nintel",
+      "confidence": 0.81
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "emotional intelligence",
+      "context": "efits and advantages. There is a deep significance \nin understanding the relationship and the impact of the IVs and the DVs and the mediating \nfactors of this study. This study shall use a quantitative method of research employing only \nsurvey sessions with employees of oil and gas companies in UAE. This will be another \ntheoretical contribution to this subject and will add a new avenue of underst",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "les together in relation to employees’ turnover intention. These factors help to \nunderstand both motivational and stress factors of workplaces. These factors can offer useful \ninsights to leaders and managers of organisations. Lu et al., (2016) state that, owing to some \nof these factors, employees in the UAE companies prefer to change their jobs. They receive \nseveral kinds of benefits from diff",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 14,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 15,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 15,
+      "table_index": 2,
+      "table_type": "regression_results",
+      "contains_statistics": true,
+      "table_content": "                    Beta   S.D. t-values p-values\n0        EM -> TI  0.349  0.034   10.365    0.000\n1        JB -> JS  0.433  0.034   12.793    0.000\n2        JB -> TI  0.299  0.035    8.598    0.000\n3        JS -> TI  0.230  0.033    6.873    0.000\n4  JB -> JS -> TI  0.100  0.016    6.241    0.000",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "The results of the ongoing study firstly shows the convergent validity that describes the links \namong the items and the statistics of loading and AVE are larger than 0.50 while statistics of \nCR and Alpha are not lower than 0.70 which shows that there is a high linkage among the \nitems that are highlighted in Table 1 given below: \n \nTable 1: Convergent Validity \nConstructs \nItems \nLoadings \nAlpha \nCR \nAVE \nEmotions  \nEM1 \n0.807 \n0.840 \n0.893 \n0.676 \n \nEM2 \n0.846 \n  \n  \n  \n \nEM4 \n0.826 \n  \n  \n  \n \nEM5 \n0.808 \n  \n  \n  \nJob Burnout \nJB1 \n0.800 \n0.872 \n0.908 \n0.663 \n \nJB2 \n0.878 \n  \n  \n  \n \nJB3 \n0.855 \n  \n  \n  \n \nJB4 \n0.757 \n  \n  \n  \n \nJB5 \n0.775 \n  \n  \n  \nJob Satisfaction \nJS1 \n0.816 \n0.861 \n0.900 \n0.642 \n \nJS2 \n0.861 \n  \n  \n  \n \nJS3 \n0.744 \n  \n  \n  \n \nJS4 \n0.743 \n  \n  \n  \n \nJS5 \n0.836 \n  \n  \n  \nTurnover \nIntentions \nTI1 \n0.796 \n0.849 \n0.898 \n0.689 \n \nTI2 \n0.836 \n  \n  \n  \n \nTI4 \n0.850 \n  \n  \n  \n \nTI5 \n0.835 \n  \n  \n  \n \nThe output of the current study secondly show the discriminant validi",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: intelligence, trait, training, skills, motivation",
+    "Statistical tables: regression_results",
+    "Low statistical content found"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 5,
+    "tables_found": 3,
+    "statistical_tables": 1,
+    "predictors_identified": 7,
+    "statistics_extracted": 0,
+    "confidence_level": "low"
+  }
+}

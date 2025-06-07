@@ -1,0 +1,108 @@
+{
+  "PAPER_METADATA": {
+    "title": "2019inpact040",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.36315/2019inpact040",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). 2019inpact040. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "n = 13",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The study aimed to examine the relationship between personality traits according to the Six Factor Personality Inventory (HEXACO), and job performance and job satisfaction. A total of 852 people                  (433 women and 419 men) from 154 different professions participated in the study. To predict job performance and job satisfaction, the data was analyzed by multiple linear regression. The sub-dimensions of Modesty, Fairness, Social                  Self-Esteem, Liveliness, Perfectionism, Diligence and the factors of Extraversion, Conscientiousness                 predicted job performance. Job performance groups differed in the factors of Honesty-Humility, Extraversion, Conscientiousness, Openness to Experience, and job satisfaction groups. As for the sub-dimensions, groups that were high in job performance andJob satisfaction differed from the groups that were low in many personality traits.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "was analyzed by multiple linear \nregressions. Social Self-Esteem, Liveliness, Perfectionism, Diligence sub-dimensions were found \neffective in predicting job performance and Modesty, Liveliness, Social Boldness, Forgiveness, Patience, \nDiligence sub-dimensions were found effective in predicting job satisfaction. Models generated to predict \njob performance (R2 = 0.140, F24, 851 = 5.588, p < 0.001)",
+      "confidence": 0.9
+    },
+    {
+      "category": "education",
+      "predictor": "university",
+      "context": "ccording to the evaluations they made about their job performance and job \nsatisfaction levels. \n \n2. Methods \n \n2.1. Participants \nA total of 852 people working at a job for a year or longer and working in 154 different \nprofessions, 433 women (50.8%) and 419 men (49.2%) participated in the study. Their age range was \nbetween 20 and 74 (mean = 37.36, sd = 10.73), and they worked at a job for a pe",
+      "confidence": 0.7
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "f the Turkish adaptation showed internal consistency coefficients ranging from 0.72 to 0.78 for six \nfactors and from 0.29 to 0.77 for 24 sub-dimensions (Tatar, 2018). \n \n2.3. Application \nThe study was conducted in Istanbul with those who voluntarily accepted to participate. It took \n20-30 minutes for a person to complete the form. All applications were completed in nearly one year. \n \n2.4. Resul",
+      "confidence": 0.9
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "t of Psychology, FSM Vakıf University / Associate Professor (Turkey) \n2Psychologist (Turkey) \n \n \n \nAbstract \n \nThe study aimed to examine the relationship between personality traits according to the Six Factor \nPersonality Inventory (HEXACO), and job performance and job satisfaction. A total of 852 people  \n(433 women and 419 men) from 154 different professions participated in the study. The age ",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "ersity / Associate Professor (Turkey) \n2Psychologist (Turkey) \n \n \n \nAbstract \n \nThe study aimed to examine the relationship between personality traits according to the Six Factor \nPersonality Inventory (HEXACO), and job performance and job satisfaction. A total of 852 people  \n(433 women and 419 men) from 154 different professions participated in the study. The age range of the \nparticipants was ",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [
+      "p < 0.001",
+      "p<0.05",
+      "p<0.01",
+      "p<0.001"
+    ],
+    "r_squared": [
+      "R2 = 0.140",
+      "R2 = 0.100",
+      "R2 = 0"
+    ],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 2,
+      "table_index": 1,
+      "table_type": "regression_results",
+      "contains_statistics": true,
+      "table_content": "                  Factors Alpha Job Performance      None Job Satisfaction      None\n0                    None  None               β         t                β         t\n1                Constant                        7.825***                   3.818***\n2        Honesty-Humility  0.74          -0.060    -1.716            0.008     0.218\n3            Emotionality  0.71          -0.052    -1.544            0.003     0.081\n4            Extraversion  0.77           0.132  3.721***            0.142  3.902***\n5           Agreeableness  0.74           0.045     1.320            0.146  4.239***\n6       Conscientiousness  0.75           0.224  6.495***            0.088    2.497*\n7  Openness to Experience  0.74           0.035     1.001            0.011     0.318",
+      "statistical_summary": []
+    },
+    {
+      "page": 3,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "Not identified",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: personality, university, EQ, job performance, AC",
+    "Statistics found: 4 p_values, 3 r_squared, 1 sample_sizes",
+    "Statistical tables: regression_results",
+    "Medium confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 2,
+    "tables_found": 2,
+    "statistical_tables": 1,
+    "predictors_identified": 5,
+    "statistics_extracted": 8,
+    "confidence_level": "medium"
+  }
+}

@@ -1,0 +1,212 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: Patterns of co occurrent skills in UK job adverts
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.1086/718327.
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). Patterns of co occurrent skills in UK job adverts. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: longitudinal
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): N = 3096
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+A job usually involves the application of several complementary or synergistic skills. Such relationships are implicitly recognised by employers in the skills they demand. Here we construct a skills network based on their co-occurrencein a national level data set of 65 million job postings from the UK spanning 2016 to 2022.  skill clusters display diverse levels of demand and occupy varying roles within the skills network. Clear geographic variation is evident in demand for each skill cluster across the UK. London appears as an outlier as an international hub for finance, education and business. Comparison of data from 2016 and 2022 reveals employers are demanding a broaderrange of skills over time. Comparing data from 2016 and 2022 reveals employers are demanding a broader range of skills over time. Clear geographic variation is evident in the demand for each skill cluster across the UK. London appears as an outlier as an international hub for finance, education and business.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: intelligence
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 0.9
+   CONTEXT: posting the advert, among
+others. For this work, we extract from each job advert its unique identifier, date of first posting, and
+location associated with the advert, as well as two fields provided by Adzuna Intelligence’s proprietary
+algorithms: the skills associated with each job, and the predicted salary, as discussed below.
+Matching Adzuna skills to the Lightcast taxonomy:
+To identify the ski
+
+2. PREDICTOR: education
+   CATEGORY: education
+   CONFIDENCE: 0.8
+   CONTEXT: ,
+we also include the full analysis of the coarser partition (MS7) into 7 skill clusters.
+Quality Assurance and Test Automation
+Imaging Technology
+Sales and Customer Relationship
+Professional Skills
+Hospitality and Food Industry
+Accounting and Finance
+Data Science and Analytics
+Cybersecurity and Information Systems Protection
+Software Development Technologies
+Supply Chain Management
+Financial Serv
+
+3. PREDICTOR: skills
+   CATEGORY: skills
+   CONFIDENCE: 1.0
+   CONTEXT: y the
+prevalence of individual skills, but also their complementarity and synergy.
+The focus on relationships between skills lends itself naturally to network analysis methods, in the
+spirit of research in economic complexity, where economic networks are built using empirical data that
+captures pairwise relationships between entities (countries, industries, firms) based on similarities of
+their ec
+
+4. PREDICTOR: drive
+   CATEGORY: motivation
+   CONFIDENCE: 0.9
+   CONTEXT: technologies [8, 20, 21]. Given that most jobs, and consequently job adverts,
+require several skills [6, 13, 14], the study of modern labour markets must consider not only the
+prevalence of individual skills, but also their complementarity and synergy.
+The focus on relationships between skills lends itself naturally to network analysis methods, in the
+spirit of research in economic complexity, whe
+
+5. PREDICTOR: collaboration
+   CATEGORY: teamwork
+   CONFIDENCE: 0.6
+   CONTEXT: Sankey diagram in Fig. 3).
+Acknowledgements
+The authors thank Christopher Pissarides, Abby Gilbert, Thomas Beaney, Dominik J. Schindler,
+Meghdad Saeedian and Robert L. Peach for valuable discussions. We are also grateful to colleagues
+20
+at Adzuna, particularly Scott Sweden and James Neave, for supplying the data used in this report.
+This work was done under the Pissarides Review into the Future o
+
+6. PREDICTOR: communication
+   CATEGORY: communication
+   CONFIDENCE: 0.7
+   CONTEXT: ent and Governance
+Hospitality and Food Services
+Personal Care and Services
+Performing Arts, Sports, and Recreation
+Agriculture, Horticulture, and Landscaping
+Social and Human Services
+Property and Real Estate
+Energy and Utilities
+Maintenance, Repair, and Facility Services
+Customer and Client Support
+Transportation, Supply Chain, and Logistics
+Administration
+Manufacturing and Production
+Design
+Hum
+
+7. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 0.9
+   CONTEXT: as well as two fields provided by Adzuna Intelligence’s proprietary
+algorithms: the skills associated with each job, and the predicted salary, as discussed below.
+Matching Adzuna skills to the Lightcast taxonomy:
+To identify the skills present in each
+advert, Adzuna match specific keywords in the text of an advert to a dictionary of 6265 pre-defined
+skills. To aid comparisons to other work, we map
+
+8. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 0.9
+   CONTEXT: he organisation posting the advert, among
+others. For this work, we extract from each job advert its unique identifier, date of first posting, and
+location associated with the advert, as well as two fields provided by Adzuna Intelligence’s proprietary
+algorithms: the skills associated with each job, and the predicted salary, as discussed below.
+Matching Adzuna skills to the Lightcast taxonomy:
+To 
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+CORRELATIONS FOUND:
+  1. VALUE: Relationship
+81
+     CONFIDENCE: 1.0
+     CONTEXT: skill cluster nor-
+malised by the number of adverts.
+The average mentions range from common skills in the
+5
+Table 1: Summary of properties of the medium resolution data-driven skill clusters (MS21).
+Cluster
+Number
+of Skills
+Number
+of Mentions
+Average
+Mentions
+Semantic
+Similarity
+Skill
+Containment
+Cl
+
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+The UK job postings data set
+The data is provided by Adzuna Intelligence, an online job search engine that collates and organises
+information from various sources (e.g., employers’ websites, recruitment software providers, traditional
+job boards), and generates a weekly snapshot that captures over 90% of all jobs being advertised in
+the UK [17, 30]. The original data set contained 197 million job adverts published by 606,450 different
+organisations and collected via weekly snapshots during 2016 (April-December, 9 months) and 2018,
+17
+2020 and 2022 (complete years), for a total of 45 months. Each job advert contains the free text
+of the original job description, and structured information scraped from the text, e.g., the date the
+advert was made available, and the name and location of the organisation posting the advert, among
+others. For this work, we extract from each job advert its unique identifier, date of first posting, and
+location associated with the advert, as well as two field
+
+RESULTS SECTION EXCERPT:
+From job adverts to a skills network
+Our analysis is carried out on a curated and deduplicated data set containing 65 million job adverts
+posted in the UK collected weekly during 2016 (11 million adverts, 1.2 million/month over 9 months),
+2018 (18 million, 1.5 million/month, 12 months), 2020 (16 million, 1.3 million/month, 12 months)
+2
+and 2022 (20 million, 1.6 million/month, 12 months) for an average of 1.4 million adverts per month.
+Each advert has its date of first posting, geographical location, and is linked to at least one skill out
+of the 3906 skills in the Lightcast Open Skills taxonomy. Crucially, 99.6% of adverts contain at least
+one skill. For a full description of the data set and preprocessing, see Methods.
+The total mentions of skills in the data set is 634 million, i.e., each advert is linked to 9.4 skills
+on average. This means that there is a rich source of information in the co-occurrence of skills within
+each advert. As described in Methods, we summarise the patterns
+
+DISCUSSION SECTION EXCERPT:
+Using data from 65 million job adverts in the UK between 2016 and 2022, we use a network con-
+struction and graph-based multiscale clustering to find data-driven skill clusters based on their co-
+occurrence patterns, as demanded by employers.
+Our analysis has focused on a configuration of
+21 skill clusters (MS21), identified as optimal based on data-driven criteria, as providing enough
+granularity and interpretability.
+To analyse the relationship between skills in the co-occurrence network, we u
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: intelligence, education, skills, drive, collaboration
+2. Statistics found: 1 correlations, 2 sample_sizes
+3. Low statistical content found
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: low
+SECTIONS IDENTIFIED: 6
+TABLES FOUND: 1
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 8
+STATISTICS EXTRACTED: 3
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

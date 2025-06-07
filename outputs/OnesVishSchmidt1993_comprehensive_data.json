@@ -1,0 +1,165 @@
+{
+  "PAPER_METADATA": {
+    "title": "OnesVishSchmidt1993",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1037/a0024825",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). OnesVishSchmidt1993. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "N= 27",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "All content following this page was uploaded by Frank L. Schmidt on 27 August 2014. The user has requested enhancement of the downloaded file. See discussions, stats, and author profiles for the publication at: http://www.researchgate.net/publication/224955629. The user has requested enhancement of the downloaded file. Results indicate that integrity testvalidities are substantial for predicting job performance and counterproductive behaviors. The authors conducted a comprehensive meta-analysis based on 665 validity coefficients across576,460 data points to investigate whether integrity test validities are generalizable. The authors conducted a comprehensive meta-analysis based on 665 validity coefficients across576,460 data points. Results indicate that integrity testvalidities are substantial for predicting job performance and counterproductive behaviors on the job. Despite the influence of moderators, integrity test validities are generalizable.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "ability test",
+      "context": "es of minorities and\nWhites (e.g., Arnold, 1989; Bagus, 1988; Cherrington, 1989;\nMoretti & Terris, 1983; Strand & Strand, 1986; Terris & Jones;\n1982). Sackett et al. (1989) concluded that \"minority groups are\nnot adversely affected by either overt integrity tests or personal-\nity oriented measures\" (p. 499). Integrity test scores and race\nappear to be uncorrelated. From the ability-testing and per",
+      "confidence": 0.8
+    },
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "rrent validity estimates overestimate\npredictive validity.\nIn selection research, the best estimate of operational selec-\ntion validities of integrity tests for predicting theft would be\nbased on predictive studies conducted on applicants. In addi-\ntion, many would argue for reliance on external criteria in pref-\nerence to admissions criteria. Considering externally measured\ntheft as the criterion",
+      "confidence": 1.0
+    },
+    {
+      "category": "education",
+      "predictor": "education",
+      "context": "ng moderators.\nThe finding that selection instruments can predict externally\nmeasured composite measures of irresponsible or counterpro-\nductive behaviors (e.g., disciplinary problems, disruptiveness\non the job, tardiness, or excessive absenteeism) with substantial\nvalidity seems remarkable. Industrial psychologists have long\nbeen concerned with such behaviors and their negative impact\non individu",
+      "confidence": 0.71
+    },
+    {
+      "category": "skills",
+      "predictor": "abilities",
+      "context": "test-retest reliabilities was .85 (SD = .10). There were 9\nreliabilities reported for which the type of reliability was not given.\nThe ideal estimate of reliability for purposes of this meta-analysis is\ncoefficient alpha or the equivalent. However, test-retest reliability es-\ntimates over relatively short time periods provide reasonably close ap-\nproximations to alpha coefficients. Furthermore, in",
+      "confidence": 0.8
+    },
+    {
+      "category": "communication",
+      "predictor": "expression",
+      "context": "tests was .11, and the lower 90%\ncredibility value was.23, indicating that the validities of person-\nality-based integrity tests were also positive across studies and\nsituations. These results suggest that test type is probably not a\nmoderator of integrity test validities in predicting overall job\n1 To examine the robustness of the results in our meta-analyses to the\nartifact distributions used, w",
+      "confidence": 0.9
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "rmine the relationships between the moderators, we\ncalculated intercorrelations of the moderator variables. The re-\nsults are reported in Table 7.\nJob complexity was not highly correlated with the other po-\ntential moderators (mean r = -.06). Type of test (overt vs. per-\nsonality based) did not seem to be highly correlated with the\nother potential moderators (mean r = —.11). However, valida-\ntion ",
+      "confidence": 1.0
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "may\nhave been underestimated. For personality-based tests, no va-\nlidity estimates for the prediction of theft alone were available.\nConsidering externally measured broad counterproductive be-\nhaviors as the criterion in predictive studies conducted on ap-\nplicants, we found that the mean operational validity of both\ntypes of integrity tests was positive across situations and was\nsubstantial (see ",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "o admissions criteria. Considering externally measured\ntheft as the criterion in predictive studies, we found the mean\noperational validity of overt integrity tests to be estimated at\n. 13 (Table 11). For reasons explained earlier, this value may\nhave been underestimated. For personality-based tests, no va-\nlidity estimates for the prediction of theft alone were available.\nConsidering externally m",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [
+      {
+        "value": "r= .14",
+        "context": "ng a validity coefficient much larger\nthan the sample-size weighted-mean observed validity. In the\nconcurrent validation moderator analysis the total sample size\nwas 31,877, with a mean observed correlation of .22. This large-\nsample concurrent study had a sample size of 9,819 and contrib-\nuted an o",
+        "confidence": 1.0
+      },
+      {
+        "value": "r = .27",
+        "context": "than the observed sample-size\nweighted-mean validity of the predictive validation category. In\nthe predictive validation moderator analysis the total sample\nsize was 35,411, with a mean observed correlation of .19. The\nlarge-sample predictive study had a sample size of 6,884 and\ncontributed the obse",
+        "confidence": 1.0
+      },
+      {
+        "value": "r= .28",
+        "context": "ity testing. However,\nas we noted for the similar moderator analysis for all measures\nof job performance, among predictive studies included here\nthere was a study with a very large sample (N= 6,884) reporting\nan observed validity of .15. For the predictive validities, the\ntotal sample size was 26,40",
+        "confidence": 1.0
+      },
+      {
+        "value": "r = -.06",
+        "context": "ose for jobs in the economy as a whole (Hunter,\n1980; Hunter & Hunter, 1984).\nThe moderator analyses reported for job performance and\nsupervisory ratings of job performance could have given a dis-\ntorted picture if the moderator variables were not independent.\nTo determine the relationships between ",
+        "confidence": 1.0
+      },
+      {
+        "value": "r = .74",
+        "context": "alidation sample, applicants = 1 and employees = 2; for\njob complexity, high = 1, 2, medium = 3, and low = 4,5.\ncriterion measurement method (admissions vs. external crite-\nria), criterion breadth (theft vs. broad criteria), and validation\nstrategy (predictive vs. concurrent). This means that overt ",
+        "confidence": 1.0
+      },
+      {
+        "value": "r = .45",
+        "context": "d that \"minority groups are\nnot adversely affected by either overt integrity tests or personal-\nity oriented measures\" (p. 499). Integrity test scores and race\nappear to be uncorrelated. From the ability-testing and person-\nnel selection literatures, it is known that Blacks average about 1\nstandard ",
+        "confidence": 1.0
+      },
+      {
+        "value": "correlation of .22",
+        "context": "erformance whereas, concur-\nrent studies had a mean true validity of .37. These results\nseemed to suggest that concurrent validities of integrity tests\nmay slightly overestimate predictive validities. However, in this\nset of analyses, there was one very large sample concurrent\nvalidation study contr",
+        "confidence": 1.0
+      },
+      {
+        "value": "correlation of .19",
+        "context": "dation category was\n.23, a substantially smaller value than .37 (the mean true valid-\nity using the sample-size weighted-mean validity). In the analy-\nsis of predictive validities, there was also a validation study with\na very large sample. However, the validity coefficient in this\ncase was much sma",
+        "confidence": 1.0
+      },
+      {
+        "value": "validity of .35",
+        "context": "r type\n(overt vs. personality based). The results across 84 validities and\n31,089 data points showed that the best estimate of overt integ-\nrity tests' validity in predicting overall job performance was\n.33. The lower 90% credibility value of .16 indicated that the\nvalidity was positive across studi",
+        "confidence": 1.0
+      },
+      {
+        "value": "validity of .31",
+        "context": "SCHMIDT\njob performance produce validity estimates similar to those\nfrom studies using production quantity as the criterion.\nThe third potential moderator studied was the validation\nstrategy used in the primary studies. To determine whether\nconcurrent validities estimate predictive validities accura",
+        "confidence": 1.0
+      }
+    ],
+    "regressions": [],
+    "p_values": [
+      "p = .35",
+      "p = .43",
+      "p = .23",
+      "P = .15",
+      "P = .11"
+    ],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 1,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Description of the Database\nWe conducted a thorough search to locate all existing integrity test\nvalidities. We obtained all published empirical studies from published\nreviews of the literature (O'Bannon et al., 1989; Sackett et al, 1989;\nSackett & Harris, 1984), the three other meta-analyses of integrity tests\n(Harris, No date; McDaniel & Jones, 1986,1988), and a computerized\nsearch to locate the most recent studies in psychology- and manage-\nment-related journals. According to O'Bannon et al., there are 43 integ-\nrity tests in use in the United States. All of the publishers and authors\nof the 43 tests were contacted by telephone or in writing to request\nvalidity, reliability, and range-restriction information on their tests. Of\nthese, 36 responded by sending research reports. In addition, we iden-\ntified other integrity tests overlooked by O'Bannon et al.; the pub-\nlishers of these tests were also contacted. AH unpublished and pub-\nlished technical reports reporting validities, relia",
+    "results_section": "Not identified",
+    "discussion_section": "One question we have repeatedly pondered since beginning\nour research on integrity tests has been the issue of potential\nresponse distortion by test takers, including the possibility of\nfaking, responding in a socially desirable manner, or otherwise\nresponding inaccurately. The conclusion we inferred from our\nmeta-analytic results was that response distortion, to the extent\nthat it exists, does not seem to destroy the criterion-related\nvalidities of these tests. (Similar findings were reported b"
+  },
+  "NOTES": [
+    "Key predictors identified: ability test, personality, education, abilities, expression",
+    "Statistics found: 21 correlations, 14 p_values, 17 sample_sizes",
+    "High confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 3,
+    "tables_found": 1,
+    "statistical_tables": 0,
+    "predictors_identified": 8,
+    "statistics_extracted": 52,
+    "confidence_level": "high"
+  }
+}

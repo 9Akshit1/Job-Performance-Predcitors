@@ -1,0 +1,272 @@
+{
+  "PAPER_METADATA": {
+    "title": "The Case for Task Sampling based Learning for Cluster Job Scheduling",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.14778/1454159.1454166.",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). The Case for Task Sampling based Learning for Cluster Job Scheduling. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "longitudinal",
+    "job_domain": "education",
+    "measurement_type": "self_report",
+    "sample_n": "Not specified",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The ability to accurately estimate job runtime properties allows a scheduler to eﬀectively schedule jobs. State-of-the-art online cluster job schedulers use history-based learning. However, with fast-paced development in cluster technology and changing user inputs, job runtimeproperties can change over time. Task-sampling-based approach exploits the simi-larity among runtime properties of the tasks of the same job and is inherently immune to changing job behavior. Despite its online overhead, learning in space reduces the average Job Completion Time (JCT) by 1.28×, 1.56×, and 1.32× compared to the prior-art history-based predictor. Despite its online overhead, learning                in space reduces the average Job Completion Time (JCT) by                1.28×, 1.56×, and 1.32× compared to the prior-art history-based predictor. Finally, we show how the sampling-basedlearning can be extended to schedule DAG jobs and achieve similar speedups.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "GMA",
+      "context": "ing-based schemes become favorable. Our results\nfrom experimental data below will further conﬁrm these\nintuitions.\n4.2\nTrace-based Variability Analysis\nOur theoretical analysis in §4.1 provides insights on how the\nprediction accuracies of the two approaches depend on the\nvariation of job run times across time and space. To under-\nstand how such variations fare against each other in practice,\nwe ne",
+      "confidence": 0.9
+    },
+    {
+      "category": "education",
+      "predictor": "training",
+      "context": "similar conclusion will hold\nin more general settings. To validate this, we next imple-\nment a sampling-based predictor SLearn,and experimentally\ncompare it against a state-of-the-art history-based predic-\ntor 3Sigma [48] in estimating the job runtimes directly on\nproduction job traces.\nWorkload characteristics. Since the three production\ntraces described in §4.2 are too large, as in 3Sigma [48], ",
+      "confidence": 0.7
+    },
+    {
+      "category": "motivation",
+      "predictor": "motivation",
+      "context": "ver 3Sigma-DAG, 2.15× over LAS-DAG, and 1.74×\nover Point-Est-DAG. Looking deeper, we ﬁnd that our\nsampling-based prediction still yields higher prediction ac-\ncuracy: the P50 prediction error is 33.90% for SLearn-DAG,\ncompared to 47.21% for 3Sigma-DAG. On the other hand, for\nDAG jobs the relative overhead of sampling (e.g, the delay)\nis lower since only the ﬁrst stage is sampled. Together, they\npr",
+      "confidence": 0.7
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "wo\nprediction schemes may also help. (5) When the cluster is\nheterogeneous, an error adjustment using history, similar to\nwhat we did in §6, can be applied.\nDynamic adjustment of ThinLimit. ThinLimit is a sub-\njective threshold. It helps in segregating jobs for which wait-\ning time due to sampling overshadows the improvement in\nprediction accuracy. The optimal choice of this limit will\ndepend on t",
+      "confidence": 1.0
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "task skew;\n(2) delaying scheduling the remaining tasks of a job till the\ncompletion of sampled tasks may potentially hurt the job’s\ncompletion time.\nIn this paper, we perform a comprehensive compara-\ntive study of history-based learning (learning in time) and\nsampling-based learning (learning in space), to systemati-\ncally answer the following questions: (1) Can learning in\nspace be more accurate ",
+      "confidence": 0.8
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "imit. ThinLimit is a sub-\njective threshold. It helps in segregating jobs for which wait-\ning time due to sampling overshadows the improvement in\nprediction accuracy. The optimal choice of this limit will\ndepend on the cluster load at the moment and hence can be\nadaptively chosen like the sampling percentage (Fig. 4 on\npage ).\nHeterogeneous clusters. Extending sampling-based learn-\ning to heteroge",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 3,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "           Name         Property\\nestimated       Estimation\\ntechnique   Learning\\nfrequency\n0  Corral\\n[44]                  Jobruntime  Offlinemodel\\n(notupdated)             Onarrival\n1   DCOSR\\n[36]  Memoryelasti-\\ncityprofile  Offlinemodel\\n(notupdated)  Scheduler\\ndependent\n2  Jockey\\n[30]                  Jobruntime          Offline\\nsimulator              Periodic\n3  3Sigma\\n[48]    Jobruntime\\nhistorydist.              Offline\\nmodel             Onarrival",
+      "statistical_summary": []
+    },
+    {
+      "page": 4,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 5,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "        Trace Arrival\\ntime Resource\\nrequested Resource\\nusage Indiv.task\\nduration\n0      2Sigma           Yes                 Yes              No                  Yes\n1  Google2011           Yes                 Yes             Yes                  Yes\n2  Google2019           Yes                 Yes             Yes                  Yes",
+      "statistical_summary": []
+    },
+    {
+      "page": 6,
+      "table_index": 2,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 6,
+      "table_index": 3,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 6,
+      "table_index": 4,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 6,
+      "table_index": 5,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 6,
+      "table_index": 6,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "        Trace CoVoverTime  None CoVoverSpace  None\n0        None         P50   P90          P50   P90\n1      2Sigma        1.00  3.10         0.18  0.55\n2  Google2011        0.20  0.73         0.04  0.58\n3  Google2019        1.35  1.67         0.70  1.33",
+      "statistical_summary": []
+    },
+    {
+      "page": 7,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 8,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "        S\\n3 Learn\\nSigma      \n0  None                    None",
+      "statistical_summary": []
+    },
+    {
+      "page": 8,
+      "table_index": 3,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "        S\\n3 Learn\\nSigma      \n0  None                    None",
+      "statistical_summary": []
+    },
+    {
+      "page": 8,
+      "table_index": 5,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "        S\\n3 Learn\\nSigma      \n0  None                    None",
+      "statistical_summary": []
+    },
+    {
+      "page": 10,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "  P10-P90\\n102 P50\\npudeepS Average\\n101\\n3.29\\nTCJ 1.28 1.26 1.91 1.42\\n100 0.79\\n3Sigma3SigmaTLLAS Point FIFO Oracle\\nOther predictors and policies       P10-P90            \n0                                                                                                                                                None  P50\\nAverage  3.29      \n1                                                                                                                                                None          0.79  None  None",
+      "statistical_summary": []
+    },
+    {
+      "page": 10,
+      "table_index": 2,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "  P10-P90\\n102 P50\\npudeepS Average\\n101 7.29\\nTCJ 1.56 1.55 1.65 2.17\\n100 0.82\\n3Sigma3SigmaTLLAS Point FIFO Oracle\\nOther predictors and policies       P10-P90  None  None\n0                                                                                                                                               None  P50\\nAverage  7.29      \n1                                                                                                                                               None          0.82  None  None",
+      "statistical_summary": []
+    },
+    {
+      "page": 10,
+      "table_index": 3,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "  P10-P90\\n102 P50\\npudeepS Average\\n101\\n3.63\\nTCJ 1.32 1.32 1.72 1.54\\n100 0.91\\n3Sigma3SigmaTLLAS Point FIFO Oracle\\nOther predictors and policies                            P10-P90  None  None  None\n0                                                                                                                                                None  P50\\nAverage\\n1.32 1.32 1.72 1.54  3.63        None\n1                                                                                                                                                None                                     None  None  0.91",
+      "statistical_summary": []
+    },
+    {
+      "page": 10,
+      "table_index": 4,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "         Prediction\\nTechnique                  SLearn                  3Sigma\n0  2STrace\\nGTrace11\\nGTrace19  89.09%\\n86.45%\\n73.96%  73.84%\\n76.20%\\n58.07%",
+      "statistical_summary": []
+    },
+    {
+      "page": 11,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "  1.0 SLearn\\n0.8 3Sigma\\n0.6 FDC\\n0.4\\n0.2\\n0.0\\n10−4 10−3 10−2 10−1 100 101 102\\nNormalized job waiting time S\\n3 Learn\\nSigma                              \n0                                                                                                         None                    None  None  None  None  None",
+      "statistical_summary": []
+    },
+    {
+      "page": 11,
+      "table_index": 2,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "  1.0\\n0.8\\n0.6 FDC\\n0.4\\nGTrace11\\n0.2 2STrace\\nGTrace19\\n0.0\\n10−1 100 101 102 103\\nJCT speedup over 3Sigma                         None                       1\n0                                                                                                        None  None  None  None  None       GTrace1\\n2STrace  None",
+      "statistical_summary": []
+    },
+    {
+      "page": 11,
+      "table_index": 3,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 11,
+      "table_index": 4,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "  P10-P90\\n102 P50\\npudeepS Average\\n101\\nTCJ 5.54\\n100 1.25 2.15 1.74\\n0.79\\n3Sigma LAS Point FIFO Oracle\\nOther predictors and policies for DAGs          P10-P90\\nP50  None  None        None  None  None  None  None  None\n0                                                                                                                                             None                         Ave  rage                                None  None\n1                                                                                                                                             None                                    None  None  None        None        None\n2                                                                                                                                             None  5.54\\n1.25 2.15 1.74  None  None  None  None  None  None  None  0.79      ",
+      "statistical_summary": []
+    },
+    {
+      "page": 11,
+      "table_index": 5,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 12,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 14,
+      "table_index": 2,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "          Overestim-\\natedjobs Misplaced\\noverestimated\\njobs Slowed\\nmisplaced\\njobs Average(P50)\\nPositiveerror Underesti-\\nmatedjobs\\njobs Misplaced\\nunderestimated\\njobs Speedup\\nmisplaced Average(P50)\\nNegativeerror\n0  3Sigma               59.78%                         17.50%                  12.19%              898.5%(48.00)%                      40.22%                           8.65%              6.88%             -37.0%(-28.57)%\n1  SLearn               43.75%                          3.54%                   2.85%              30.65%(18.19)%                      55.45%                           7.37%              3.64%            -26.79%(-20.69)%",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "Not identified",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: GMA, training, motivation, EQ, job performance",
+    "Statistical tables: unknown",
+    "Low statistical content found"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 3,
+    "tables_found": 23,
+    "statistical_tables": 14,
+    "predictors_identified": 6,
+    "statistics_extracted": 0,
+    "confidence_level": "low"
+  }
+}

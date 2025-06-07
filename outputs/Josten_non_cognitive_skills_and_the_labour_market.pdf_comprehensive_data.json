@@ -1,0 +1,214 @@
+{
+  "PAPER_METADATA": {
+    "title": "Josten non cognitive skills and the labour market.pdf",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.31389/lseppr.31.",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). Josten non cognitive skills and the labour market.pdf. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "Not specified",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The aim of this PhD thesis is to shed light on the role of non-cognitive skills in the labour market in the past, the present and the future. In paper 1, I synthesise the academic evidence on the Role of Non-Cognitive Skills. In Paper 2, I analyse the impact of skills and abilities on the automatability of consuming occupations. InPaper 3, I focus on how a traditional measure ofNon-Cognition skills determines wage outcomes for men and women. The author synthesises the academic evidence on the role of non-cognitive skills. She finds that agreeableness is punished more for men than it is for women. Increasing technological innovation and disruptions to modern labour markets are changing the way we work. Increasing technological innovation and disruptions to modern labour markets are changing the way we work. I study a large data set of job advertisements to analyse which non-cognitive skills are rewarded over time. I find that data science skills are evolving rapidly with the need to upskill on them frequently.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "cognitive ability",
+      "context": ", I explore whether women with the same level of personality traits (i.e., scoring \nhigh or low on a respective personality trait) have a different likelihood of making it to the top \nas compared to men. I estimate the probability of being in the top income quintile for men and \nwomen and compare across high versus low levels of different personality traits. I focus on the \nBig Five factor model a",
+      "confidence": 0.91
+    },
+    {
+      "category": "personality",
+      "predictor": "personality",
+      "context": "nality at the individual level that also find moderate but statistically significant \nlinks of all Big Five personality traits with wages (Nyhus and Pons, 2005; Heineck, 2011; \nNandi and Nicoletti, 2014; Collischon, 2020). They further highlight that personality \ncoefficients change when including gender and/or occupation controls, which motivates \nrunning subsequent analyses at the occupation lev",
+      "confidence": 1.0
+    },
+    {
+      "category": "education",
+      "predictor": "education",
+      "context": "regressions in the tables below. They \nhighlight how the association of personality traits and wage outcomes changes when including \ndifferent controls and motivate the main analysis that follows. Specifically, Table 2-5 below \ndocuments results from running a simple regression of wage (i.e. either log hourly wages or \nthe main outcome variable top income quintile) on personality (i.e. either the ",
+      "confidence": 0.9
+    },
+    {
+      "category": "skills",
+      "predictor": "skills",
+      "context": "s and convey them to others with the help of \nsocial skills. \n \nSpecifically, a 10 percentage point increase in the share of ‘collaborative leadership’ together \nwith ‘research’ predicts an increase in occupational wages by 0.01% in 2014-2015 increasing \nto an estimate of 1.78% in 2018-2020 Q1. The latter effect has a dollar value of an additional \n0.88$ per hour when evaluated at mean hourly wage",
+      "confidence": 1.0
+    },
+    {
+      "category": "motivation",
+      "predictor": "drive",
+      "context": "ification (1) is only \nweighted by the number of observations in each state and occupation cell. Specification (2) \nadditionally controls for O*Net job zone codes accounting for education and experience \nrequirements in an occupation, basic state-level demographic controls from the American \nCommunity Service and the share of ads in each two-digit North American Industry \nClassification (NAICS) in",
+      "confidence": 0.6
+    },
+    {
+      "category": "leadership",
+      "predictor": "leadership",
+      "context": "-zero coefficients that are selected through the Lasso shrinkage process and \nthat are most relevant and significant in explaining the logarithm of hourly wage.  \n \nIn Table 3-4, the ‘collaborative leader’ category significantly predicts variation in occupational \nwage in the two time periods. ‘Collaborative leader’ interacted with ‘research’ has a positive \nwage premium in 2018-2020 Q1. As per Ta",
+      "confidence": 0.8
+    },
+    {
+      "category": "teamwork",
+      "predictor": "social skills",
+      "context": "Appendix 3.E, the share of this \ninteraction also increases over time from 9.5% in 2014-2015 to 13.2% in 2018-2020 Q1. This \nsuggests that those skilled in both research and collaborative leadership skills are becoming \nmore valuable to employers as the Fourth Industrial Revolution progresses. This is intuitive \nbecause as automation increases and advanced technologies replace human cognitive abil",
+      "confidence": 0.8
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "results. I further choose \nto analyse the top tertile of the Big Five traits for easier interpretability of the interaction and \nbecause this study focuses on rewards to strong personalities. The regression is: \n \n!\"#$%& ()!\"*!+&!\"# = -$.!# ∗0!\"# ∗1! + 3$4!\"# + 5$6!71!8&!\"# + 9$0!\"# + :$;!# + &\"!#  (2.1) \n \nwhere income quintile is a dummy variable that equals 1 if employee i in occupation j at ti",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "al level that also find moderate but statistically significant \nlinks of all Big Five personality traits with wages (Nyhus and Pons, 2005; Heineck, 2011; \nNandi and Nicoletti, 2014; Collischon, 2020). They further highlight that personality \ncoefficients change when including gender and/or occupation controls, which motivates \nrunning subsequent analyses at the occupation level rather than on aver",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [],
+    "p_values": [
+      "p<0.01",
+      "p<0.05"
+    ],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 45,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 97,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 98,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 99,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 100,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 101,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 102,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 103,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 107,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 214,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    },
+    {
+      "page": 215,
+      "table_index": 1,
+      "table_type": "descriptive_statistics",
+      "contains_statistics": true,
+      "table_content": "                                                                                                                                                                                                                                                                        (2)                                    (3)                     (4)\n0                                                                                                                                                                                                                                                               Description                      Secondarycategory         Overallcategory\n1                                                                                                                                                                            Theabilitytolistentoandunderstandinformationandideaspresentedthrough\\nspokenwordsandsentences.                        VerbalAbilities    Cognitive\\nAbilities\n2                                                                                                                                                                                             Theabilitytocommunicateinformationandideasinspeakingsootherswill\\nunderstand.                        VerbalAbilities    Cognitive\\nAbilities\n3                                                                                                                                                           Theabilitytocomeupwithunusualorcleverideasaboutagiventopicor\\nsituation,ortodevelopcreativewaystosolveaproblem.  Ideagenerationand\\nReasoningAbilities    Cognitive\\nAbilities\n4   Theabilitytoquicklyandaccuratelycomparesimilaritiesanddifferencesamong\\nsetsofletters,numbers,objects,pictures,orpatterns.Thethingstobecompared\\nmaybepresentedatthesametimeoroneaftertheother.Thisabilityalsoincludes\\ncomparingapresentedobjectwitharememberedobject.                    PerceptualAbilities    Cognitive\\nAbilities\n5                                                                                                                                                                                         Theabilitytoseeobjectsormovementofobjectstoone’ssidewhentheeyesare\\nlookingahead.                        VisualAbilities        SensoryAbilities\n6                                                                                                                                               Theabilitytotellwhensomethingiswrongorislikelytogowrong.Itdoesnot\\ninvolvesolvingtheproblem,onlyrecognizingthereisaproblem.  Ideagenerationand\\nReasoningAbilities    Cognitive\\nAbilities\n7                                                                                                                                    Theabilitytotimeyourmovementsorthemovementofapieceofequipmentin\\nanticipationofchangesinthespeedand/ordirectionofamovingobjectorscene.             ControlMovement\\nAbilities  Psychomotor\\nAbilities\n8                                                                                                                                                                       Theabilitytoquicklyrespond(withthehand,finger,orfoot)toasignal(sound,\\nlight,picture)whenitappears.        ReactionTimeandSpeed\\nAbilities  Psychomotor\\nAbilities\n9                                                               Theabilitytochoosequicklybetweentwoormoremovementsinresponsetotwo\\normoredifferentsignals(lights,sounds,pictures).Itincludesthespeedwith\\nwhichthecorrectresponseisstartedwiththehand,foot,orotherbodypart.             ControlMovement\\nAbilities  Psychomotor\\nAbilities\n10                                                                                                                                                                                                   Theabilitytoconcentrateonataskoveraperiodoftimewithoutbeingdistracted.                          Attentiveness    Cognitive\\nAbilities\n11                                                                                                                                                                                                                   Theabilitytotellthedirectionfromwhichasoundoriginated.           AuditoryandSpeech\\nAbilities        SensoryAbilities\n12                                                                                                                                                                     Theabilitytoknowyourlocationinrelationtotheenvironmentortoknow\\nwhereotherobjectsareinrelationtoyou.                       SpatialAbilities    Cognitive\\nAbilities\n13                                                                                                                                                                                                                        Theabilitytospeakclearlysootherscanunderstandyou.           AuditoryandSpeech\\nAbilities        SensoryAbilities\n14                                                                                                                                                                                                               Theabilitytoidentifyandunderstandthespeechofanotherperson.           AuditoryandSpeech\\nAbilities        SensoryAbilities\n15                                                                                                                                                                                   Theabilitytoquicklymakesenseof,combine,andorganizeinformationinto\\nmeaningfulpatterns.                    PerceptualAbilities    Cognitive\\nAbilities\n16                                                                                                                                                                                                                                   Theabilitytoquicklymovethearmsandlegs.        ReactionTimeandSpeed\\nAbilities  Psychomotor\\nAbilities\n17                                                                                                                                                                             Theabilitytoexertyourselfphysicallyoverlongperiodsoftimewithoutgetting\\nwindedoroutofbreath.                              Endurance       PhysicalAbilities\n18                                                                                                                                                                                                      Theabilitytoexertmaximummuscleforcetolift,push,pull,orcarryobjects.            PhysicalStrength\\nAbilities       PhysicalAbilities\n19                                                                                                                                               Theabilitytoshiftbackandforthbetweentwoormoreactivitiesorsourcesof\\ninformation(suchasspeech,sounds,touch,orothersources).                          Attentiveness    Cognitive\\nAbilities\n20                                                                                                                                    Theabilitytouseyourabdominalandlowerbackmusclestosupportpartofthe\\nbodyrepeatedlyorcontinuouslyovertimewithout’givingout’orfatiguing.            PhysicalStrength\\nAbilities       PhysicalAbilities\n21                                                                                                                                                                                 Theabilitytomatchordetectdifferencesbetweencolors,includingshadesof\\ncolorandbrightness.                        VisualAbilities        SensoryAbilities\n22                                                                                                                                                                         Theabilitytoimaginehowsomethingwilllookafteritismovedaroundorwhen\\nitspartsaremovedorrearranged.                       SpatialAbilities    Cognitive\\nAbilities\n23                                                                                                                                                                                             Theabilitytomakefast,simple,repeatedmovementsofthefingers,hands,and\\nwrists.        ReactionTimeandSpeed\\nAbilities  Psychomotor\\nAbilities\n24                                                                                                                                                                                                      Theabilitytoreadandunderstandinformationandideaspresentedinwriting.                        VerbalAbilities    Cognitive\\nAbilities\n25                                                                                                                                                                                             Theabilitytocommunicateinformationandideasinwritingsootherswill\\nunderstand.                        VerbalAbilities    Cognitive\\nAbilities\n26                                                                                                                                                                                                                                                                     None                                                               ",
+      "statistical_summary": []
+    },
+    {
+      "page": 217,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": true,
+      "table_content": "                                                                                                                                                                (2)                         (3)                      (4)\n0                                                                                                                                                       Description           Secondarycategory          Overallcategory\n1                                                           Understandingtheimplicationsofnewinformationforbothcurrentandfuture\\nproblem-solvinganddecision-making.                     Process              BasicSkills\n2   Givingfullattentiontowhatotherpeoplearesaying,takingtimetounderstandthe\\npointsbeingmade,askingquestionsasappropriate,andnotinterruptingat\\ninappropriatetimes.                     Content              BasicSkills\n3                                                       Identifyingcomplexproblemsandreviewingrelatedinformationtodevelopand\\nevaluateoptionsandimplementsolutions.     ComplexProblem\\nSolving  Cross\\nFunctionalSkills\n4                                                                                                                       Adjustingactionsinrelationtoothers’actions.                SocialSkills  Cross\\nFunctionalSkills\n5                                              Usinglogicandreasoningtoidentifythestrengthsandweaknessesofalternative\\nsolutions,conclusionsorapproachestoproblems.                     Process              BasicSkills\n6                                                                      Performingroutinemaintenanceonequipmentanddeterminingwhenandwhat\\nkindofmaintenanceisneeded.             TechnicalSkills  Cross\\nFunctionalSkills\n7                                                                                                              Determiningthekindoftoolsandequipmentneededtodoajob.             TechnicalSkills  Cross\\nFunctionalSkills\n8                                                                                               Installingequipment,machines,wiring,orprogramstomeetspecifications.             TechnicalSkills  Cross\\nFunctionalSkills\n9                                                                                                                                   Teachingothershowtodosomething.                SocialSkills  Cross\\nFunctionalSkills\n10                                                                         Consideringtherelativecostsandbenefitsofpotentialactionstochoosethemost\\nappropriateone.               SystemsSkills  Cross\\nFunctionalSkills\n11                                          Selectingandusingtraining/instructionalmethodsandproceduresappropriatefor\\nthesituationwhenlearningorteachingnewthings.               SystemsSkills  Cross\\nFunctionalSkills\n12                                                                              Determininghowmoneywillbespenttogettheworkdone,andaccountingfor\\ntheseexpenditures.  Resource\\nManagementSkills  Crossfunctional\\nSkills\n13                                                                 Obtainingandseeingtotheappropriateuseofequipment,facilities,andmaterials\\nneededtodocertainwork.  Resource\\nManagementSkills  Crossfunctional\\nSkills\n14                                                                          Motivating,developing,anddirectingpeopleastheywork,identifyingthebest\\npeopleforthejob.  Resource\\nManagementSkills  Crossfunctional\\nSkills\n15                                                                                                                                 Usingmathematicstosolveproblems.                     Content              BasicSkills\n16                                            Monitoring/Assessingperformanceofyourself,otherindividuals,ororganizations\\ntomakeimprovementsortakecorrectiveaction.                     Process              BasicSkills\n17                                                                                                           Bringingotherstogetherandtryingtoreconciledifferences.                SocialSkills  Crossfunctional\\nSkills\n18                                                                                     Watchinggauges,dials,orotherindicatorstomakesureamachineisworking\\nproperly.             TechnicalSkills  Cross\\nFunctionalSkills\n19                                                                                                                       Controllingoperationsofequipmentorsystems.             TechnicalSkills  Cross\\nFunctionalSkills\n20                                                                                                             Analyzingneedsandproductrequirementstocreateadesign.             TechnicalSkills  Cross\\nFunctionalSkills\n21                                                                                                                    Persuadingotherstochangetheirmindsorbehavior.                SocialSkills  Crossfunctional\\nSkills\n22                                                                                                                       Writingcomputerprogramsforvariouspurposes.             TechnicalSkills  Crossfunctional\\nSkills\n23                                                                    Conductingtestsandinspectionsofproducts,services,orprocessestoevaluate\\nqualityorperformance.             TechnicalSkills  Crossfunctional\\nSkills\n24                                                                                                Understandingwrittensentencesandparagraphsinworkrelateddocuments.                     Content              BasicSkills\n25                                                                                                                   Repairingmachinesorsystemsusingtheneededtools.             TechnicalSkills  Cross\\nFunctionalSkills\n26                                                                                                                   Usingscientificrulesandmethodstosolveproblems.                     Content              BasicSkills\n27                                                                                                                              Activelylookingforwaystohelppeople.                SocialSkills  Cross\\nFunctionalSkills",
+      "statistical_summary": []
+    },
+    {
+      "page": 218,
+      "table_index": 1,
+      "table_type": "descriptive_statistics",
+      "contains_statistics": true,
+      "table_content": "                                                                                                                                   (2)                         (3)                      (4)\n0                                                                                                                          Description           Secondarycategory          Overallcategory\n1                                                                    Beingawareofothers’reactionsandunderstandingwhytheyreactastheydo.                SocialSkills  Cross\\nFunctionalSkills\n2                                                                                       Talkingtootherstoconveyinformationeffectively.                     Content              BasicSkills\n3                           Determininghowasystemshouldworkandhowchangesinconditions,\\noperations,andtheenvironmentwillaffectoutcomes.               SystemsSkills  Cross\\nFunctionalSkills\n4  Identifyingmeasuresorindicatorsofsystemperformanceandtheactionsneeded\\ntoimproveorcorrectperformance,relativetothegoalsofthesystem.               SystemsSkills  Cross\\nFunctionalSkills\n5                                                                          Generatingoradaptingequipmentandtechnologytoserveuserneeds.             TechnicalSkills  Cross\\nFunctionalSkills\n6                                                                                              Managingone’sowntimeandthetimeofothers.  Resource\\nManagementSkills  Cross\\nFunctionalSkills\n7                                                                        Determiningcausesofoperatingerrorsanddecidingwhattodoaboutit.             TechnicalSkills  Cross\\nFunctionalSkills\n8                                                              Communicatingeffectivelyinwritingasappropriatefortheneedsoftheaudience.                     Content              BasicSkills\n9                                                                                                                                                                                        N=",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "3.3.1. \nWages and skills groups \nThe aim in this study is to relate the share of skills demanded for nine skills groupings at an \noccupation/state level to wage data at the occupation/state level for two time periods 2014-\n2015 (shortly before start of the Fourth Industrial Revolution) and 2018-2020 Q1 (onset of the \nFourth Industrial Revolution). The nine skill groupings are: ‘collaborative leader’, \n‘interpersonal & organised’, ‘big data’, ‘cloud computing’, ‘programming’, ‘machine \nlearning’, ‘research’, ‘math’ and ‘analytical’. In a first instance, I run a regression of the \nlogarithm of hourly wages on the nine skills groups as follows: \n \nlog(AB7&)%& =  5 +  9DE!++D!%& + ;$\"*F$+D +  <%&          \n \n \n(3.1) \n \n \nwhere log(AB7&)%& is the inflation-adjusted logarithm of mean hourly wages in occupation o \nin state r. The main independent variable DE!++D!%& is a vector of the share of the nine skills \ngroups where i denotes the share of skills group i in occupation o in state r. The s",
+    "results_section": "The detailed estimates by abilities and skills can be found in Table 2 and Table 3 respectively \nin Appendix B. Overall, I find that skills and abilities which relate to non-linear abstract \nthinking, which we term ‘brains’, are those that are the safest from automation. An example \nwould be the skills of critical thinking and monitoring of performance that involve using \n \n21 \ninformation that is available to pass judgement and make decisions. Another example is fluency \nof ideas that is an idea generation and reasoning ability which relates to the ability to come up \nwith a number of ideas about a topic (i.e., the number of ideas is important, not their quality, \ncorrectness, or creativity), which is highly unlikely to be automated. In this case, ‘brains’ is \nshorthand for thinking and can involve reacting to other individuals (e.g., in caring or teaching \nprofessions), performing a service (e.g., as mechanic or fine dining waiter) or engaging in agile \nor creative thinking (e.g., in",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: cognitive ability, personality, education, skills, drive",
+    "Statistics found: 2 p_values",
+    "Statistical tables: unknown, descriptive_statistics",
+    "Low statistical content found"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 6,
+    "tables_found": 13,
+    "statistical_tables": 3,
+    "predictors_identified": 9,
+    "statistics_extracted": 2,
+    "confidence_level": "low"
+  }
+}

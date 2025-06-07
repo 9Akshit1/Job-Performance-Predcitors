@@ -1,0 +1,269 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: OnesVishSchmidt1993
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.1037/a0024825
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). OnesVishSchmidt1993. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): N= 27
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+All content following this page was uploaded by Frank L. Schmidt on 27 August 2014. The user has requested enhancement of the downloaded file. See discussions, stats, and author profiles for the publication at: http://www.researchgate.net/publication/224955629. The user has requested enhancement of the downloaded file. Results indicate that integrity testvalidities are substantial for predicting job performance and counterproductive behaviors. The authors conducted a comprehensive meta-analysis based on 665 validity coefficients across576,460 data points to investigate whether integrity test validities are generalizable. The authors conducted a comprehensive meta-analysis based on 665 validity coefficients across576,460 data points. Results indicate that integrity testvalidities are substantial for predicting job performance and counterproductive behaviors on the job. Despite the influence of moderators, integrity test validities are generalizable.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: ability test
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 0.8
+   CONTEXT: es of minorities and
+Whites (e.g., Arnold, 1989; Bagus, 1988; Cherrington, 1989;
+Moretti & Terris, 1983; Strand & Strand, 1986; Terris & Jones;
+1982). Sackett et al. (1989) concluded that "minority groups are
+not adversely affected by either overt integrity tests or personal-
+ity oriented measures" (p. 499). Integrity test scores and race
+appear to be uncorrelated. From the ability-testing and per
+
+2. PREDICTOR: personality
+   CATEGORY: personality
+   CONFIDENCE: 1.0
+   CONTEXT: rrent validity estimates overestimate
+predictive validity.
+In selection research, the best estimate of operational selec-
+tion validities of integrity tests for predicting theft would be
+based on predictive studies conducted on applicants. In addi-
+tion, many would argue for reliance on external criteria in pref-
+erence to admissions criteria. Considering externally measured
+theft as the criterion
+
+3. PREDICTOR: education
+   CATEGORY: education
+   CONFIDENCE: 0.71
+   CONTEXT: ng moderators.
+The finding that selection instruments can predict externally
+measured composite measures of irresponsible or counterpro-
+ductive behaviors (e.g., disciplinary problems, disruptiveness
+on the job, tardiness, or excessive absenteeism) with substantial
+validity seems remarkable. Industrial psychologists have long
+been concerned with such behaviors and their negative impact
+on individu
+
+4. PREDICTOR: abilities
+   CATEGORY: skills
+   CONFIDENCE: 0.8
+   CONTEXT: test-retest reliabilities was .85 (SD = .10). There were 9
+reliabilities reported for which the type of reliability was not given.
+The ideal estimate of reliability for purposes of this meta-analysis is
+coefficient alpha or the equivalent. However, test-retest reliability es-
+timates over relatively short time periods provide reasonably close ap-
+proximations to alpha coefficients. Furthermore, in
+
+5. PREDICTOR: expression
+   CATEGORY: communication
+   CONFIDENCE: 0.9
+   CONTEXT: tests was .11, and the lower 90%
+credibility value was.23, indicating that the validities of person-
+ality-based integrity tests were also positive across studies and
+situations. These results suggest that test type is probably not a
+moderator of integrity test validities in predicting overall job
+1 To examine the robustness of the results in our meta-analyses to the
+artifact distributions used, w
+
+6. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: rmine the relationships between the moderators, we
+calculated intercorrelations of the moderator variables. The re-
+sults are reported in Table 7.
+Job complexity was not highly correlated with the other po-
+tential moderators (mean r = -.06). Type of test (overt vs. per-
+sonality based) did not seem to be highly correlated with the
+other potential moderators (mean r = —.11). However, valida-
+tion 
+
+7. PREDICTOR: job performance
+   CATEGORY: job_performance
+   CONFIDENCE: 1.0
+   CONTEXT: may
+have been underestimated. For personality-based tests, no va-
+lidity estimates for the prediction of theft alone were available.
+Considering externally measured broad counterproductive be-
+haviors as the criterion in predictive studies conducted on ap-
+plicants, we found that the mean operational validity of both
+types of integrity tests was positive across situations and was
+substantial (see 
+
+8. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: o admissions criteria. Considering externally measured
+theft as the criterion in predictive studies, we found the mean
+operational validity of overt integrity tests to be estimated at
+. 13 (Table 11). For reasons explained earlier, this value may
+have been underestimated. For personality-based tests, no va-
+lidity estimates for the prediction of theft alone were available.
+Considering externally m
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+CORRELATIONS FOUND:
+  1. VALUE: r= .14
+     CONFIDENCE: 1.0
+     CONTEXT: ng a validity coefficient much larger
+than the sample-size weighted-mean observed validity. In the
+concurrent validation moderator analysis the total sample size
+was 31,877, with a mean observed correlation of .22. This large-
+sample concurrent study had a sample size of 9,819 and contrib-
+uted an o
+
+  2. VALUE: r = .27
+     CONFIDENCE: 1.0
+     CONTEXT: than the observed sample-size
+weighted-mean validity of the predictive validation category. In
+the predictive validation moderator analysis the total sample
+size was 35,411, with a mean observed correlation of .19. The
+large-sample predictive study had a sample size of 6,884 and
+contributed the obse
+
+  3. VALUE: r= .28
+     CONFIDENCE: 1.0
+     CONTEXT: ity testing. However,
+as we noted for the similar moderator analysis for all measures
+of job performance, among predictive studies included here
+there was a study with a very large sample (N= 6,884) reporting
+an observed validity of .15. For the predictive validities, the
+total sample size was 26,40
+
+  4. VALUE: r = -.06
+     CONFIDENCE: 1.0
+     CONTEXT: ose for jobs in the economy as a whole (Hunter,
+1980; Hunter & Hunter, 1984).
+The moderator analyses reported for job performance and
+supervisory ratings of job performance could have given a dis-
+torted picture if the moderator variables were not independent.
+To determine the relationships between 
+
+  5. VALUE: r = .74
+     CONFIDENCE: 1.0
+     CONTEXT: alidation sample, applicants = 1 and employees = 2; for
+job complexity, high = 1, 2, medium = 3, and low = 4,5.
+criterion measurement method (admissions vs. external crite-
+ria), criterion breadth (theft vs. broad criteria), and validation
+strategy (predictive vs. concurrent). This means that overt 
+
+  6. VALUE: r = .45
+     CONFIDENCE: 1.0
+     CONTEXT: d that "minority groups are
+not adversely affected by either overt integrity tests or personal-
+ity oriented measures" (p. 499). Integrity test scores and race
+appear to be uncorrelated. From the ability-testing and person-
+nel selection literatures, it is known that Blacks average about 1
+standard 
+
+  7. VALUE: correlation of .22
+     CONFIDENCE: 1.0
+     CONTEXT: erformance whereas, concur-
+rent studies had a mean true validity of .37. These results
+seemed to suggest that concurrent validities of integrity tests
+may slightly overestimate predictive validities. However, in this
+set of analyses, there was one very large sample concurrent
+validation study contr
+
+  8. VALUE: correlation of .19
+     CONFIDENCE: 1.0
+     CONTEXT: dation category was
+.23, a substantially smaller value than .37 (the mean true valid-
+ity using the sample-size weighted-mean validity). In the analy-
+sis of predictive validities, there was also a validation study with
+a very large sample. However, the validity coefficient in this
+case was much sma
+
+  9. VALUE: validity of .35
+     CONFIDENCE: 1.0
+     CONTEXT: r type
+(overt vs. personality based). The results across 84 validities and
+31,089 data points showed that the best estimate of overt integ-
+rity tests' validity in predicting overall job performance was
+.33. The lower 90% credibility value of .16 indicated that the
+validity was positive across studi
+
+  10. VALUE: validity of .31
+     CONFIDENCE: 1.0
+     CONTEXT: SCHMIDT
+job performance produce validity estimates similar to those
+from studies using production quantity as the criterion.
+The third potential moderator studied was the validation
+strategy used in the primary studies. To determine whether
+concurrent validities estimate predictive validities accura
+
+P-VALUES: p = .35, p = .43, p = .23, P = .15, P = .11
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Description of the Database
+We conducted a thorough search to locate all existing integrity test
+validities. We obtained all published empirical studies from published
+reviews of the literature (O'Bannon et al., 1989; Sackett et al, 1989;
+Sackett & Harris, 1984), the three other meta-analyses of integrity tests
+(Harris, No date; McDaniel & Jones, 1986,1988), and a computerized
+search to locate the most recent studies in psychology- and manage-
+ment-related journals. According to O'Bannon et al., there are 43 integ-
+rity tests in use in the United States. All of the publishers and authors
+of the 43 tests were contacted by telephone or in writing to request
+validity, reliability, and range-restriction information on their tests. Of
+these, 36 responded by sending research reports. In addition, we iden-
+tified other integrity tests overlooked by O'Bannon et al.; the pub-
+lishers of these tests were also contacted. AH unpublished and pub-
+lished technical reports reporting validities, relia
+
+RESULTS SECTION EXCERPT:
+Not identified
+
+DISCUSSION SECTION EXCERPT:
+One question we have repeatedly pondered since beginning
+our research on integrity tests has been the issue of potential
+response distortion by test takers, including the possibility of
+faking, responding in a socially desirable manner, or otherwise
+responding inaccurately. The conclusion we inferred from our
+meta-analytic results was that response distortion, to the extent
+that it exists, does not seem to destroy the criterion-related
+validities of these tests. (Similar findings were reported b
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: ability test, personality, education, abilities, expression
+2. Statistics found: 21 correlations, 14 p_values, 17 sample_sizes
+3. High confidence in original findings extraction
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: high
+SECTIONS IDENTIFIED: 3
+TABLES FOUND: 1
+STATISTICAL TABLES: 0
+PREDICTORS IDENTIFIED: 8
+STATISTICS EXTRACTED: 52
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

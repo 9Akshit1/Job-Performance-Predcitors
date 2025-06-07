@@ -1,0 +1,902 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: Selecting Leadership An Analysis of Predictors in Assessing Leadership Potential
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: Not found
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). Selecting Leadership An Analysis of Predictors in Assessing Leadership Potential. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): n=139
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+The study population consisted of 195 employees of 11 different hospitals. Each of the participants completed the Healthcare Leadership Inventory(HLI) assessment. Their immediate supervisors completed performance ratings for them. The identified predictors from each instrument had construct symmetre. Stepwise multiple regression was the main analytical approach. The predictors from Supervisor Ratings provide some insight into the implicit leadership theories shared by management personnel in the healthcare industry. The HLI assessment factors of Achievement, Conscientiousness, Innovative, and Customer Focus had significant correlations with their counterparts from the Supervisor Ratings. The HLI assessment factors of Achievement, Conscientiousness, Innovative, and Customer Focus had significant correlations with their counterparts from Supervisor Ratings. The Critical Thinking factor surprisingly did not significantly predict leadership potential or any of the other factors. The predictors provide some insight into the implicit leadership theories shared by management personnel in the healthcare industry.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: general mental ability
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 1.0
+   CONTEXT: the Supervisor Rating of Self-
+Confidence although they correlated at r=.275.  
+The significant correlations between the “mirrored” variables of supervisor ratings as 
+compared to HLI scores are particularly notable for Achievement, Conscientiousness, 
+Innovative, and Customer Focus for the two instruments. All of the mirrored HLI variables 
+correlated with Supervisor Ratings at p<.01 significance
+
+2. PREDICTOR: openness
+   CATEGORY: personality
+   CONFIDENCE: 1.0
+   CONTEXT: minated from further analysis.  
+Next, stepwise multiple regression analysis was conducted using the Potential for 
+Promotion performance evaluation score as the dependent variable, and the HLI assessment 
+factors as independent variables as shown in Table 16.  
+ 
+ 
+Selecting Leadership        
+101
+Table 16. 
+ Stepwise Multiple Regression Analysis – HLI Scores (n = 195) 
+ 
+ 
+Model 
+R 
+R Square 
+Ad
+
+3. PREDICTOR: time in position
+   CATEGORY: work_experience
+   CONFIDENCE: 0.81
+   CONTEXT: pervisor Rating Drive for Results was 
+the highest correlation yielded in comparing the HLI assessment to the Supervisor Ratings. 
+Research Question Four – Data Analysis and Results 
+What other elements of the assessment instrument are significantly related to leadership 
+performance ratings? 
+The final research question examined other points of interest regarding the two data sets. 
+For example, 
+
+4. PREDICTOR: education
+   CATEGORY: education
+   CONFIDENCE: 0.7
+   CONTEXT: Checks 
+ 
+Work 
+Simulations 
+ 
+Assessments 
+ 
+Realistic Job 
+Previews 
+ 
+Medical Exams 
+/D rug Screening 
+ 
+Employment 
+Verifications 
+ 
+Educational 
+Verifications Supvsr 
+Rating 
+Conscie
+ntious 
+Supvsor 
+Rating 
+Custmr 
+Orientn 
+Supvisor 
+Rating 
+Emot 
+Evens 
+Supervsr 
+Rating 
+Innovativ
+e 
+Supervsr 
+Rating 
+Multi-
+Tasking 
+Supervsr 
+Rating 
+Open to 
+Change 
+Supervsr 
+Rating 
+Self 
+Developt 
+Super
+
+5. PREDICTOR: abilities
+   CATEGORY: skills
+   CONFIDENCE: 0.6
+   CONTEXT: eral 
+Description 
+Low Score 
+Description 
+High Score 
+Description 
+Multi-Tasking 
+Ability to work on 
+multiple tasks and 
+meet multiple 
+demands. 
+Easily frustrated by 
+multiple demands. Can 
+only focus on one thing 
+at a time. 
+Prefers working on 
+multiple tasks. Easily 
+juggles multiple tasks. 
+Thrives on multiple 
+demands. 
+Drive for Results 
+Desire to be 
+successful and 
+reach both 
+business 
+
+6. PREDICTOR: drive
+   CATEGORY: motivation
+   CONFIDENCE: 1.0
+   CONTEXT: Confidence 
+Pearson 
+Correlation 
+.170**
+.161*
+.497**
+.393**
+ 
+.555** 
+ 
+.524**
+1
+ 
+Sig. (2-
+tailed) 
+.017
+.025
+.000
+.000
+.000 
+.000
+ 
+N 
+195
+195
+195
+195
+195 
+195
+195
+ 
+**  Correlation is significant at the 0.01 level (2-tailed). 
+ 
+ 
+ 
+Selecting Leadership        
+114
+Table 22 presents the results of the correlation analysis between the HLI and Supervisor 
+Rating predictors of promotional potenti
+
+7. PREDICTOR: leadership
+   CATEGORY: leadership
+   CONFIDENCE: 1.0
+   CONTEXT: orrelation coefficients. The other factors’ absolute correlation coefficient 
+values (all significant at p<.01) ranged from .189 (weak to no relationship) to .593 (moderate 
+relationship), but none of the coefficient scores for this data set exceeded the .8 threshold. 
+Therefore, none of the HLI Assessment factors was eliminated from further analysis.  
+Next, stepwise multiple regression analysis 
+
+8. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 0.91
+   CONTEXT: ariation of those five factors. All results were significant to the p<.05 level. 
+The Durbin-Watson test for independent errors yielded a score of 1.903.  Because “The test 
+statistic can vary between 0 and 4 with a value of 2 meaning the residuals are uncorrelated” 
+(Field, 2005, p. 730), the independent errors were found to be acceptable. 
+The results of the stepwise multiple regression process 
+
+9. PREDICTOR: performance evaluation
+   CATEGORY: job_performance
+   CONFIDENCE: 1.0
+   CONTEXT: ritical Thinking correlation 
+coefficients were not significant at p<.05, and so this factor was “safe” from elimination without 
+even evaluating its correlation coefficients. The other factors’ absolute correlation coefficient 
+values (all significant at p<.01) ranged from .189 (weak to no relationship) to .593 (moderate 
+relationship), but none of the coefficient scores for this data set exceede
+
+10. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: .359
+ 
+  
+N 
+139 
+139 
+139 
+139 
+139 
+139 
+139 
+139 
+139 
+139 
+ 
+ 
+**  Correlation is significant at the 0.01 level (2-tailed). 
+ 
+Selecting Leadership        
+100
+Table 15 shows the results of the bi-variate correlation analysis. The correlation absolute 
+values ranged from .017 (Critical Thinking and Multi-Tasking) to .593 (Conscientiousness and 
+Achievement). Based on the rule of thumb in Table
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+CORRELATIONS FOUND:
+  1. VALUE: r=.5
+     CONFIDENCE: 1.0
+     CONTEXT: correlate higher than r=.5 should be scrutinized carefully before both are included in a regression 
+analysis” (p. 195) because the multiple regression results could be compromised otherwise. 
+While the absolute correlation coefficient values ranged from r=.329 (weak relationship) to 
+r=.773 (strong
+
+  2. VALUE: R=.241
+     CONFIDENCE: 1.0
+     CONTEXT: and 2.290 (maximum), with a mean of .064 (Field, 2005). 
+It is important to note that the regression analysis described above was programmed to 
+exclude cases listwise. When the regression analysis was conducted using all of the HLI 
+Assessment variables, the 56 cases that were missing Critical Thin
+
+  3. VALUE: r=.161
+     CONFIDENCE: 1.0
+     CONTEXT: 195
+Sup Rat Self 
+Confidence 
+Pearson 
+Correlation 
+.170**
+.161*
+.497**
+.393**
+ 
+.555** 
+ 
+.524**
+1
+ 
+Sig. (2-
+tailed) 
+.017
+.025
+.000
+.000
+.000 
+.000
+ 
+N 
+195
+195
+195
+195
+195 
+195
+195
+ 
+**  Correlation is significant at the 0.01 level (2-tailed). 
+ 
+ 
+ 
+Selecting Leadership        
+114
+Table 22 pre
+
+  4. VALUE: r=.583
+     CONFIDENCE: 1.0
+     CONTEXT: .393**
+ 
+.555** 
+ 
+.524**
+1
+ 
+Sig. (2-
+tailed) 
+.017
+.025
+.000
+.000
+.000 
+.000
+ 
+N 
+195
+195
+195
+195
+195 
+195
+195
+ 
+**  Correlation is significant at the 0.01 level (2-tailed). 
+ 
+ 
+ 
+Selecting Leadership        
+114
+Table 22 presents the results of the correlation analysis between the HLI and Superv
+
+  5. VALUE: r=.481
+     CONFIDENCE: 1.0
+     CONTEXT: en the HLI and Supervisor 
+Rating predictors of promotional potential. All of the correlations are significant at the p=.05 
+level, and range from r=.161 (HLI Openness to Change and Supervisor Rating Self Confidence) 
+to r=.583 (Supervisor Ratings Multi-Tasking and Drive for Results). As expected ba
+
+  6. VALUE: r=.170
+     CONFIDENCE: 1.0
+     CONTEXT: dictors of promotional potential. All of the correlations are significant at the p=.05 
+level, and range from r=.161 (HLI Openness to Change and Supervisor Rating Self Confidence) 
+to r=.583 (Supervisor Ratings Multi-Tasking and Drive for Results). As expected based upon 
+their strong correlations f
+
+  7. VALUE: r=.366
+     CONFIDENCE: 1.0
+     CONTEXT: promotional potential. All of the correlations are significant at the p=.05 
+level, and range from r=.161 (HLI Openness to Change and Supervisor Rating Self Confidence) 
+to r=.583 (Supervisor Ratings Multi-Tasking and Drive for Results). As expected based upon 
+their strong correlations from the mul
+
+  8. VALUE: r=.559
+     CONFIDENCE: 1.0
+     CONTEXT: from the multiple regression analysis in Research Question One, the 
+Pearson Correlation for the supervisory ratings carried the highest correlations ranging from 
+r=.481 to r=.583 with each other and r=.170 to r=.366 with the HLI factors of Achievement and 
+Openness to Change. None of the factors w
+
+  9. VALUE: r=.30
+     CONFIDENCE: 1.0
+     CONTEXT: n  
+.019 
+.153
+.051
+.065
+.049
+.109
+.071 
+-.071
+-.015
+-.003
+.049
+-.097
+Critical 
+Think*** 
+Sig. (2-
+tailed) 
+.827 
+.072
+.549
+.447
+.565
+.202
+.403 
+.405
+Table 24. Correlations among All Study Variables
+ 
+.862
+.970
+.566
+.257
+*** n=139                               **  Correlation is significant at the 0
+
+  10. VALUE: r=.333
+     CONFIDENCE: 1.0
+     CONTEXT: =139                               **  Correlation is significant at the 0.01 level (2-tailed).                                   *  Correlation is significant at the 0.05 level (2-tailed). 
+  
+ 
+Selecting Leadership        
+117
+Table 24 shows six correlations of more than r=.30, the strongest of wh
+
+P-VALUES: p<.01, p<05, p=.05, p<.05
+R-SQUARED VALUES: R2=.053
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+TABLE 1 (Page 92) - TYPE: descriptive_statistics
+TABLE CONTENT:
+              None  None       None         None  None       Levene  None  None  None             t-test for Equality of Means  None  None    None  None                None  None  None        None   None  None               None  None  None   None             None  None  None   None      
+0             None  None       None         None  None     F   None  None  Sig.  None  None     t                         None  None    df    None  None  Sig.\n(2-\ntailed)  None  None  Mean\nDiff   None  None  Std.\nError\nDiff  None  None          95% Confidence  None  None   None      
+1   None      None  None       None         None  None  None   None  None  None  None  None  None                         None  None  None    None  None                None  None  None        None   None  None               None  None  None   None  Interval of the  None  None   None  None
+2   None      None  None       None         None  None  None   None  None  None  None  None  None                         None  None  None    None  None                None  None  None        None   None  None               None  None  None   None       Difference  None  None   None  None
+3             None  None       None         None  None         None  None        None  None                               None  None          None  None                      None  None               None  None                     None  None                   Lower              Upper      
+4   None            None       None         None  None  None         None  None        None  None                               None  None          None                None        None        None         None               None        None   None             None  None  None   None  None
+5           Gender                     Equal var               1.56              .212                                      .62                 347                            .533                     .028                           .046                         -.061               .118      
+6                                    Unequal var                                                                           .62              346.63                            .533                     .028                           .045                         -.061               .118      
+7              Age                     Equal var               9.16              .003                                     1.50                 347                            .135                     .068                           .046                         -.021               .158      
+8                                    Unequal var                                                                          1.50              346.78                            .133                     .068                           .045                         -.021               .158      
+9             Race                     Equal var              12.03              .001                                     1.70                 347                            .089                    -.037                           .022                         -.080               .006      
+10                                   Unequal var                                                                          1.73              308.60                            .085                    -.037                           .021                         -.079               .005      
+11             Emp        Equal var    Equal var  None   .09   None  None  .766  None  None   .35                         None  None   347    None  None                .728  None  None        .033   None  None               .096  None  None  -.156             None  None  .222   None  None
+12  None  Duration  None       None         None  None  None   None  None  None  None  None  None                         None  None  None    None  None                None  None  None        None   None  None               None  None  None   None             None  None  None   None  None
+13                                   Unequal var                                                                           .35              341.40                            .729                     .033                           .096                         -.156               .223      
+14             Pos        Equal var    Equal var  None  3.02   None  None  .083  None  None  -.56                         None  None   347    None  None                .576  None  None       -.074   None  None               .131  None  None  -.332             None  None  .185   None  None
+15  None  Duration  None       None         None  None  None   None  None  None  None  None  None                         None  None  None    None  None                None  None  None        None   None  None               None  None  None   None             None  None  None   None  None
+16                                   Unequal var                                                                          -.56              329.21                            .578                    -.074                           .132                         -.334               .186      
+17         Ldrship        Equal var    Equal var  None  .012   None  None  .912  None  None  1.96                         None  None   347    None  None                .051  None  None        .217   None  None               .111  None  None  -.001             None  None  .435   None  None
+18  None     Level  None       None         None  None  None   None  None  None  None  None  None                         None  None  None    None  None                None  None  None        None   None  None               None  None  None   None             None  None  None   None  None
+19                                   Unequal var                                                                          1.96              346.49                            .051                     .217                           .111                         -.001               .435      
+------------------------------
+
+TABLE 1 (Page 101) - TYPE: unknown
+TABLE CONTENT:
+                   None  None                               None  None  None  None  None  None                            None  None  None  None  None  None      
+0   None           None  None  None  Kolmogorov-Smirnov(a)  None  None  None  None  None  None  None  None  Shapiro-Wilk  None  None  None  None  None  None  None
+1   None           None  None  None                         None  None  None  None  None  None  None  None                None  None  None  None  None  None  None
+2                  None  None                    Statistic                Df              Sig.                 Statistic                Df              Sig.      
+3   None                 None  None                         None  None        None  None        None  None                None  None        None  None        None
+4                              .164                   None  None   195  None  None  .000  None  None  .927          None  None   195  None  None  .000  None  None
+5   None     Supervisor  None  None                   None  None  None  None  None  None  None  None  None          None  None  None  None  None  None  None  None
+6   None                 None  None                   None  None  None  None  None  None  None  None  None          None  None  None  None  None  None  None  None
+7   None         Rating  None  None                   None  None  None  None  None  None  None  None  None          None  None  None  None  None  None  None  None
+8   None                 None  None                   None  None  None  None  None  None  None  None  None          None  None  None  None  None  None  None  None
+9   None  Potential for  None  None                   None  None  None  None  None  None  None  None  None          None  None  None  None  None  None  None  None
+10  None                 None  None                   None  None  None  None  None  None  None  None  None          None  None  None  None  None  None  None  None
+11  None      Promotion  None  None                   None  None  None  None  None  None  None  None  None          None  None  None  None  None  None  None  None
+12  None                 None  None                   None  None  None  None  None  None  None  None  None          None  None  None  None  None  None  None  None
+------------------------------
+
+TABLE 1 (Page 104) - TYPE: correlation_matrix
+TABLE CONTENT:
+                      None  None                  None         None  None              Supervis                    Supvsr                   Supvsor                  Supvisor                    Supervsr                  Supervsr                  Supervsr                   Supervsr                  Supervsr                  Supvsor\nRating\nPromo\nPotential            Supervsr       Supervsr\nRanking
+0   None              None  None                  None         None  None       None  or Rating  None      None    Rating  None       None   Rating  None       None   Rating  None       None     Rating  None       None   Rating  None       None   Rating  None       None    Rating  None       None   Rating  None       None                              None       None   Rating  None              None
+1   None              None  None                  None         None  None       None  Drive for  None      None   Conscie  None       None   Custmr  None       None     Emot  None       None  Innovativ  None       None   Multi-  None       None  Open to  None       None      Self  None       None     Self  None       None                              None       None  Overall  None              None
+2   None                    None                  None         None  None       None    Results  None      None    ntious  None       None  Orientn  None       None    Evens  None       None          e  None       None  Tasking  None       None   Change  None       None  Developt  None       None   Confid  None       None                              None       None  Perform  None              None
+3               Supervisor        Pearson\nCorrelation      Pearson  None          1       None  None                None  None                None  None                None  None                  None  None                None  None                None  None                 None  None                None  None                                         None                None  None                  
+4   None  Rating Drive for  None                  None  Correlation  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+5   None           Results  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+6               Supervisor        Pearson\nCorrelation         None  None   .552(**)       None  None         1      None  None                None  None                None  None                  None  None                None  None                None  None                 None  None                None  None                                         None                None  None                  
+7   None            Rating  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+8   None    Conscientiousn  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+9   None               ess  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+10              Supervisor        Pearson\nCorrelation         None  None   .481(**)       None  None  .491(**)      None  None          1     None  None                None  None                  None  None                None  None                None  None                 None  None                None  None                                         None                None  None                  
+11  None            Rating  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+12  None          Customer  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+13  None       Orientation  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+14              Supervisor        Pearson\nCorrelation         None  None   .396(**)       None  None  .354(**)      None  None   .515(**)     None  None          1     None  None                  None  None                None  None                None  None                 None  None                None  None                                         None                None  None                  
+15  None            Rating  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+16  None         Emotional  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+17  None          Evenness  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+18              Supervisor        Pearson\nCorrelation         None  None   .592(**)       None  None  .371(**)      None  None   .419(**)     None  None   .452(**)     None  None          1       None  None                None  None                None  None                 None  None                None  None                                         None                None  None                  
+19  None            Rating  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+20  None        Innovative  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+21              Supervisor        Pearson\nCorrelation         None  None   .583(**)       None  None  .501(**)      None  None   .410(**)     None  None   .496(**)     None  None   .585(**)       None  None          1     None  None                None  None                 None  None                None  None                                         None                None  None                  
+22  None     Rating Multi-  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+23  None           Tasking  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+24              Supervisor        Pearson\nCorrelation         None  None   .559(**)       None  None  .390(**)      None  None   .489(**)     None  None   .538(**)     None  None   .723(**)       None  None   .589(**)     None  None          1     None  None                 None  None                None  None                                         None                None  None                  
+25  None            Rating  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+26  None       Openness to  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+27  None            Change  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+28              Supervisor        Pearson\nCorrelation         None  None   .533(**)       None  None  .389(**)      None  None   .369(**)     None  None   .350(**)     None  None   .480(**)       None  None   .539(**)     None  None   .533(**)     None  None          1      None  None                None  None                                         None                None  None                  
+29  None       Rating Self  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+30  None       Development  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+31              Supervisor        Pearson\nCorrelation         None  None   .497(**)       None  None  .329(**)      None  None   .393(**)     None  None   .560(**)     None  None   .526(**)       None  None   .555(**)     None  None   .524(**)     None  None   .443(**)      None  None          1     None  None                                         None                None  None                  
+32  None       Rating Self  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+33  None        Confidence  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+34              Supervisor        Pearson\nCorrelation         None  None   .701(**)       None  None  .498(**)      None  None   .524(**)     None  None   .545(**)     None  None   .626(**)       None  None   .696(**)     None  None   .633(**)     None  None   .562(**)      None  None   .640(**)     None  None          1                              None                None  None                  
+35  None  Rating Potential  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+36  None     for Promotion  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+37              Supervisor        Pearson\nCorrelation         None  None   .718(**)       None  None  .631(**)      None  None   .620(**)     None  None   .612(**)     None  None   .623(**)       None  None   .699(**)     None  None   .652(**)     None  None   .584(**)      None  None   .681(**)     None  None   .773(**)                              None          1     None  None                  
+38  None    Rating Overall  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+39  None       Performance  None                  None         None  None       None       None  None      None      None  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+40              Supervisor                                  Pearson        -.604(**)       None  None                   -        -.523(**)     None  None  -.473(**)     None  None  -.450(**)       None  None  -.569(**)     None  None  -.501(**)     None  None  -.518(**)      None  None  -.549(**)     None  None  -.661(**)                              None  -.706(**)     None  None                 1
+41  None           Ranking  None                  None  Correlation  None       None       None  None      None  .529(**)  None       None     None  None       None     None  None       None       None  None       None     None  None       None     None  None       None      None  None       None     None  None       None                              None       None     None  None              None
+------------------------------
+
+TABLE 1 (Page 107) - TYPE: descriptive_statistics
+TABLE CONTENT:
+  Model   None  None     R     None  None R Square      None  None       Adjusted R       Std. Error of\nthe Estimate       F Change     None  None             Sig      
+0  None  Model  None  None        R  None     None  R Square  None  None     Square  None                        None  None     None     None  None  None  F Change  None
+1            1              .701(a)                     .491                   .489                              .825                 186.439                  .000      
+2            2              .785(b)                     .616                   .612                              .718                  62.628                  .000      
+3            3              .817(c)                     .668                   .662                              .670                  29.395                  .000      
+4            4              .826(d)                     .682                   .675                              .657                   8.714                  .004      
+5            5              .830(e)                     .689                   .681                              .652                   4.134                  .043      
+------------------------------
+
+TABLE 1 (Page 110) - TYPE: correlation_matrix
+TABLE CONTENT:
+                                        None  None  None             None  None HLI\nAchvmnt  None  None HLI Cust\nOrientation  None  None HLI\nConscien  None  None HLI\nEmotEven  None  None HLI\nInnovative  None  None HLI Multi-\nTasking  None  None HLI Open\nto Change  None  None HLI Self\nConfid  None  None HLI Self\nDevlpmnt  None  None Critical\nThinking  None  None
+0                  None                       None  None             None  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+1       HLI Achievement      HLI Achievement  None                Pearson                  1  None  None                        None  None                None  None                None  None                  None  None                      None  None                      None  None                   None  None                     None  None                     None  None
+2                  None                 None  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+3                                                         Sig. (2-tailed)                                                                                                                                                                                                                                                                                                            
+4                                                                       N                      195                                                                                                                                                                                                                                                                                   
+5                               HLI Customer                      Pearson           .500(**)  None  None                     1  None  None                None  None                None  None                  None  None                      None  None                      None  None                   None  None                     None  None                     None  None
+6                  None          Orientation  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+7                                                         Sig. (2-tailed)                     .000                                                                                                                                                                                                                                                                                   
+8                                                                       N                      195                               195                                                                                                                                                                                                                                                 
+9                                        HLI                      Pearson           .593(**)  None  None              .515(**)  None  None             1  None  None                None  None                  None  None                      None  None                      None  None                   None  None                     None  None                     None  None
+10                 None    Conscientiousness  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+11                                                        Sig. (2-tailed)                     .000                              .000                                                                                                                                                                                                                                                 
+12                                                                      N                      195                               195                       195                                                                                                                                                                                                                       
+13                             HLI Emotional                      Pearson           .314(**)  None  None              .486(**)  None  None      .325(**)  None  None             1  None  None                  None  None                      None  None                      None  None                   None  None                     None  None                     None  None
+14                 None             Evenness  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+15                                                        Sig. (2-tailed)                     .000                              .000                      .000                                                                                                                                                                                                                       
+16                                                                      N                      195                               195                       195                       195                                                                                                                                                                                             
+17       HLI Innovative       HLI Innovative  None                Pearson           .382(**)  None  None              .372(**)  None  None      .354(**)  None  None      .292(**)  None  None               1  None  None                      None  None                      None  None                   None  None                     None  None                     None  None
+18                 None                 None  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+19                                                        Sig. (2-tailed)                     .000                              .000                      .000                      .000                                                                                                                                                                                             
+20                                                                      N                      195                               195                       195                       195                         195                                                                                                                                                                 
+21    HLI Multi-Tasking    HLI Multi-Tasking  None                Pearson           .288(**)  None  None              .189(**)  None  None      .364(**)  None  None      .255(**)  None  None        .279(**)  None  None                   1  None  None                      None  None                   None  None                     None  None                     None  None
+22                 None                 None  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+23                                                        Sig. (2-tailed)                     .000                              .008                      .000                      .000                        .000                                                                                                                                                                 
+24                                                                      N                      195                               195                       195                       195                         195                             195                                                                                                                                 
+25                           HLI Openness to                      Pearson           .426(**)  None  None              .385(**)  None  None      .533(**)  None  None      .439(**)  None  None        .535(**)  None  None            .433(**)  None  None                   1  None  None                   None  None                     None  None                     None  None
+26                 None               Change  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+27                                                        Sig. (2-tailed)                     .000                              .000                      .000                      .000                        .000                            .000                                                                                                                                 
+28                                                                      N                      195                               195                       195                       195                         195                             195                             195                                                                                                 
+29  HLI Self Confidence  HLI Self Confidence  None                Pearson           .550(**)  None  None              .584(**)  None  None      .540(**)  None  None      .502(**)  None  None        .573(**)  None  None            .379(**)  None  None            .531(**)  None  None                1  None  None                     None  None                     None  None
+30                 None                 None  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+31                                                        Sig. (2-tailed)                     .000                              .000                      .000                      .000                        .000                            .000                            .000                                                                                                 
+32                                                                      N                      195                               195                       195                       195                         195                             195                             195                          195                                                                    
+33                                  HLI Self                      Pearson           .476(**)  None  None              .434(**)  None  None      .374(**)  None  None      .322(**)  None  None        .472(**)  None  None            .261(**)  None  None            .469(**)  None  None         .438(**)  None  None                  1  None  None                     None  None
+34                 None          Development  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+35                                                        Sig. (2-tailed)                     .000                              .000                      .000                      .000                        .000                            .000                            .000                         .000                                                                    
+36                                                                      N                      195                               195                       195                       195                         195                             195                             195                          195                            195                                     
+37                         Critical Thinking                      Pearson              -.094  None  None                 -.134  None  None          .068  None  None         -.115  None  None           -.060  None  None               -.017  None  None               -.027  None  None            -.046  None  None              -.078  None  None                  1  None  None
+38                 None     Inventory Scale*  None  None      Correlation  None         None  None  None                  None  None  None          None  None  None          None  None  None            None  None  None                None  None  None                None  None  None             None  None  None               None  None  None               None  None  None
+39                                                        Sig. (2-tailed)                     .270                              .116                      .426                      .177                        .486                            .843                            .754                         .593                           .359                                     
+40                                                                      N                      139                               139                       139                       139                         139                             139                             139                          139                            139                            139      
+------------------------------
+
+TABLE 1 (Page 112) - TYPE: descriptive_statistics
+TABLE CONTENT:
+  Model   None  None     R     None  None R Square      None  None Adjusted\nR Square      None  None       Std. Error      
+0  None   None  None  None     None  None     None      None  None               None  Adjusted  None  None     of the  None
+1  None  Model  None  None        R  None     None  R Square  None               None  R Square  None  None   Estimate  None
+2            1              .280(a)                     .078                               .071                  1.142      
+3            2              .331(b)                     .109                               .096                  1.126      
+------------------------------
+
+TABLE 1 (Page 115) - TYPE: unknown
+TABLE CONTENT:
+                         None  None     None         None  None         Levene's Test for  None  None  None         None   None  None  None     None  None  None      None  None
+0     None               None  None     None         None  None    None       Equality of  None  None  None  None   None   None  None  None     None  None  None      None  None
+1     None               None  None     None         None  None    None         Variances  None  None  None  None   None   None  None  None     None  None  None      None  None
+2                        None  None     None         None  None       F              None  None  Sig.  None  None      t   None  None    df     None  None        Sig. (2-      
+3     None                     None     None         None  None    None              None  None  None  None  None   None   None  None  None     None  None  None   tailed)  None
+4   Gender             Gender  None                 Equal         1.342              None  None  .248  None  None  -.607   None  None   191     None  None  .545      None  None
+5     None               None  None     None    variances  None    None              None  None  None  None  None   None   None  None  None     None  None  None      None  None
+6     None               None  None     None      assumed  None    None              None  None  None  None  None   None   None  None  None     None  None  None      None  None
+7                                             Not assumed                                                                 -.587               71.565                  .559      
+8                         Age                     Assumed                           1.933              .166               -.752                  192                  .453      
+9                                             Not assumed                                                                 -.727               69.150                  .470      
+10                       Race                     Assumed                           1.541              .216                .629                  193                  .530      
+11                                            Not assumed                                                                  .573               65.743                  .569      
+12                 Employment        Assumed      Assumed  None  11.113              None  None  .001  None  None  1.991   None  None   193     None  None  .048      None  None
+13    None           Duration  None     None         None  None    None              None  None  None  None  None   None   None  None  None     None  None  None      None  None
+14                                            Not assumed                                                                 2.511              119.871                  .013      
+15          Position Duration                     Assumed                           2.140              .145               1.990                  193                  .048      
+16                                            Not assumed                                                                 2.219               90.881                  .029      
+17                 Mgmt Level                     Assumed                           1.312              .254               1.153                  179                  .250      
+18                                            Not assumed                                                                 1.107               65.927                  .272      
+------------------------------
+
+TABLE 1 (Page 116) - TYPE: descriptive_statistics
+TABLE CONTENT:
+                      None  None            Took           N  None  None  Mean  None  None Std.\nDeviation   None  None         Std.      
+0  None               None  None  None  Critical  None  None  None  None  None  None  None            None   None  None  None  Error  None
+1  None                     None  None  Thinking  None  None  None  None  None  None  None            None   None  None  None   Mean  None
+2               Employment          No        No  None    46  None  None  5.72  None  None            .584   None  None  .086   None  None
+3  None           Duration  None  None      None  None  None  None  None  None  None  None            None   None  None  None   None  None
+4                                            Yes               149              5.43                         .925               .076      
+5        Position Duration                    No                46              5.20                         .934               .138      
+6                                            Yes               149              4.83                        1.149               .094      
+------------------------------
+
+TABLE 1 (Page 124) - TYPE: correlation_matrix
+TABLE CONTENT:
+                                       None  None                  None         None  None HLI\nAchievmnt  None  None HLI Open\nto Change  None  None            Sup Rat                    Sup Rat                Sup Rat                Sup Rat                 Sup Rat      
+0                       None                 None                  None         None  None           None  None  None                None  None  None    None  Drive for  None    None     Customer  None    None   Multi-  None    None  Open to  None  None        Self  None
+1                       None           None  None                  None         None  None           None  None  None                None  None  None    None    Results  None    None  Orientation  None    None  Tasking  None    None   Change  None  None  Confidence  None
+2                                       HLI                                  Pearson                    1  None  None                      None  None               None  None                 None  None                   None                   None              None  None
+3                       None    Achievement  None                  None  Correlation  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+4                                            None                           Sig. (2-                       None  None                      None  None               None  None                 None  None             None  None             None  None              None  None
+5                       None           None  None                  None      tailed)  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+6                                                                                  N                        195                                                                                                                                                                
+7                               HLI Open to                                  Pearson               .426**  None  None                   1  None  None               None  None                 None  None                   None                   None              None  None
+8                       None         Change  None                  None  Correlation  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+9                                            None                           Sig. (2-                 .000  None  None                      None  None               None  None                 None  None             None  None             None  None              None  None
+10                      None           None  None                  None      tailed)  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+11                                                                                 N                        195                             195                                                                                                                                
+12                            Sup Rat Drive                                  Pearson               .366**  None  None              .195**  None  None       1       None  None                 None  None                   None                   None              None  None
+13                      None    for Results  None                  None  Correlation  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+14                                           None                           Sig. (2-                 .000  None  None                .006  None  None               None  None                 None  None             None  None             None  None              None  None
+15                      None           None  None                  None      tailed)  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+16                                     None  None                     N            N  None            195  None  None                 195  None  None     195       None  None                 None  None             None  None             None  None              None  None
+17                                  Sup Rat        Pearson\nCorrelation         None  None         .229**  None  None                .093  None  None  .481**       None  None       1         None  None             None  None             None  None              None  None
+18                      None       Customer  None                  None         None  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+19                      None    Orientation  None                  None         None  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+20                                           None                           Sig. (2-                 .001  None  None                .195  None  None    .000       None  None                 None  None             None  None             None  None              None  None
+21                      None           None  None                  None      tailed)  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+22                                                                                 N                        195                             195                      195                        195                                                                            
+23                            Sup Rat Multi                                  Pearson               .204**  None  None              .164**  None  None  .583**       None  None  .410**         None  None       1        1  None                   None              None  None
+24                      None        Tasking  None                  None  Correlation  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+25                                           None                           Sig. (2-                 .004  None  None                .022  None  None    .000       None  None    .000         None  None             None  None             None  None              None  None
+26                      None           None  None                  None      tailed)  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+27                                                                                 N                        195                             195                      195                        195                    195                                                     
+28   Sup Rat Open\nto Change   Sup Rat Open  None                            Pearson               .253**  None  None                .184  None  None  .559**       None  None  .489**         None  None  .589**           None       1        1  None              None  None
+29                      None      to Change  None                  None         None  None           None  None  None                None  None  None    None       None  None    None         None  None    None   .589**  None    None     None  None  None        None  None
+30                      None           None  None                  None  Correlation  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+31                                     None  None                           Sig. (2-                 .000  None  None                .010  None  None    .000       None  None    .000         None  None    .000     None  None             None  None              None  None
+32                      None           None  None                  None      tailed)  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+33                                                                                 N                        195                             195                      195                        195                    195                    195                              
+34  Sup Rat Self\nConfidence   Sup Rat Self  None                            Pearson               .170**  None  None               .161*  None  None  .497**       None  None  .393**         None  None  .555**           None  .524**           None     1        None  None
+35                      None     Confidence  None                  None         None  None           None  None  None                None  None  None    None       None  None    None         None  None    None   .555**  None    None   .524**  None  None        None  None
+36                      None           None  None                  None  Correlation  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+37                                     None  None                           Sig. (2-                 .017  None  None                .025  None  None    .000       None  None    .000         None  None    .000     None  None    .000     None  None              None  None
+38                      None           None  None                  None      tailed)  None           None  None  None                None  None  None    None       None  None    None         None  None    None     None  None    None     None  None  None        None  None
+39                                                                                 N                        195                             195                      195                        195                    195                    195                     195      
+------------------------------
+
+TABLE 1 (Page 126) - TYPE: descriptive_statistics
+TABLE CONTENT:
+                                None  None           None  None           Sum of          df  None  None           Mean            F  None  None  Sig.  None  None
+0                   None              None           None  None    None  Squares  None  None  None  None   None  Square  None   None  None  None  None  None  None
+1   Employment\nDuration  Employment              Between         2.237     None  None     5  None  None   .447    None  None   .593  None  None  .705  None  None
+2                   None    Duration  None         Groups  None    None     None  None  None  None  None   None    None  None   None  None  None  None  None  None
+3                   None        None        Within Groups                142.512               189                 .754                                           
+4                   None        None                Total                144.749               194                                                                
+5      Position Duration        None              Between        10.719     None  None     5  None  None  2.144    None  None  1.771  None  None  .121  None  None
+6                   None        None  None         Groups  None    None     None  None  None  None  None   None    None  None   None  None  None  None  None  None
+7                   None        None        Within Groups                228.799               189                1.211                                           
+8                   None        None                Total                239.518               194                                                                
+9         Classification        None              Between         3.178     None  None     5  None  None   .636    None  None   .712  None  None  .615  None  None
+10                  None        None  None         Groups  None    None     None  None  None  None  None   None    None  None   None  None  None  None  None  None
+11                  None        None        Within Groups                156.258               175                 .893                                           
+12                  None        None                Total                159.436               180                                                                
+------------------------------
+
+TABLE 1 (Page 127) - TYPE: unknown
+TABLE CONTENT:
+               None  None               None  None SR Drive\nResults                 SR       SR Cust\nOrient                 SR       SR\nInnovativ SR Multi-\nTasking SR Open\nChange SR Self\nDevelop SR Self\nConfid                   SR                       SR       SR\nRanking
+0   None       None  None     None      None  None              None      None  Conscie  None            None      None  Emotion  None          None               None            None             None            None      None  Potential  None      None  Overall  None        None
+1   None       None  None     None      None  None              None      None   ntious  None            None      None     Even  None          None               None            None             None            None      None      Promo  None      None  Perform  None        None
+2    HLI       None  None  Pearson      None  None          .366(**)  .219(**)     None  None        .229(**)   .167(*)     None  None      .231(**)           .204(**)        .253(**)         .237(**)         .170(*)  .241(**)       None  None  .248(**)     None  None   -.205(**)
+3                                   Sig. (2-                    .000      .002     None  None            .001      .019     None  None          .001               .004            .000             .001            .017      .001       None  None      .000     None  None        .004
+4   None    Achvmnt  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+5    HLI        HLI  None  Pearson   Pearson  None          .193(**)      .108     None  None        .309(**)  .251(**)     None  None          .086               .087        .188(**)             .074         .171(*)      .144       None  None  .218(**)     None  None       -.131
+6              Cust                 Sig. (2-                    .007      .133     None  None            .000      .000     None  None          .231               .229            .008             .303            .017      .044       None  None      .002     None  None        .067
+7   None     Orient  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+8    HLI        HLI  None  Pearson   Pearson  None          .237(**)  .333(**)     None  None        .285(**)  .230(**)     None  None       .150(*)            .177(*)        .189(**)             .119            .100   .166(*)       None  None  .281(**)     None  None   -.282(**)
+9           Conscie                 Sig. (2-                    .001      .000     None  None            .000      .001     None  None          .036               .013            .008             .099            .166      .021       None  None      .000     None  None        .000
+10  None     ntious  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+11   HLI        HLI  None  Pearson   Pearson  None              .073     -.056     None  None            .072  .219(**)     None  None         -.043               .032            .081            -.045            .135      .061       None  None      .079     None  None       -.002
+12          Emotion                 Sig. (2-                    .310      .437     None  None            .314      .002     None  None          .549               .655            .258             .536            .060      .395       None  None      .272     None  None        .978
+13  None       Even  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+14   HLI        HLI  None  Pearson   Pearson  None          .223(**)      .086     None  None            .039      .102     None  None      .317(**)               .092        .205(**)             .112        .205(**)      .136       None  None   .172(*)     None  None       -.019
+15                                  Sig. (2-                    .002      .230     None  None            .593      .158     None  None          .000               .201            .004             .118            .004      .058       None  None      .016     None  None        .793
+16  None  Innovativ  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+17   HLI        HLI  None  Pearson   Pearson  None           .171(*)  .217(**)     None  None            .049      .076     None  None          .136           .206(**)         .158(*)          .165(*)            .096   .181(*)       None  None   .182(*)     None  None    -.147(*)
+18           Multi-                 Sig. (2-                    .017      .002     None  None            .496      .292     None  None          .059               .004            .027             .021            .183      .011       None  None      .011     None  None        .041
+19  None    Tasking  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+20   HLI        HLI  None  Pearson   Pearson  None          .195(**)  .192(**)     None  None            .093   .177(*)     None  None      .216(**)            .164(*)        .184(**)             .103         .161(*)  .199(**)       None  None  .208(**)     None  None       -.137
+21          Open to                 Sig. (2-                    .006      .007     None  None            .195      .013     None  None          .002               .022            .010             .154            .025      .005       None  None      .004     None  None        .057
+22  None     Change  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+23   HLI        HLI  None  Pearson   Pearson  None          .320(**)  .185(**)     None  None        .220(**)   .169(*)     None  None       .182(*)           .186(**)        .200(**)         .223(**)        .275(**)  .226(**)       None  None  .305(**)     None  None    -.177(*)
+24             Self                 Sig. (2-                    .000      .010     None  None            .002      .018     None  None          .011               .009            .005             .002            .000      .001       None  None      .000     None  None        .013
+25  None     Confid  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+26   HLI        HLI  None  Pearson   Pearson  None          .200(**)      .127     None  None            .140      .132     None  None       .158(*)               .095            .118         .218(**)            .084      .140       None  None   .172(*)     None  None       -.059
+27             Self                 Sig. (2-                    .005      .076     None  None            .051      .065     None  None          .028               .186            .101             .002            .241      .051       None  None      .016     None  None        .413
+28  None    Develop  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+29   HLI        HLI  None  Pearson   Pearson  None              .019      .153     None  None            .051      .065     None  None          .049               .109            .071            -.071           -.015     -.003       None  None      .049     None  None       -.097
+30         Critical                 Sig. (2-                    .827      .072     None  None            .549      .447     None  None          .565               .202            .403             .405            .862      .970       None  None      .566     None  None        .257
+31  None   Think***  None     None   tailed)  None              None      None     None  None            None      None     None  None          None               None            None             None            None      None       None  None      None     None  None        None
+------------------------------
+
+TABLE 1 (Page 130) - TYPE: regression_results
+TABLE CONTENT:
+  Model                  None  None       Unstandardized  None  None   None              Standardized           t    None  None  Sig.  None  None
+0  None  None            None  None  None   Coefficients  None  None   None  None  None  Coefficients  None  None    None  None  None  None  None
+1  None  None            None  None     B           None  None         Std.        Beta          None  None  None    None  None  None  None  None
+2  None  None            None  None  None              B  None  None   None  None  None          Beta  None  None    None  None  None  None  None
+3  None  None            None  None  None           None  None  None  Error  None  None          None  None  None       t  None  None  Sig.  None
+4     1            (Constant)                     39.439              1.718                                        22.955              .000      
+5  None        Classification                       .118               .485                      .021                .244              .808      
+------------------------------
+
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Not identified
+
+RESULTS SECTION EXCERPT:
+Supvsr 
+Rating 
+Conscie
+ntious 
+Supvsor 
+Rating 
+Custmr 
+Orientn 
+Supvisor 
+Rating 
+Emot 
+Evens 
+Supervsr 
+Rating 
+Innovativ
+e 
+Supervsr 
+Rating 
+Multi-
+Tasking 
+Supervsr 
+Rating 
+Open to 
+Change 
+Supervsr 
+Rating 
+Self 
+Developt 
+Supervsr 
+Rating 
+Self 
+Confid 
+Supvsor 
+Rating 
+Promo 
+Potential 
+Supervsr 
+Rating 
+Overall 
+Perform 
+Supervsr 
+Ranking 
+Supervisor 
+Rating Drive for 
+Results 
+Pearson 
+Correlation 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supervisor 
+Rating 
+Conscientiousn
+ess 
+Pearson 
+Correlation 
+.552(**) 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supervisor 
+Rating 
+Customer 
+Orientation 
+Pearson 
+Correlation 
+.481(**) 
+.491(**) 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supervisor 
+Rating 
+Emotional 
+Evenness 
+Pearson 
+Correlation 
+.396(**) 
+.354(**) 
+.515(**) 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supervisor 
+Rating 
+Innovative 
+Pearson 
+Correlation 
+.592(**) 
+.371(**) 
+.419(**) 
+.452(**) 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Supervisor 
+Rating Multi-
+Tasking 
+Pearson 
+Correlation 
+.583(**) 
+.501(**) 
+.410(**) 
+.496(**) 
+.585(**) 
+1 
+ 
+ 
+ 
+ 
+ 
+ 
+Supervisor 
+Rat
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: general mental ability, openness, time in position, education, abilities
+2. Statistics found: 52 correlations, 4 p_values, 1 r_squared, 2 sample_sizes
+3. Statistical tables: correlation_matrix, unknown, descriptive_statistics, regression_results
+4. High confidence in original findings extraction
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: high
+SECTIONS IDENTIFIED: 5
+TABLES FOUND: 14
+STATISTICAL TABLES: 12
+PREDICTORS IDENTIFIED: 10
+STATISTICS EXTRACTED: 59
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

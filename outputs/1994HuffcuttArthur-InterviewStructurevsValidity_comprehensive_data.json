@@ -1,0 +1,110 @@
+{
+  "PAPER_METADATA": {
+    "title": "1994HuffcuttArthur InterviewStructurevsValidity",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1037/0021-9010.79.2.184",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). 1994HuffcuttArthur InterviewStructurevsValidity. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "n = 45",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The original results of Hunter and Hunter (1984) for all 11 of the predictors they compared are presented in Table 1. For the four levels of structure, the sample-size-weighted corre-lations were .ll, .20, .34, and .17 for Level 1 to Level 4 structures. The current Mela-Analysis predicts rho ranging from .20 to .57. Data are from \"Validity and Utility of Alternative Predictors of jobperformance,\" by J. E. Hunter & R. F. Hunter, 1984, Psychological Bul-letin. Dashes indicate that these data were not provided by Hunter & Hunter. The results demonstrate that mean validity generally appears to increase with increasing levels of structure. However, this trend asymptotes at Structure 3, beyond which additional structure yields very little incremental validity (Ar = .01) The results suggest that rhomates of rho along with their population standard deviations, are reported in the lower half of Table 1. The results are from \"Validity and Utility of Alternative Predictors of jobperformance,\" by J. E. Hunter & R. F. Hunter, 1984.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "IQ",
+      "context": "rected) coefficients. The proportion of observed variance attributable\nto sampling error and study-to-study differences in the level of range\nrestriction was calculated and removed. The mean validity and residual\nvariance were then corrected for criterion unreliability and range re-\nstriction, resulting in an estimate of the correlation between interview\nratings and job performance in the populati",
+      "confidence": 0.84
+    },
+    {
+      "category": "education",
+      "predictor": "certification",
+      "context": "pre-\nsented in this investigation may not fully represent all of the\ndimensions of interview standardization. Second, the structure\nclassification scheme resulted in a few combinations of struc-\nture that, although theoretically possible, are highly unlikely to\noccur in real interview situations. Third, although the structure\nclassification scheme could have permitted more refined analy-\nses, the ",
+      "confidence": 0.7
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "s as an explanation for the observed ceiling effect.\nThere were several limitations of the present study, and these\nshould be noted. First, the two-dimensional framework pre-\nsented in this investigation may not fully represent all of the\ndimensions of interview standardization. Second, the structure\nclassification scheme resulted in a few combinations of struc-\nture that, although theoretically p",
+      "confidence": 0.7
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "formed using a SAS (SAS Institute,\n1990) PROC MEANS program developed by Huffcutt, Arthur, and\nBennett (1993). The sarnple-size-weighted mean correlation and the\nsample-size-weighted variance were computed for the observed (uncor-\nrected) coefficients. The proportion of observed variance attributable\nto sampling error and study-to-study differences in the level of range\nrestriction was calculated ",
+      "confidence": 0.84
+    },
+    {
+      "category": "interview_performance",
+      "predictor": "structured interview",
+      "context": "e relationship between\nlevel of structure and the validity of the interview. Specifically,\nthese results (a) confirm that structure is a major moderator of\ninterview validity, (b) demonstrate that validity generally in-\ncreases with increasing structure, and (c) suggest that there is\na point beyond which additional structure yields little or no\nincremental validity, a ceiling effect of structure. ",
+      "confidence": 0.71
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "r and Hunter (1984) in their analysis. In ad-\ndition, our relatively sophisticated system of structure classifi-\ncation resulted in several insights into the relationship between\nlevel of structure and the validity of the interview. Specifically,\nthese results (a) confirm that structure is a major moderator of\ninterview validity, (b) demonstrate that validity generally in-\ncreases with increasing ",
+      "confidence": 0.9
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [
+      {
+        "value": "r = .01",
+        "context": "\" by J. E. Hunter & R. F. Hunter, 1984, Psychological Bul-\nletin, 96, p. 90. Copyright 1984 by the American Psychological Associ-\nation. Reprinted by permission.\nmates of rho along with their population standard deviations,\nare reported in the lower half of Table 1.\nThe results demonstrate that mean",
+        "confidence": 1.0
+      },
+      {
+        "value": "VALIDITY\n189",
+        "context": "lar to our Structure 1 and\nStructure 4 levels. McDaniel et al.'s (1991) classification\nscheme, on the other hand, seems much less stringent and more\nliberal. Thus, there may have been some mixing of studies with\nintermediate levels of structure in both their structured and un-\nstructured categories,",
+        "confidence": 1.0
+      }
+    ],
+    "regressions": [],
+    "p_values": [
+      "p <\n.001",
+      "p < .001"
+    ],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 1,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Interview Data Set\nThe data set analyzed consisted of 114 interview validity coefficients,\nall of which involved entry-level jobs and supervisory rating criteria and\ncould be classified as to their level of structure with respect to standard-\nization of interview questions and response scoring. These studies en-\ncompassed both published and unpublished research; our sources were\njournal articles (n = 45), dissertations (n = 30), technical reports (n =\n26), master's theses (n = 8), unpublished or submitted manuscripts (n\n= 2), books (n = 2), and conference papers (n = 1). Although a majority\nof the studies were North American, five were conducted in other coun-\ntries (Ghana, England, The Netherlands, Israel, and Australia). A com-\nplete listing of the sources for these studies is available from Allen I.\nHuffcutt.\nAlthough there was some overlap between our studies and those ana-\nlyzed in other interview meta-analyses, this overlap tended to be rela-\ntively low. In total, there were 84 r",
+    "results_section": "The original results of Hunter and Hunter (1984) for all 11 of\nthe predictors they compared are presented in Table 1. The\nmean sample-size-weighted correlation across all 114 validity\ncoefficients in the current investigation was .22 (SD = . 14). For\nthe four levels of structure, the sample-size-weighted corre-\nlations were .ll(SD = .04), .20 (SD = . 11), .34 (SD = . 12), and\n.34 (SD = .17) for Level 1 to Level 4 structures, respectively.\nCorrecting for criterion unreliability and range restriction re-\nsulted in estimates of rho ranging from .20 to .57. These esti-\nTable 1\nResults From Hunter and Hunter (1984) and From the\nCurrent Mela-Analysis: Prediction of Supervisory\nRating Criteria With Entry-Level Jobs\nValidity\nPredictor\nM\nSD\nNo. of\nstudies\nTotal\nsubjects\nHunter and Hunter (1984)\"\nAbility composite\nJob tryout\nBiographical inventory\nReference check\nExperience\nInterview\nTraining and experience ratings\nAcademic achievement\nEducation\nInterest\nAge\n.53\n.44\n.37\n.26\n.18\n.14\n.13\n.11\n.10\n.",
+    "discussion_section": "Results of this investigation suggest that the overall validity\nof the interview for entry-level jobs is much higher than was\nindicated by Hunter and Hunter (1984) in their analysis. In ad-\ndition, our relatively sophisticated system of structure classifi-\ncation resulted in several insights into the relationship between\nlevel of structure and the validity of the interview. Specifically,\nthese results (a) confirm that structure is a major moderator of\ninterview validity, (b) demonstrate that val"
+  },
+  "NOTES": [
+    "Key predictors identified: IQ, certification, EQ, job performance, structured interview",
+    "Statistics found: 2 correlations, 2 p_values, 7 sample_sizes",
+    "High confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 4,
+    "tables_found": 1,
+    "statistical_tables": 0,
+    "predictors_identified": 6,
+    "statistics_extracted": 11,
+    "confidence_level": "high"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "PAPER_METADATA": {
+    "title": "Detecting causal relationships between work motivation and job performance a meta analytic review of cross lagged studies",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1057/s41599-024-03038-w",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). Detecting causal relationships between work motivation and job performance a meta analytic review of cross lagged studies. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": "n=11",
+    "sample_context": "First, samples should come from organizations\nbecause the current study focuses on work motivation and job\nperformance."
+  },
+  "PAPER_SUMMARY": "Using the Trim-and-Fill method, the correlation between performance T1 and performance T2 only decreased by 0.02, suggesting the publication bias is not serious. Overall, work motivation appears to be a Predictor of job performance, whereas job performance appearsto be a predictor of work motivation. Table 2 depicts the averaged correlation (r) and true score (ρ) of interest. Overall, work motivation appears to be a predictor of job performance. However, the path coefﬁcient (i.e., P1 →M2) from performance (T1) to motivation (T2) is positive. The overall publication bias is not serious. The path coefﬁcient (i.e., P1 →M2) from performance (T1) to. grotesque (P2) is positive. However, the correlation between P1 and P2 is not as strong as previously thought.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "education",
+      "predictor": "training",
+      "context": "hypotheses.\nThis article provides the ﬁrst meta-analysis that estimates the\nlongitudinal effects between work motivation and job perfor-\nmance, contributing to both theory and practice. In terms of\ntheory, this study will provide solid evidence for the causal\nrelationship between work motivation and job performance,\ncontributing to motivation and performance literature. In relation\nto practice, th",
+      "confidence": 1.0
+    },
+    {
+      "category": "motivation",
+      "predictor": "motivation",
+      "context": "t error; Hunter and Schmidt,\n2004). For instance, the relationships of interest may vary when\nsampling from different organizations because of sampling error,\nwhich would harm the accuracy of the results. Fortunately, the\nmeta-analysis methodology could help us to correct the statistical\nartifacts and thereby provide solid and reliable empirical evidence\nfor the theory. As such, we utilize a meta-",
+      "confidence": 1.0
+    },
+    {
+      "category": "leadership",
+      "predictor": "leadership",
+      "context": "een work motivation and job performance using\nlongitudinal data. The evidence supports the effects of work\nmotivation on job performance and does not support the reverse\neffects. The reciprocal model and causally unrelated model are\nalso not supported. The results appear reasonably robust, as the\nﬁnding that work motivation predicts job performance was\nconsistent across the examined moderators of ",
+      "confidence": 1.0
+    },
+    {
+      "category": "communication",
+      "predictor": "communication",
+      "context": "on T1\nJob\nPerformance T1\nWork\nMotivation T2\nJob\nPerformance T2\nFig. 3 The reciprocal model. An illustration of arguments for a\nsimultaneous reciprocity between work motivation and job performance.\nThis ﬁgure is covered by the Creative Commons Attribution 4.0\nInternational License.\nWork\nMotivation T1\nJob\nPerformance T1\nWork\nMotivation T2\nJob\nPerformance T2\nFig. 2 The performance-causing-motivation ",
+      "confidence": 0.81
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "urrent study is also essential to practice. First, as the\ncurrent study provides solid causal evidence for the motivation-\nperformance linkage, it provides knowledge for human perfor-\nmance management. That is, human performance practices (e.g.,\ncompensation management and performance management) that\ninﬂuence employee motivation, will inﬂuence employee perfor-\nmance. Second, our knowledge suggest",
+      "confidence": 0.8
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": "the results. Fortunately, the\nmeta-analysis methodology could help us to correct the statistical\nartifacts and thereby provide solid and reliable empirical evidence\nfor the theory. As such, we utilize a meta-analysis methodology\nthat allows us to aggregate cross-lagged panel data to test the four\nhypotheses.\nThis article provides the ﬁrst meta-analysis that estimates the\nlongitudinal effects betwe",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "of interest may vary when\nsampling from different organizations because of sampling error,\nwhich would harm the accuracy of the results. Fortunately, the\nmeta-analysis methodology could help us to correct the statistical\nartifacts and thereby provide solid and reliable empirical evidence\nfor the theory. As such, we utilize a meta-analysis methodology\nthat allows us to aggregate cross-lagged panel ",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [],
+    "regressions": [
+      {
+        "value": "β = 0.143",
+        "context": "s the averaged correlation (r) and true score\ncorrelation (ρ) of interest. For instance, the ρ between motivation\n(T1) and motivation (T2) is 0.80, whereas the ρ between per-\nformance (T1) and performance (T2) is 0.54.\nAs Table 3 presents, overall, work motivation appears to be a\npredictor of job pe",
+        "confidence": 1.0
+      }
+    ],
+    "p_values": [
+      "p < 0.001",
+      "p < 0.01",
+      "p < 0.05",
+      "p = 0.08",
+      "p = 0.13"
+    ],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Literature search. To locate the studies that might include the\ncross-lagged data about work motivation and job performance,\nfollowing early meta-analyses (Neuber et al., 2021; Riketta, 2008;\nVan Iddekinge et al., 2018), the authors searched the following\nkeywords: (a) motivation (motivation or engagement), (b) per-\nformance (performance, job performance, task performance, or\norganization citizenship behavior), and (c) cross-lagged (long-\nitudinal or cross-lagged) utilizing Web of Science and Google\nScholar databases. The authors (W and L) seek to include studies\npublished from 2000 to 2022. The search was conducted in\nJanuary\n2023\nand\nencompassed\nEnglish-language\nresearch\nmaterials. We did not restrict the types of research sources,\nincluding journal articles, book chapters, and dissertations.\nAuthors W and L performed the search using the Title, Abstract,\nand Keywords. After removing duplicates, the authors initially\nobtained 120 potential articles that used longitudinal data.\nInclus",
+    "results_section": "As Table 1 shows, the results suggest there is not a signiﬁcant\npublication bias. First, using the Trim-and-Fill method, only one\nasymmetric effect size was located (i.e., the correlation between\nperformance T1 and performance T2). After inputting this\n“missed” correlation, the averaged correlation only decreased by\n0.02, suggesting the publication bias is not serious. Second, uti-\nlizing the Eggs’ Regression method, all the p-values are bigger\nthan 0.05, conﬁrming the publication bias is not signiﬁcant.\nTogether, the overall publication bias is not serious.\nTable 2 depicts the averaged correlation (r) and true score\ncorrelation (ρ) of interest. For instance, the ρ between motivation\n(T1) and motivation (T2) is 0.80, whereas the ρ between per-\nformance (T1) and performance (T2) is 0.54.\nAs Table 3 presents, overall, work motivation appears to be a\npredictor of job performance, whereas job performance appears\nto be a predictor of work motivation. In particular, the path\ncoefﬁcient (i.e.",
+    "discussion_section": "In this part, we will ﬁrst discuss our ﬁndings. Then, we will\ndiscuss the theoretical and practical implications. Finally, the\nlimitations and future directions will be discussed.\nFindings. To start, we will discuss the magnitude of correlations.\nCohen (2013) suggested that a correlation at 0.1 is small, at 0.3 is\nmedium, whereas at 0.5 is large. Applying this standard, we ﬁnd\nthat the magnitudes of correlations of interest are from medium\nto large. For instance, the ρ between motivation (T1) an"
+  },
+  "NOTES": [
+    "Key predictors identified: training, motivation, leadership, communication, EQ",
+    "Statistics found: 1 regressions, 6 p_values, 2 sample_sizes",
+    "Medium confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 5,
+    "tables_found": 0,
+    "statistical_tables": 0,
+    "predictors_identified": 7,
+    "statistics_extracted": 9,
+    "confidence_level": "medium"
+  }
+}

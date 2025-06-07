@@ -1,0 +1,350 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: The Nexus between Job Burnout and Emotional Intelligence on Turnover Intention in Oil and Gas Comp
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: Not found
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). The Nexus between Job Burnout and Emotional Intelligence on Turnover Intention in Oil and Gas Comp. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): Not specified
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+The results of the ongoing study firstly shows the convergent validity that describes the links among the items. The statistics of loading and AVE are larger than 0.50 while statistics of                 �CR and Alpha are not lower than. 0.70 which shows that there is a high linkage. The output of the current study secondly show the discriminant validity that. describes the link between the items and emotions. The output of the current study secondly show the discriminant validity that describes the                  Nexus among the constructs. The figures of Heterotrait Monotrait ratios are not bigger than 0.90 that show the no high linkage among constructs. The findings of the path analysis show that job burnout, job satisfaction, and emotional intelligence have a positive association with turnover intentions and accept H1, H2, and H3. The figures of Heterotrait Monotrait ratios are not bigger than                 0.90 that show the no high linkage among the constructs.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: intelligence
+   CATEGORY: cognitive_ability
+   CONFIDENCE: 1.0
+   CONTEXT: advantages. There is a deep significance 
+in understanding the relationship and the impact of the IVs and the DVs and the mediating 
+factors of this study. This study shall use a quantitative method of research employing only 
+survey sessions with employees of oil and gas companies in UAE. This will be another 
+theoretical contribution to this subject and will add a new avenue of understanding.  
+
+
+2. PREDICTOR: trait
+   CATEGORY: personality
+   CONFIDENCE: 0.7
+   CONTEXT: EM4 
+0.826 
+  
+  
+  
+ 
+EM5 
+0.808 
+  
+  
+  
+Job Burnout 
+JB1 
+0.800 
+0.872 
+0.908 
+0.663 
+ 
+JB2 
+0.878 
+  
+  
+  
+ 
+JB3 
+0.855 
+  
+  
+  
+ 
+JB4 
+0.757 
+  
+  
+  
+ 
+JB5 
+0.775 
+  
+  
+  
+Job Satisfaction 
+JS1 
+0.816 
+0.861 
+0.900 
+0.642 
+ 
+JS2 
+0.861 
+  
+  
+  
+ 
+JS3 
+0.744 
+  
+  
+  
+ 
+JS4 
+0.743 
+  
+  
+  
+ 
+JS5 
+0.836 
+  
+  
+  
+Turnover 
+Intentions 
+TI1 
+0.796 
+0.849 
+0.898 
+0.689 
+ 
+TI2 
+0.836 
+  
+  
+
+
+3. PREDICTOR: training
+   CATEGORY: education
+   CONFIDENCE: 0.51
+   CONTEXT: better creative ideas to organisations. 
+This, in turn, helps organisations to develop new ways of earning or new ways of 
+strategically completing work. Job satisfaction is an important aspect that is required to be 
+    International Journal of Innovation, Creativity and Change.  www.ijicc.net  
+Volume 13, Issue 11, 2020 
+ 
+362 
+ 
+ 
+ 
+considered by different firms. However, this is needed to be 
+
+4. PREDICTOR: skills
+   CATEGORY: skills
+   CONFIDENCE: 0.81
+   CONTEXT: re of employees to adjust and cope up 
+with the work pressure, which is very high in UAE’s oil and gas industry (Vanda & 
+Haghighi, 2014). Threats to the job and other severe risks are also present in these oil 
+companies. Due to this, job burnout is seen among employees of the UAE’s oil and gas 
+companies.  
+ 
+The reason to include emotional intelligence in this study is justified because it is t
+
+5. PREDICTOR: motivation
+   CATEGORY: motivation
+   CONFIDENCE: 0.81
+   CONTEXT: lay any mediating role 
+between job burnout and turnover intention. Leunissen et al., (2018) believe that job 
+satisfaction at work helps people to develop their self-motivation, which plays an active role 
+in resolving burnout issues and checking the rate of employee turnover. Hence, this study 
+shall examine the mediating role of job satisfaction with variables like job burnout, emotional 
+intel
+
+6. PREDICTOR: emotional intelligence
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 1.0
+   CONTEXT: efits and advantages. There is a deep significance 
+in understanding the relationship and the impact of the IVs and the DVs and the mediating 
+factors of this study. This study shall use a quantitative method of research employing only 
+survey sessions with employees of oil and gas companies in UAE. This will be another 
+theoretical contribution to this subject and will add a new avenue of underst
+
+7. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: les together in relation to employees’ turnover intention. These factors help to 
+understand both motivational and stress factors of workplaces. These factors can offer useful 
+insights to leaders and managers of organisations. Lu et al., (2016) state that, owing to some 
+of these factors, employees in the UAE companies prefer to change their jobs. They receive 
+several kinds of benefits from diff
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+TABLE 2 (Page 15) - TYPE: regression_results
+TABLE CONTENT:
+                    Beta   S.D. t-values p-values
+0        EM -> TI  0.349  0.034   10.365    0.000
+1        JB -> JS  0.433  0.034   12.793    0.000
+2        JB -> TI  0.299  0.035    8.598    0.000
+3        JS -> TI  0.230  0.033    6.873    0.000
+4  JB -> JS -> TI  0.100  0.016    6.241    0.000
+------------------------------
+
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Not identified
+
+RESULTS SECTION EXCERPT:
+The results of the ongoing study firstly shows the convergent validity that describes the links 
+among the items and the statistics of loading and AVE are larger than 0.50 while statistics of 
+CR and Alpha are not lower than 0.70 which shows that there is a high linkage among the 
+items that are highlighted in Table 1 given below: 
+ 
+Table 1: Convergent Validity 
+Constructs 
+Items 
+Loadings 
+Alpha 
+CR 
+AVE 
+Emotions  
+EM1 
+0.807 
+0.840 
+0.893 
+0.676 
+ 
+EM2 
+0.846 
+  
+  
+  
+ 
+EM4 
+0.826 
+  
+  
+  
+ 
+EM5 
+0.808 
+  
+  
+  
+Job Burnout 
+JB1 
+0.800 
+0.872 
+0.908 
+0.663 
+ 
+JB2 
+0.878 
+  
+  
+  
+ 
+JB3 
+0.855 
+  
+  
+  
+ 
+JB4 
+0.757 
+  
+  
+  
+ 
+JB5 
+0.775 
+  
+  
+  
+Job Satisfaction 
+JS1 
+0.816 
+0.861 
+0.900 
+0.642 
+ 
+JS2 
+0.861 
+  
+  
+  
+ 
+JS3 
+0.744 
+  
+  
+  
+ 
+JS4 
+0.743 
+  
+  
+  
+ 
+JS5 
+0.836 
+  
+  
+  
+Turnover 
+Intentions 
+TI1 
+0.796 
+0.849 
+0.898 
+0.689 
+ 
+TI2 
+0.836 
+  
+  
+  
+ 
+TI4 
+0.850 
+  
+  
+  
+ 
+TI5 
+0.835 
+  
+  
+  
+ 
+The output of the current study secondly show the discriminant validi
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: intelligence, trait, training, skills, motivation
+2. Statistical tables: regression_results
+3. Low statistical content found
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: low
+SECTIONS IDENTIFIED: 5
+TABLES FOUND: 3
+STATISTICAL TABLES: 1
+PREDICTORS IDENTIFIED: 7
+STATISTICS EXTRACTED: 0
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================

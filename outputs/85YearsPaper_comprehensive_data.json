@@ -1,0 +1,161 @@
+{
+  "PAPER_METADATA": {
+    "title": "85YearsPaper",
+    "authors": "Local File - Unknown",
+    "year": "Unknown",
+    "journal": "Unknown Journal",
+    "doi": "10.1037//0033-2909.124.2.262",
+    "url": "",
+    "source_database": "Local Storage",
+    "citation_count": 0,
+    "search_query": "existing_papers",
+    "source_apa": "Local File - Unknown (Unknown). 85YearsPaper. Unknown Journal.",
+    "source_link": ""
+  },
+  "STUDY_OVERVIEW": {
+    "study_type": "meta_analysis",
+    "job_domain": "healthcare",
+    "measurement_type": "self_report",
+    "sample_n": ", employees",
+    "sample_context": ""
+  },
+  "PAPER_SUMMARY": "The Validity and Utility of Selection Methods in Personnel Psychology. Practical and Theoretical Implications of 85 Years of Research Findings. Article was published in Psychological Bulletin · September 1998. See discussions, stats, and author profiles for this publication at: https://www.researchgate.net/publication/283803351. This page was uploaded by Frank L. Schmidt on 11 April 2016. The user has requested enhancement of the downloaded file. This article summarizes the practical and theoretical implications of 85 years of research in personnelselection. On the basis of meta-analytic findings, this article presents the validity of 19 selection procedures. This article presents the validity of 19 selection procedures for predicting job performance and training performance. The practical utility implications of these summary findings are substantial. The implica-tions of these research findings for the development of theories of job performance are discussed.",
+  "PREDICTORS_IDENTIFIED": [
+    {
+      "category": "cognitive_ability",
+      "predictor": "GMA",
+      "context": "s individuals\nexert greater efforts and spend more time \"on task.\" This job\nknowledge, in turn, causes higher levels of job performance.\nFrom a theoreticalpoint of view, this research suggests that the\ncentral determiningvariablesinjob performancemay be GMA.\njob experience (i.e., opportunity to learn), and the personality\ntrait of conscientiousness.This is consistentwithour conclusion\nthat a combi",
+      "confidence": 1.0
+    },
+    {
+      "category": "personality",
+      "predictor": "conscientiousness",
+      "context": "task.\" This job\nknowledge, in turn, causes higher levels of job performance.\nFrom a theoreticalpoint of view, this research suggests that the\ncentral determiningvariablesinjob performancemay be GMA.\njob experience (i.e., opportunity to learn), and the personality\ntrait of conscientiousness.This is consistentwithour conclusion\nthat a combinationof a GMA test and an integrity test (which\nmeasures mo",
+      "confidence": 1.0
+    },
+    {
+      "category": "work_experience",
+      "predictor": "job experience",
+      "context": "ffect\nthrough job knowledge (about 30% as large).\nThe major personality trait that has been studied in causal\nmodels of job performance is conscientiousness.This research\nhas found that. controlling for mental ability, employees who\nare higher in conscientiousness develop higher levels of job\nknowledge, probably because highly conscientious individuals\nexert greater efforts and spend more time \"on",
+      "confidence": 0.91
+    },
+    {
+      "category": "education",
+      "predictor": "education",
+      "context": "e figures for\nincrementalvalidityinTable I are affectedby thesecorrelations.\nStandardized regression\nGain in validity\nweights\nfrom adding\n'7c-increase\nPersonnel measures\nValidity (r)\nMultiple R\nsupplement\nin validity\nGMA\nSupplement\nGMA Tests'\n.56\nIntegrity testsb\n.38\n.67\n.11\n20%\n.56\n.38\nConscientiousness\ntestsC\n.30\n.65\n.09\n16%\n.56\n.30\nEmployment interviews\n(structured and unstructured)d\n.35\n.59\n.0",
+      "confidence": 0.9
+    },
+    {
+      "category": "skills",
+      "predictor": "skills",
+      "context": "rmanceis considerablylarger: .33 whenjob\nperformance is measured by supervisory ratings and .47 when\njob performance is measured using a work sample test. These\nresearchers found that the relation is nonlinear: Up to about 5\nyearsofjob experience.job performanceincreases linearlywith\nincreasing experience on thejob. After that, the curve becomes\nincreasingly horizontal. and further increases in jo",
+      "confidence": 0.71
+    },
+    {
+      "category": "communication",
+      "predictor": "expression",
+      "context": "20 range. When the assessees are required to\ncopy the same material from a book to create their handwriting\nsample, there is no evidence that graphologists or nongrapholo-\ngists can infer any valid information about personality traits or\njob performance\nfrom the handwriting samples (Neter & Ben-\nShakhar, 1989). What this indicates is that, contrary to graphol-\n;ogy theory, whatever limited informa",
+      "confidence": 0.61
+    },
+    {
+      "category": "emotional_intelligence",
+      "predictor": "EQ",
+      "context": "asures were estimated from the research literature (often\nfrom meta-analyses): the sources of these estimates are given\nin the notes to Tables 1 and 2. To appropriately represent the\nobservedscorecorrelationsbetweenpredictorsin applicantpop-\nulations, we corrected all correlations between GMA and other\npredictors for range restriction but not for.measurement error\nin the measure of either predicto",
+      "confidence": 0.9
+    },
+    {
+      "category": "job_performance",
+      "predictor": "job performance",
+      "context": ". 1994).\nHence, the sitUation appears to be this: We do not know\nexactly what combination of constructs is measured by methods\nsuch as the assessment center. the interview. and biodata (see\nthe next section). but whatever those combinations are. they do\nnot appear to vary much from one application (stUdy) to another.\nHence. comparisons of their relative incremental validities over\nGMA is in fact m",
+      "confidence": 1.0
+    },
+    {
+      "category": "interview_performance",
+      "predictor": "structured interview",
+      "context": "ls\nexert greater efforts and spend more time \"on task.\" This job\nknowledge, in turn, causes higher levels of job performance.\nFrom a theoreticalpoint of view, this research suggests that the\ncentral determiningvariablesinjob performancemay be GMA.\njob experience (i.e., opportunity to learn), and the personality\ntrait of conscientiousness.This is consistentwithour conclusion\nthat a combinationof a ",
+      "confidence": 1.0
+    },
+    {
+      "category": "assessment_center",
+      "predictor": "AC",
+      "context": "ying and\ndetermining job perfonnance.\nThis change of emphasis is possi-\nble because application\nof meta-analysis\nto research findings\nhas provided the kind of precise and generalizable estimates of\nthe validity of different measured constructs for predicting job\n, performance\nthat are summarized\nin this article.\nIt has also\nprovided more precise estimates\nthan previously available of\nthe correlati",
+      "confidence": 1.0
+    }
+  ],
+  "STATISTICAL_FINDINGS": {
+    "correlations": [
+      {
+        "value": "validity of 19",
+        "context": "12~.No.2. 262-27~\nCopynght\n1998 by the Amencan\nPsychologIcal ASSO<:I.\"on.In<.\n0033-2'!09/9I!1SJ.OO\nThe Validity and Utility of Selection Methods in Personnel Psychology:\nPractical and Theoretical Implications of 85 Years of Research Findings\nFrank L. Schmidt\nUniversity of Iowa\nJohn E. Hunter\nMichiga",
+        "confidence": 1.0
+      },
+      {
+        "value": "validity of .63",
+        "context": "s the practical and theoretical implications of 85 years of research in personnel\nselection. On the basis of meta-analytic findings, this article presents the validity of 19 selection\nprocedures\nfor predicting job performance\nand training performance\nand the validity of paired\ncombinations of genera",
+        "confidence": 1.0
+      },
+      {
+        "value": "validity of .65",
+        "context": "years of research in personnel\nselection. On the basis of meta-analytic findings, this article presents the validity of 19 selection\nprocedures\nfor predicting job performance\nand training performance\nand the validity of paired\ncombinations of general mental ability (GMA) and the 18 other selection p",
+        "confidence": 1.0
+      },
+      {
+        "value": "validity\nof 10",
+        "context": "ict job-\nrelated learning; that is. the acquisition of job knowledge with\nexperience on the job, and the amount learned in training and\ndevelopmentprograms.However.the overallamountof research\non the prediction of learningis less. Formanyof the procedures\nin Table I. there is little research evidenc",
+        "confidence": 1.0
+      },
+      {
+        "value": "validity\nof .63",
+        "context": "have\nvery low validity. Others, such as graphology, have essentially\nno validity; they are equivalent to hiring randomly. Still others,\nsuch as GMA tests and work sample measures, have high valid-\nity. Of the combinations of predictors examined, two stand out\nas being both practical to use for most ",
+        "confidence": 1.0
+      },
+      {
+        "value": "validity of .36",
+        "context": "re time consuming than scoring of most job knowledge tests\nand other tests with clear right and wrong answers. However,\nespecially\nfor higher\nlevel jobs,\nthe behavioral\nconsistency\nmethod may be well worth the cost and effort.\nNo information is available on the validity of the job tryout\nor the beha",
+        "confidence": 0.7
+      },
+      {
+        "value": "validity of .26",
+        "context": "cost and effort.\nNo information is available on the validity of the job tryout\nor the behavioral consistency procedures for predicting perfor-\nmance in training programs. However, as indicated in Table 2,\npeer ratings have been found to predict performance in training\nprograms\nwith a mean validity o",
+        "confidence": 0.7
+      },
+      {
+        "value": "validity of .10",
+        "context": "e T&E point method. It is\nimportantto note that this findingdoes not imply that education\nis irrelevant to occupational success; education is clearly an\nimportant determinant of the level of job the individual can\nobtain. What this findingshows is that among those who 'apply\nto get a particularjob y",
+        "confidence": 0.7
+      }
+    ],
+    "regressions": [],
+    "p_values": [],
+    "r_squared": [],
+    "odds_ratios": []
+  },
+  "TABLES_EXTRACTED": [
+    {
+      "page": 1,
+      "table_index": 1,
+      "table_type": "unknown",
+      "contains_statistics": false,
+      "table_content": "Non-statistical table",
+      "statistical_summary": []
+    }
+  ],
+  "RESEARCH_CONTEXT": {
+    "methods_section": "Not identified",
+    "results_section": "Not identified",
+    "discussion_section": "Not identified"
+  },
+  "NOTES": [
+    "Key predictors identified: GMA, conscientiousness, job experience, education, skills",
+    "Statistics found: 8 correlations, 1 sample_sizes",
+    "Medium confidence in original findings extraction"
+  ],
+  "EXTRACTION_QUALITY": {
+    "sections_found": 1,
+    "tables_found": 1,
+    "statistical_tables": 0,
+    "predictors_identified": 10,
+    "statistics_extracted": 9,
+    "confidence_level": "medium"
+  }
+}

@@ -1,0 +1,145 @@
+====================================================================================================
+COMPREHENSIVE RESEARCH PAPER EXTRACTION FOR AI PROCESSING
+====================================================================================================
+
+📄 PAPER METADATA (WEB + PDF EXTRACTION)
+--------------------------------------------------
+TITLE: 2019inpact040
+AUTHORS: Local File - Unknown
+YEAR: Unknown
+JOURNAL/VENUE: Unknown Journal
+DOI: 10.36315/2019inpact040
+URL: 
+SOURCE DATABASE: Local Storage
+CITATION COUNT: 0
+SEARCH QUERY: existing_papers
+APA CITATION: Local File - Unknown (Unknown). 2019inpact040. Unknown Journal.
+LOCAL PATH: 
+
+🔬 STUDY CHARACTERISTICS
+--------------------------------------------------
+STUDY TYPE: meta_analysis
+JOB DOMAIN: healthcare
+MEASUREMENT TYPE: self_report
+SAMPLE SIZE (N): n = 13
+SAMPLE CONTEXT: 
+
+📋 PAPER SUMMARY
+--------------------------------------------------
+The study aimed to examine the relationship between personality traits according to the Six Factor Personality Inventory (HEXACO), and job performance and job satisfaction. A total of 852 people                  (433 women and 419 men) from 154 different professions participated in the study. To predict job performance and job satisfaction, the data was analyzed by multiple linear regression. The sub-dimensions of Modesty, Fairness, Social                  Self-Esteem, Liveliness, Perfectionism, Diligence and the factors of Extraversion, Conscientiousness                 predicted job performance. Job performance groups differed in the factors of Honesty-Humility, Extraversion, Conscientiousness, Openness to Experience, and job satisfaction groups. As for the sub-dimensions, groups that were high in job performance andJob satisfaction differed from the groups that were low in many personality traits.
+
+🎯 JOB PERFORMANCE PREDICTORS IDENTIFIED
+--------------------------------------------------
+1. PREDICTOR: personality
+   CATEGORY: personality
+   CONFIDENCE: 0.9
+   CONTEXT: was analyzed by multiple linear 
+regressions. Social Self-Esteem, Liveliness, Perfectionism, Diligence sub-dimensions were found 
+effective in predicting job performance and Modesty, Liveliness, Social Boldness, Forgiveness, Patience, 
+Diligence sub-dimensions were found effective in predicting job satisfaction. Models generated to predict 
+job performance (R2 = 0.140, F24, 851 = 5.588, p < 0.001)
+
+2. PREDICTOR: university
+   CATEGORY: education
+   CONFIDENCE: 0.7
+   CONTEXT: ccording to the evaluations they made about their job performance and job 
+satisfaction levels. 
+ 
+2. Methods 
+ 
+2.1. Participants 
+A total of 852 people working at a job for a year or longer and working in 154 different 
+professions, 433 women (50.8%) and 419 men (49.2%) participated in the study. Their age range was 
+between 20 and 74 (mean = 37.36, sd = 10.73), and they worked at a job for a pe
+
+3. PREDICTOR: EQ
+   CATEGORY: emotional_intelligence
+   CONFIDENCE: 0.9
+   CONTEXT: f the Turkish adaptation showed internal consistency coefficients ranging from 0.72 to 0.78 for six 
+factors and from 0.29 to 0.77 for 24 sub-dimensions (Tatar, 2018). 
+ 
+2.3. Application 
+The study was conducted in Istanbul with those who voluntarily accepted to participate. It took 
+20-30 minutes for a person to complete the form. All applications were completed in nearly one year. 
+ 
+2.4. Resul
+
+4. PREDICTOR: job performance
+   CATEGORY: job_performance
+   CONFIDENCE: 1.0
+   CONTEXT: t of Psychology, FSM Vakıf University / Associate Professor (Turkey) 
+2Psychologist (Turkey) 
+ 
+ 
+ 
+Abstract 
+ 
+The study aimed to examine the relationship between personality traits according to the Six Factor 
+Personality Inventory (HEXACO), and job performance and job satisfaction. A total of 852 people  
+(433 women and 419 men) from 154 different professions participated in the study. The age 
+
+5. PREDICTOR: AC
+   CATEGORY: assessment_center
+   CONFIDENCE: 1.0
+   CONTEXT: ersity / Associate Professor (Turkey) 
+2Psychologist (Turkey) 
+ 
+ 
+ 
+Abstract 
+ 
+The study aimed to examine the relationship between personality traits according to the Six Factor 
+Personality Inventory (HEXACO), and job performance and job satisfaction. A total of 852 people  
+(433 women and 419 men) from 154 different professions participated in the study. The age range of the 
+participants was 
+
+📊 ORIGINAL STATISTICAL FINDINGS
+--------------------------------------------------
+P-VALUES: p < 0.001, p<0.05, p<0.01, p<0.001
+R-SQUARED VALUES: R2 = 0.140, R2 = 0.100, R2 = 0
+
+📈 STATISTICAL TABLES EXTRACTED
+--------------------------------------------------
+TABLE 1 (Page 2) - TYPE: regression_results
+TABLE CONTENT:
+                  Factors Alpha Job Performance      None Job Satisfaction      None
+0                    None  None               β         t                β         t
+1                Constant                        7.825***                   3.818***
+2        Honesty-Humility  0.74          -0.060    -1.716            0.008     0.218
+3            Emotionality  0.71          -0.052    -1.544            0.003     0.081
+4            Extraversion  0.77           0.132  3.721***            0.142  3.902***
+5           Agreeableness  0.74           0.045     1.320            0.146  4.239***
+6       Conscientiousness  0.75           0.224  6.495***            0.088    2.497*
+7  Openness to Experience  0.74           0.035     1.001            0.011     0.318
+------------------------------
+
+🔍 RESEARCH CONTEXT FOR AI ANALYSIS
+--------------------------------------------------
+METHODS SECTION EXCERPT:
+Not identified
+
+RESULTS SECTION EXCERPT:
+Not identified
+
+DISCUSSION SECTION EXCERPT:
+Not identified
+
+📝 IMPORTANT NOTES FOR AI PROCESSING
+--------------------------------------------------
+1. Key predictors identified: personality, university, EQ, job performance, AC
+2. Statistics found: 4 p_values, 3 r_squared, 1 sample_sizes
+3. Statistical tables: regression_results
+4. Medium confidence in original findings extraction
+
+✅ EXTRACTION QUALITY INDICATORS
+--------------------------------------------------
+CONFIDENCE LEVEL: medium
+SECTIONS IDENTIFIED: 2
+TABLES FOUND: 2
+STATISTICAL TABLES: 1
+PREDICTORS IDENTIFIED: 5
+STATISTICS EXTRACTED: 8
+
+====================================================================================================
+END OF EXTRACTION - READY FOR AI ANALYSIS
+====================================================================================================
